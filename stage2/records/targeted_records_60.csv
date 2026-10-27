@@ -1,0 +1,61 @@
+arxiv_id,title,first_submitted,queries
+2201.04642,Consensus between Epistemic Agents is Difficult,2022-01-12,MemOnt-1
+2210.17330,Flexible categorization for auditing using formal concept analysis and Dempster-Shafer theory,2022-10-31,FCA-1
+2309.12562,Cognitive Approach to Hierarchical Task Selection for Human-Robot Interaction in Dynamic Environments,2023-09-22,MemOnt-1
+2312.12010,Outlier detection using flexible categorisation and interrogative agendas,2023-12-19,FCA-1
+2409.19006,Towards Automated Patent Workflows: AI-Orchestrated Multi-Agent Framework for Intellectual Property Management and Analysis,2024-09-21,VerKG-2
+2412.12513,Generating Move Smart Contracts based on Concepts,2024-12-17,VerKG-2
+2502.10420,Position: Stop Acting Like Language Model Agents Are Normal Agents,2025-02-04,MemOnt-1
+2503.13194,A representational framework for learning and encoding structurally enriched trajectories in complex agent environments,2025-03-17,MemOnt-1
+2504.08778,From Tokens to Lattices: Emergent Lattice Structures in Language Models,2025-04-04,FCA-1; FCA-2
+2504.14845,Enhancing the Patent Matching Capability of Large Language Models via the Memory Graph,2025-04-21,MemOnt-2
+2505.06599,Bridging the Gap: An Intermediate Language for Enhanced and Cost-Effective Grapheme-to-Phoneme Conversion with Homographs with Multiple Pronunciations Disambiguation,2025-05-10,FCA-1
+2505.21969,DORAEMON: Decentralized Ontology-aware Reliable Agent with Enhanced Memory Oriented Navigation,2025-05-28,MemOnt-1
+2508.02999,"AGENTiGraph: A Multi-Agent Knowledge Graph Framework for Interactive, Domain-Specific LLM Chatbots",2025-08-05,VerKG-2
+2508.09893,RAGulating Compliance: A Multi-Agent Knowledge Graph for Regulatory QA,2025-08-13,VerKG-2
+2508.17906,FinReflectKG: Agentic Construction and Evaluation of Financial Knowledge Graphs,2025-08-25,VerKG-2
+2509.01716,An LLM-enabled semantic-centric framework to consume privacy policies,2025-09-01,VerKG-2
+2509.16330,Generalizability of Large Language Model-Based Agents: A Comprehensive Survey,2025-09-19,MemOnt-1
+2510.01724,MetaboT: An LLM-based Multi-Agent Frameworkfor Interactive Analysis of Mass SpectrometryMetabolomics Knowledge Graphs,2025-10-02,VerKG-2
+2510.09156,Agentic-KGR: Co-evolutionary Knowledge Graph Construction through Multi-Agent Reinforcement Learning,2025-10-10,MemOnt-1
+2510.15952,Executable Epistemology: The Structured Cognitive Loop as an Architecture of Intentional Understanding,2025-10-10,MemOnt-1
+2510.13363,D-SMART: Enhancing LLM Dialogue Consistency via Dynamic Structured Memory And Reasoning Tree,2025-10-15,MemOnt-3
+2510.19227,A Design Science Blueprint for an Orchestrated AI Assistant in Doctoral Supervision,2025-10-22,VerKG-1
+2510.20345,LLM-empowered knowledge graph construction: A survey,2025-10-23,MemOnt-1
+2512.11835,A Monad-Based Clause Architecture for Artificial Age Score (AAS) in Large Language Models,2025-12-03,MemOnt-1
+2512.20275,Graph-Symbolic Policy Enforcement and Control (G-SPEC): A Neuro-Symbolic Framework for Safe Agentic AI in 5G Autonomous Networks,2025-12-23,VerKG-1; VerKG-2
+2601.01844,Clinical Knowledge Graph Construction and Evaluation with Multi-LLMs via Retrieval-Augmented Generation,2026-01-05,VerKG-2
+2601.04878,Higher-Order Knowledge Representations for Agentic Scientific Reasoning,2026-01-08,VerKG-1
+2601.12580,Semantic Fusion: Verifiable Alignment in Decentralized Multi-Agent Systems,2026-01-18,MemOnt-1
+2602.01933,Large Language Model and Formal Concept Analysis: a comparative study for Topic Modeling,2026-02-02,FCA-1
+2602.16716,Contextual Information Allocation in Shared-State Cognitive Models: An Information-Theoretic Bound,2026-02-03,MemOnt-1
+2602.13319,Situation Graph Prediction for User Perspective Modeling,2026-02-10,MemOnt-1
+2602.18494,On the Dynamics of Observation and Semantics,2026-02-14,MemOnt-1
+2603.01227,The Lattice Representation Hypothesis of Large Language Models,2026-03-01,FCA-1; FCA-2
+2603.04740,Memory as Ontology: A Constitutional Memory Architecture for Persistent Digital Citizens,2026-03-05,MemOnt-1
+2603.07896,SMGI: A Structural Theory of General Artificial Intelligence,2026-03-09,MemOnt-1
+2604.03588,Rashomon Memory: Towards Argumentation-Driven Retrieval for Multi-Perspective Agent Memory,2026-04-04,MemOnt-1
+2604.12177,Policy-Invisible Violations in LLM-Based Agents,2026-04-14,VerKG-2
+2604.14362,APEX-MEM: Agentic Semi-Structured Memory with Temporal Reasoning for Long-Term Conversational AI,2026-04-15,MemOnt-1
+2604.18478,WorldDB: A Vector Graph-of-Worlds Memory Engine with Ontology-Aware Write-Time Reconciliation,2026-04-20,MemOnt-1
+2604.20795,"Automatic Ontology Construction Using LLMs as an External Layer of Memory, Verification, and Planning for Hybrid Intelligent Systems",2026-04-22,MemOnt-1; MemOnt-2; MemOnt-3
+2604.23802,EndoGov: A knowledge-governed multi-agent expert system for endometrial cancer risk stratification,2026-04-26,VerKG-2
+2604.24807,From Prototype to Classroom: An Intelligent Tutoring System for Quantum Education,2026-04-27,VerKG-2
+2605.16309,ANNEAL: Adapting LLM Agents via Governed Symbolic Patch Learning,2026-05-04,VerKG-1
+2605.04003,"Physics-Grounded Multi-Agent Architecture for Traceable, Risk-Aware Human-AI Decision Support in Manufacturing",2026-05-05,VerKG-2
+2605.06434,"Knowledge Graphs, the Missing Link in Agentic AI-based Formal Verification",2026-05-07,VerKG-2
+2605.16714,GRID: Graph Representation of Intelligence Data for Security Text Knowledge Graph Construction,2026-05-15,MemOnt-1
+2605.19735,ContextRAG: Extraction-Free Hierarchical Graph Construction for Retrieval-Augmented Generation,2026-05-19,FCA-1
+2605.30169,Dissociative Identity: Language Model Agents Lack Grounding for Reputation Mechanisms,2026-05-28,MemOnt-1
+2606.08477,A Variability-Based Framework for Interpretable Naming in Formal and Relational Concept Analysis,2026-06-07,FCA-1
+2606.11686,"Layer-Isolated Evaluation: Gating the Deterministic Scaffold of a Production LLM Agent with a No-LLM, Regression-Locked Test Harness",2026-06-10,MemOnt-1
+2606.17203,Trust-Aware Multi-Agent Traceability: Confidence-Calibrated Knowledge Graphs for Consistent Software Artifact Management,2026-06-15,VerKG-2
+2606.25622,Probabilistic Agents in Deterministic Audits: Evaluating Multi-Agent Systems for Automated Audits Based on the German IT-Grundschutz,2026-06-24,VerKG-2
+2607.01773,Verifiable Knowledge Expansion through Retrieval-Grounded Formal Concept Analysis,2026-07-02,FCA-1
+2607.04391,Memory-Orchestrated Semantic System (MOSS): An Auditable Agentic Memory Architecture,2026-07-05,MemOnt-1; MemOnt-2
+2607.08288,From Legacy Documentation to OSCAL: An MCP-Based Agent Pipeline for Threat-Informed Continuous Compliance in Critical Infrastructure,2026-07-09,VerKG-2
+2607.28692,SciToolAgent-Evo: An Ontology-Aware Self-Evolving Agent for Open-World Scientific Tool Acquisition,2026-07-30,MemOnt-1
+2608.06110,"ECHO: A Locally-Deployable Agentic Health Assistant with Temporal Memory, Safety Guardrails, and Speech Assessment",2026-08-06,VerKG-2
+2608.13662,Ontology-Grounded Project Memory for Coding Agents,2026-08-13,MemOnt-1
+2609.09895,Can We Trust Video Hallucination Detectors? VidHalLoc for Evaluating the Evaluators,2026-09-09,MemOnt-1
+2609.26175,EADC: Evaluation of Advanced and Deep-level Compliance in Large Language Models,2026-09-22,VerKG-2

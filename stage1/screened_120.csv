@@ -1,0 +1,121 @@
+name,title,year_first_public
+Conformal TL planning,Conformal Temporal Logic Planning Using Large Language Models,2023
+LLM+P,LLM+P: Empowering Large Language Models with Optimal Planning Proficiency,2023
+LLM-DP,Dynamic Planning with a LLM,2023
+Anticipate&Act,Anticipate & Act: Integrating LLMs and Classical Planning for Efficient Task Execution in Household Environments,2024
+Formal-LLM,Formal-LLM: Integrating Formal Language and Natural Language for Controllable LLM-based Agents,2024
+Teriyaki,A Framework for Neurosymbolic Robot Action Planning Using Large Language Models,2024
+TwoStep,TwoStep: Multi-agent Task Planning Using Classical Planners and Large Language Models,2024
+LLM heuristics,Classical Planning with LLM-Generated Heuristics: Challenging the State of the Art with Python Code,2025
+LaMMA-P,LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner,2025
+MDPs via logic programs,Automated Generation of MDPs Using Logic Programming and LLMs,2025
+Multi-level decomposition,Fast and Accurate Task Planning Using Neuro-Symbolic Language Models and Multi-level Goal Decomposition,2025
+Plan-to-Kripke check,Bridging LLM Planning Agents and Formal Methods: A Case Study in Plan Verification,2025
+SMT travel planning,Large Language Models Can Solve Real-World Planning Rigorously with Formal Verification Tools,2025
+Evolved heuristics,LLM-Evolved Domain-Independent Heuristics for Symbolic AI Planning,2026
+Graph-informed actions,Embodied Task Planning via Graph-Informed Action Generation with LLMs,2026
+HTN heuristics,Hierarchical Task Network Planning with LLM-Generated Heuristics,2026
+KGLAMP,KGLAMP: Knowledge Graph-guided Language Model for Adaptive Multi-robot Planning,2026
+NeSy embodied agents,Neurosymbolic Embodied Agents,2026
+SCLPlan,Constrained Natural Language Action Planning for Resilient Embodied Systems,2026
+Code-as-Symbolic-Planner,Code-as-Symbolic-Planner: Foundation Model-Based Robot Planning via Symbolic Code Generation,2025
+Gideon,Achieving Scalable Robot Autonomy via Neurosymbolic Planning Using Lightweight Local LLM,2025
+PDDL-INSTRUCT,Teaching LLMs to Plan: Logical Chain-of-Thought Instruction Tuning for Symbolic Planning,2025
+NeSyFS,NeSyFS: A Neuro-symbolic Fast-Slow Thinking Framework under Partial Observability,2026
+SymPlan,"Plan Right, Then Plan Tight: Symbolic RL for Efficient Embodied Reasoning",2026
+LLM-built world models,Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning,2023
+Ada,Learning Adaptive Planning Representations with Natural Language Guidance,2024
+AutoTAMP,AutoTAMP: Autoregressive Task and Motion Planning with LLMs as Translators and Checkers,2024
+Generalized planning,Generalized Planning in PDDL Domains with Pretrained Large Language Models,2024
+Recover,Recover: A Neuro-Symbolic Framework for Failure Detection and Recovery,2024
+Agent2World,Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent Feedback,2025
+End-to-end PDDL,End-to-end PDDL Planning with Hardcoded and Dynamic Agents,2025
+KG-RAG + verification,Hierarchical Planning for Complex Tasks with Knowledge Graph-RAG and Symbolic Verification,2025
+LLM-KGPlan,LLM-KGPlan: Long-Horizon Task Planning via Knowledge-Guided Reasoning,2025
+Metagent-P,Metagent-P: A Neuro-Symbolic Planning Agent with Metacognition for Open Worlds,2025
+NS task replanning,Neuro-Symbolic Task Replanning Using Large Language Models,2025
+Reinforced NeSy planning,Breaking the Self-Evaluation Barrier: Reinforced Neuro-Symbolic Planning with Large Language Models,2025
+SPAR,SPAR: Scalable LLM-based PDDL Domain Generation for Aerial Robotics,2025
+As You Wish,As You Wish: Mission Planning with Formal Verification Using LLMs in Precision Agriculture,2026
+DUPLEX,DUPLEX: Agentic Dual-System Planning via LLM-Driven Information Extraction,2026
+GraphThink,GraphThink: Graph-Enhanced LLM Thinking for Long-Horizon Embodied Task Planning,2026
+Hierarchical multi-robot planner,Hierarchical LLM-Based Multi-Agent Framework with Prompt Optimization for Multi-Robot Task Planning,2026
+Industrial DT planning,Agentic Neuro-Symbolic Planning and Commissioning for Industrial Robotics with Digital Twins,2026
+LLM-Flax,LLM-Flax: Generalizable Robotic Task Planning via Neuro-Symbolic Approaches,2026
+NS hierarchical learning,Neuro-symbolic Hierarchical Learning for Long-Horizon Robotic Tasks,2026
+Novelty adaptation,Novelty Adaptation Through Hybrid Large Language Model (LLM)-Symbolic Planning and LLM-guided Reinforcement Learning,2026
+PDDLCoder,PDDLCoder: Agentic PDDL Generation for LLM-Assisted Symbolic Planning,2026
+Planner-in-the-loop PDDL,Toward Secure and Reliable PDDL Formalization of LLMs with Planner-in-the-Loop Feedback,2026
+Proposals+verification,Robot Planning via LLM Proposals and Symbolic Verification,2026
+Symbolic-feedback refinement,Towards Reliable and Robust LLM Planning: A Symbolic Feedback-Driven Iterative Self-Refinement Framework,2026
+Trained orchestrator,Training the Orchestrator: A Supervised Approach to End-to-End PDDL Planning with LLM Agents,2026
+LLM-to-TL (grammar),"Seeing, Saying, Solving: An LLM-to-TL Framework for Cooperative Robots",2025
+Self-constrained LTL,Linear Temporal Logic Translation via Human-Inspired Self-Constrained Reasoning,2026
+SymAgent,SymAgent: A Neural-Symbolic Self-Learning Agent Framework for Complex Reasoning over Knowledge Graphs,2025
+OaK dynamic ontology,Toward Effective and Reliable LLM Agents via Dynamic Ontology,2026
+KG-Agent,KG-Agent: An Efficient Autonomous Agent Framework for Complex Reasoning over Knowledge Graph,2024
+Optimus-1,Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks,2024
+Reasoning on Graphs,Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning,2024
+Think-on-Graph,Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph,2024
+MemQ,Memory-augmented Query Reconstruction for LLM-based Knowledge Graph Reasoning,2025
+MemoTime,MemoTime: Memory-Augmented Temporal Knowledge Graph Enhanced LLM Reasoning,2025
+SimGRAG,SimGRAG: Leveraging Similar Subgraphs for Knowledge Graph-Driven Retrieval-Augmented Generation,2025
+CLAUSE,CLAUSE: Agentic Neuro-Symbolic Knowledge Graph Reasoning via Dynamic Learnable Context Engineering,2026
+MemGraphRAG,MemGraphRAG: Memory-based Multi-Agent System for Graph Retrieval-Augmented Generation,2026
+NeuSymMS,NeuSymMS: A Hybrid Neuro-Symbolic Memory System for LLM Agents,2026
+Selective forgetting,Selective Forgetting: A Graph-Based Memory Framework for Long-Term LLM Agents,2026
+Voyager skill library,Voyager: An Open-Ended Embodied Agent with Large Language Models,2023
+EMG-RAG,Crafting Personalized Agents through Retrieval-Augmented Generation on Editable Memory Graphs,2024
+AriGraph,AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents,2025
+Cognitive Weave,Cognitive Weave: Synthesizing Abstracted Knowledge with a Spatio-Temporal Resonance Graph,2025
+DAMCS,LLM-Powered Decentralized Generative Agents with Adaptive Hierarchical Knowledge Graph for Cooperative Planning,2025
+G-Memory,G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems,2025
+HyperGraphRAG,HyperGraphRAG: Retrieval-Augmented Generation via Hypergraph-Structured Knowledge Representation,2025
+LiCoMemory,LiCoMemory: Lightweight and Cognitive Agentic Memory for Efficient Long-Term Reasoning,2025
+Mem0 (graph variant),Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory,2025
+MemLLM,MemLLM: Finetuning LLMs to Use an Explicit Read-Write Memory,2025
+PersonalAI,PersonalAI: A Systematic Comparison of Knowledge Graph Storage and Retrieval Approaches for Personalized LLM Agents,2025
+TReMu,TReMu: Neuro-Symbolic Temporal Reasoning for LLM-Agents with Memory in Multi-Session Dialogues,2025
+Trainable graph memory,From Experience to Strategy: Empowering LLM Agents with Trainable Graph Memory,2025
+Zep/Graphiti,Zep: A Temporal Knowledge Graph Architecture for Agent Memory,2025
+Adaptive structures,Choosing How to Remember: Adaptive Memory Structures for LLM Agents,2026
+Atom-to-community,From Atom to Community: Structured and Evolving Agent Memory,2026
+GAM,GAM: Hierarchical Graph-based Agentic Memory for LLM Agents,2026
+MAGMA,MAGMA: A Multi-Graph based Agentic Memory Architecture,2026
+MRAgent,"Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents",2026
+Multimodal NeSy memory,Advancing Multimodal Agent Reasoning with Long-Term Neuro-Symbolic Memory,2026
+SYNAPSE,SYNAPSE: Episodic-Semantic Memory via Spreading Activation,2026
+VIRF,Grounding Generative Planners in Verifiable Logic: A Hybrid Architecture for Trustworthy Embodied AI,2026
+Dual (feasibility) memory,Aligning Progress and Feasibility: A Neuro-Symbolic Dual Memory Framework,2026
+NeMo Guardrails,NeMo Guardrails: A Toolkit for Controllable and Safe LLM Applications with Programmable Rails,2023
+GuardAgent,GuardAgent: Safeguard LLM Agents via Knowledge-Enabled Reasoning,2024
+CaMeL,Defeating Prompt Injections by Design,2025
+MCP schema guardrails,Establishing Guardrails for AI Tool Use: Formal Safety Constraints Using MCP Schemas,2025
+Pro2Guard,Proactive Runtime Enforcement of LLM Agent Safety via Probabilistic Model Checking,2025
+SELP,SELP: Generating Safe and Efficient Task Plans for Robot Agents with Large Language Models,2025
+ShieldAgent,ShieldAgent: Shielding Agents via Verifiable Safety Policy Reasoning,2025
+Temporal assertions (ADK),An Approach to Checking Correctness for Agentic Systems,2025
+Verified code reasoning,Towards Verified Code Reasoning by LLMs,2025
+AgentLTL,"AgentLTL: A Trace-Verification Framework for Measuring, Enforcing, and Training Procedural Compliance in Tool-Using LLM Agents",2026
+AgentSpec,AgentSpec: Customizable Runtime Enforcement for Safe and Reliable LLM Agents,2026
+AutoSpec (ILP),AutoSpec: Safety Rule Evolution for LLM Agents via Inductive Logic Programming,2026
+Causal past logic RV,Causal Past Logic for Runtime Verification of Distributed LLM Agent Workflows,2026
+Contract2Tool,Contract2Tool: Learning Preconditions and Effects for Reliable Tool-Augmented LLM Agents,2026
+Datalog PEPs,Formal Policy Enforcement for Real-World Agentic Systems,2026
+FM auditing/monitoring,"Formal Methods Meet LLMs: Auditing, Monitoring, and Intervention",2026
+FormalJudge,FormalJudge: A Neuro-Symbolic Paradigm for Agentic Oversight,2026
+MCP runtime enforcement,Runtime Policy Enforcement for MCP-Based LLM Agents,2026
+Ontology-derived invariants,Provably Auditable and Safe LLM Agents from Human-Authored Ontologies,2026
+Provable guardrail,Provably Secure Agent Guardrail,2026
+STEAD verification,Formal Verification of Agentic Systems over Operational Data,2026
+Temporal guardrails,Temporal Guardrails for LLM Conversations: A Runtime Verification Framework,2026
+ToolGate,ToolGate: Contract-Grounded and Verified Tool Execution for LLMs,2026
+VerAct,VerAct: A Two-Layer Architecture for Provably Safe LLM Agent Planning,2026
+Executable governance,Executable Governance for AI: Translating Policies into Rules Using LLMs,2025
+Safety Chip,Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents,2024
+LTLCrit,Embodied LLM Agents through Temporal Logic Based Critics (LTLCrit),2025
+PAT-Agent,PAT-Agent: Autoformalization for Model Checking,2025
+VeriGuard,VeriGuard: Enhancing LLM Agent Safety via Verified Code Generation,2025
+VeriPlan,VeriPlan: Integrating Formal Verification and LLMs into End-User Planning,2025
+Agentic model checking,Agentic Model Checking,2026
+SMT compliance,Solver-Aided Verification of Policy Compliance in Tool-Augmented LLM Agents,2026

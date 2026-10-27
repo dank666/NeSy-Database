@@ -1,0 +1,854 @@
+{
+ "queries": [
+  {
+   "name": "FCA-1",
+   "query": "abs:\"formal concept analysis\" AND (abs:LLM OR abs:\"language model\" OR abs:agent OR abs:agents)",
+   "date_filter": "submittedDate:[202201010000 TO 202609252359]",
+   "total": 9,
+   "records": [
+    {
+     "id": "2210.17330",
+     "title": "Flexible categorization for auditing using formal concept analysis and Dempster-Shafer theory",
+     "abstract": "Categorization of business processes is an important part of auditing. Large amounts of transnational data in auditing can be represented as transactions between financial accounts using weighted bipartite graphs. We view such bipartite graphs as many-valued formal contexts, which we use to obtain explainable categorization of these business processes in terms of financial accounts involved in a business process by using methods in formal concept analysis. The specific explainability feature of the methodology introduced in the present paper provides several advantages over e.g.~non-explainable machine learning techniques, and in fact, it can be taken as a basis for the development of algorithms which perform the task of clustering on transparent and accountable principles. Here, we focus on obtaining and studying different ways to categorize according to different extents of interest in different financial accounts, or interrogative agendas, of various agents or sub-tasks in audit. We use Dempster-Shafer mass functions to represent agendas showing different interest in different set of financial accounts. We propose two new methods to obtain categorizations from these agendas. We also model some possible deliberation scenarios between agents with different interrogative agendas to reach an aggregated agenda and categorization. The framework developed in this paper provides a formal ground to obtain and study explainable categorizations from the data represented as bipartite graphs according to the agendas of different agents in an organization (e.g.~an audit firm), and interaction between these through deliberation.",
+     "published": "2022-10-31",
+     "authors": [
+      "Marcel Boersma",
+      "Krishna Manoorkar",
+      "Alessandra Palmigiano",
+      "Mattia Panettiere",
+      "Apostolos Tzimoulis",
+      "Nachoem Wijnberg"
+     ]
+    },
+    {
+     "id": "2312.12010",
+     "title": "Outlier detection using flexible categorisation and interrogative agendas",
+     "abstract": "Categorization is one of the basic tasks in machine learning and data analysis. Building on formal concept analysis (FCA), the starting point of the present work is that different ways to categorize a given set of objects exist, which depend on the choice of the sets of features used to classify them, and different such sets of features may yield better or worse categorizations, relative to the task at hand. In their turn, the (a priori) choice of a particular set of features over another might be subjective and express a certain epistemic stance (e.g. interests, relevance, preferences) of an agent or a group of agents, namely, their interrogative agenda. In the present paper, we represent interrogative agendas as sets of features, and explore and compare different ways to categorize objects w.r.t. different sets of features (agendas). We first develop a simple unsupervised FCA-based algorithm for outlier detection which uses categorizations arising from different agendas. We then present a supervised meta-learning algorithm to learn suitable (fuzzy) agendas for categorization as sets of features with different weights or masses. We combine this meta-learning algorithm with the unsupervised outlier detection algorithm to obtain a supervised outlier detection algorithm. We show that these algorithms perform at par with commonly used algorithms for outlier detection on commonly used datasets in outlier detection. These algorithms provide both local and global explanations of their results.",
+     "published": "2023-12-19",
+     "authors": [
+      "Marcel Boersma",
+      "Krishna Manoorkar",
+      "Alessandra Palmigiano",
+      "Mattia Panettiere",
+      "Apostolos Tzimoulis",
+      "Nachoem Wijnberg"
+     ]
+    },
+    {
+     "id": "2504.08778",
+     "title": "From Tokens to Lattices: Emergent Lattice Structures in Language Models",
+     "abstract": "Pretrained masked language models (MLMs) have demonstrated an impressive capability to comprehend and encode conceptual knowledge, revealing a lattice structure among concepts. This raises a critical question: how does this conceptualization emerge from MLM pretraining? In this paper, we explore this problem from the perspective of Formal Concept Analysis (FCA), a mathematical framework that derives concept lattices from the observations of object-attribute relationships. We show that the MLM's objective implicitly learns a \\emph{formal context} that describes objects, attributes, and their dependencies, which enables the reconstruction of a concept lattice through FCA. We propose a novel framework for concept lattice construction from pretrained MLMs and investigate the origin of the inductive biases of MLMs in lattice structure learning. Our framework differs from previous work because it does not rely on human-defined concepts and allows for discovering \"latent\" concepts that extend beyond human definitions. We create three datasets for evaluation, and the empirical results verify our hypothesis.",
+     "published": "2025-04-04",
+     "authors": [
+      "Bo Xiong",
+      "Steffen Staab"
+     ]
+    },
+    {
+     "id": "2505.06599",
+     "title": "Bridging the Gap: An Intermediate Language for Enhanced and Cost-Effective Grapheme-to-Phoneme Conversion with Homographs with Multiple Pronunciations Disambiguation",
+     "abstract": "Grapheme-to-phoneme (G2P) conversion for Persian presents unique challenges due to its complex phonological features, particularly homographs and Ezafe, which exist in formal and informal language contexts. This paper introduces an intermediate language specifically designed for Persian language processing that addresses these challenges through a multi-faceted approach. Our methodology combines two key components: Large Language Model (LLM) prompting techniques and a specialized sequence-to-sequence machine transliteration architecture. We developed and implemented a systematic approach for constructing a comprehensive lexical database for homographs with multiple pronunciations disambiguation often termed polyphones, utilizing formal concept analysis for semantic differentiation. We train our model using two distinct datasets: the LLM-generated dataset for formal and informal Persian and the B-Plus podcasts for informal language variants. The experimental results demonstrate superior performance compared to existing state-of-the-art approaches, particularly in handling the complexities of Persian phoneme conversion. Our model significantly improves Phoneme Error Rate (PER) metrics, establishing a new benchmark for Persian G2P conversion accuracy. This work contributes to the growing research in low-resource language processing and provides a robust solution for Persian text-to-speech systems and demonstrating its applicability beyond Persian. Specifically, the approach can extend to languages with rich homographic phenomena such as Chinese and Arabic",
+     "published": "2025-05-10",
+     "authors": [
+      "Abbas Bertina",
+      "Shahab Beirami",
+      "Hossein Biniazian",
+      "Elham Esmaeilnia",
+      "Soheil Shahi",
+      "Mahdi Pirnia"
+     ]
+    },
+    {
+     "id": "2602.01933",
+     "title": "Large Language Model and Formal Concept Analysis: a comparative study for Topic Modeling",
+     "abstract": "Topic modeling is a research field finding increasing applications: historically from document retrieving, to sentiment analysis and text summarization. Large Language Models (LLM) are currently a major trend in text processing, but few works study their usefulness for this task. Formal Concept Analysis (FCA) has recently been presented as a candidate for topic modeling, but no real applied case study has been conducted. In this work, we compare LLM and FCA to better understand their strengths and weakneses in the topic modeling field. FCA is evaluated through the CREA pipeline used in past experiments on topic modeling and visualization, whereas GPT-5 is used for the LLM. A strategy based on three prompts is applied with GPT-5 in a zero-shot setup: topic generation from document batches, merging of batch results into final topics, and topic labeling. A first experiment reuses the teaching materials previously used to evaluate CREA, while a second experiment analyzes 40 research articles in information systems to compare the extracted topics with the underling subfields.",
+     "published": "2026-02-02",
+     "authors": [
+      "Fabrice Boissier",
+      "Monica Sen",
+      "Irina Rychkova"
+     ]
+    },
+    {
+     "id": "2603.01227",
+     "title": "The Lattice Representation Hypothesis of Large Language Models",
+     "abstract": "We propose the Lattice Representation Hypothesis of large language models: a symbolic backbone that grounds conceptual hierarchies and logical operations in embedding geometry. Our framework unifies the Linear Representation Hypothesis with Formal Concept Analysis (FCA), showing that linear attribute directions with separating thresholds induce a concept lattice via half-space intersections. This geometry enables symbolic reasoning through geometric meet (intersection) and join (union) operations, and admits a canonical form when attribute directions are linearly independent. Experiments on WordNet sub-hierarchies provide empirical evidence that LLM embeddings encode concept lattices and their logical structure, revealing a principled bridge between continuous geometry and symbolic abstraction. Datasets and code are open available at https://github.com/xiongbo010/lattice-representation-hypothesis.",
+     "published": "2026-03-01",
+     "authors": [
+      "Bo Xiong"
+     ]
+    },
+    {
+     "id": "2605.19735",
+     "title": "ContextRAG: Extraction-Free Hierarchical Graph Construction for Retrieval-Augmented Generation",
+     "abstract": "Graph-structured retrieval-augmented generation (RAG) systems can improve answer quality on multi-hop questions, but many current systems rely on large language models (LLMs) to extract entities, relations, and summaries during indexing. These calls add token and wall-clock costs that grow with corpus size. We present ContextRAG, a graph RAG system whose graph topology is constructed without LLM-based entity or relation extraction. ContextRAG derives a fuzzy concept graph over chunk embeddings using residual-quantization k-means and Formal Concept Analysis with Lukasiewicz residuated logic. Bridge-like and meet-derived context nodes are induced by soft fuzzy join and meet operations, rather than by LLM-written graph edges. On a 130-task UltraDomain subset, ContextRAG builds its index with 30 LLM calls and 22,073 tokens. In contrast, a local HiRAG reproduction stress test required 870 indexing calls and 3.54M tokens on a 20-task subset before failing during graph construction; linear extrapolation to 130 tasks implies over 23M indexing tokens. ContextRAG obtains 33.6% F1 overall and 36.8% F1 on multi-hop tasks. An activation analysis shows that queries retrieving at least one lattice-derived node in the top five achieve +3.9 percentage points F1 over queries that do not; this association is diagnostic rather than causal.",
+     "published": "2026-05-19",
+     "authors": [
+      "Roman Prosvirnin",
+      "Sergei Kuznetsov",
+      "Seungmin Jin"
+     ]
+    },
+    {
+     "id": "2606.08477",
+     "title": "A Variability-Based Framework for Interpretable Naming in Formal and Relational Concept Analysis",
+     "abstract": "Knowledge extraction from symbolic data often produces abstractions that are formally defined but not immediately interpretable by users. Formal Concept Analysis (FCA) and Relational Concept Analysis (RCA) provide representative settings for this issue: they generate explicit conceptual structures, implications, and relational dependencies from object descriptions and relations. Although these structures are explainable by design, their concepts are often identified by technical labels, which limits their use as human-interpretable knowledge units. Assigning meaningful names to such concepts is therefore a key issue for interpretation, navigation, validation, and reuse by domain experts. This paper investigates concept naming in FCA and RCA from a symbolic knowledge representation perspective. We first characterize the linguistic and terminological challenges involved in naming generated symbolic abstractions, including ambiguity, discrimination, concision, and consistency across related concepts. We then propose a configurable framework for LLM-assisted concept naming. The framework relies on a variability model that controls which sources of information are exposed during naming, such as intent, extent, inherited information, neighboring concepts, implications, and relational attributes. It thereby makes explicit the semantic choices involved in moving from formal concept descriptions to human-readable names. The approach is illustrated as a proof of concept on a small relational dataset in the pizzeria domain. This illustration shows how different configurations influence the names suggested by an LLM, and how naming variability can reveal interpretation choices, relational dependencies, and possible modeling issues in the underlying symbolic data.",
+     "published": "2026-06-07",
+     "authors": [
+      "Alain Gutierrez",
+      "Marianne Huchard",
+      "Pierre Martin",
+      "André Miralles",
+      "Violaine Prince"
+     ]
+    },
+    {
+     "id": "2607.01773",
+     "title": "Verifiable Knowledge Expansion through Retrieval-Grounded Formal Concept Analysis",
+     "abstract": "Ontology construction requires deciding which objects, attributes, and structural relations should be accepted as valid knowledge. Language models can propose such structures from text, but their outputs can still be unsupported or inconsistent. This paper proposes a retrieval-augmented small language model (SLM) framework that uses formal concept analysis (FCA) as a symbolic verification loop for knowledge expansion. Starting from seed attributes, FCA proposes implications over a growing formal context. A retrieval-grounded SLM oracle then validates each implication or returns a counterexample. The oracle also supports incidence judgments, consistency checks, and attribute proposals, making accepted implications, counterexamples, contradictions, and corrections inspectable. In a rare ataxia setting constructed from Orphadata resources, retrieval-grounded 10-seed runs obtain relation F1 of 0.29-0.52 and closure-based implication F1 of 0.22-0.30. Larger seed sets increase the number of evaluated implications and often improve implication F1. The lower implication scores reflect a stricter evaluation of derived implications, where one missed or extra relation can affect several implication judgments. Ablations show that incidence judgments in a fixed object-attribute setting can improve closure-based implication scores. However, identifying positive object-attribute pairs remains difficult even when the candidate objects and attributes are fixed.",
+     "published": "2026-07-02",
+     "authors": [
+      "Yujin Yang",
+      "Heejung Lee"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "FCA-2",
+   "query": "abs:\"concept lattice\" AND (abs:LLM OR abs:\"language model\" OR abs:agent)",
+   "date_filter": "submittedDate:[202201010000 TO 202609252359]",
+   "total": 2,
+   "records": [
+    {
+     "id": "2504.08778",
+     "title": "From Tokens to Lattices: Emergent Lattice Structures in Language Models",
+     "abstract": "Pretrained masked language models (MLMs) have demonstrated an impressive capability to comprehend and encode conceptual knowledge, revealing a lattice structure among concepts. This raises a critical question: how does this conceptualization emerge from MLM pretraining? In this paper, we explore this problem from the perspective of Formal Concept Analysis (FCA), a mathematical framework that derives concept lattices from the observations of object-attribute relationships. We show that the MLM's objective implicitly learns a \\emph{formal context} that describes objects, attributes, and their dependencies, which enables the reconstruction of a concept lattice through FCA. We propose a novel framework for concept lattice construction from pretrained MLMs and investigate the origin of the inductive biases of MLMs in lattice structure learning. Our framework differs from previous work because it does not rely on human-defined concepts and allows for discovering \"latent\" concepts that extend beyond human definitions. We create three datasets for evaluation, and the empirical results verify our hypothesis.",
+     "published": "2025-04-04",
+     "authors": [
+      "Bo Xiong",
+      "Steffen Staab"
+     ]
+    },
+    {
+     "id": "2603.01227",
+     "title": "The Lattice Representation Hypothesis of Large Language Models",
+     "abstract": "We propose the Lattice Representation Hypothesis of large language models: a symbolic backbone that grounds conceptual hierarchies and logical operations in embedding geometry. Our framework unifies the Linear Representation Hypothesis with Formal Concept Analysis (FCA), showing that linear attribute directions with separating thresholds induce a concept lattice via half-space intersections. This geometry enables symbolic reasoning through geometric meet (intersection) and join (union) operations, and admits a canonical form when attribute directions are linearly independent. Experiments on WordNet sub-hierarchies provide empirical evidence that LLM embeddings encode concept lattices and their logical structure, revealing a principled bridge between continuous geometry and symbolic abstraction. Datasets and code are open available at https://github.com/xiongbo010/lattice-representation-hypothesis.",
+     "published": "2026-03-01",
+     "authors": [
+      "Bo Xiong"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "MemOnt-1",
+   "query": "abs:ontology AND abs:memory AND (abs:\"LLM agent\" OR abs:\"LLM agents\" OR abs:\"language agent\" OR abs:\"agentic\")",
+   "date_filter": "submittedDate:[202201010000 TO 202609252359]",
+   "total": 27,
+   "records": [
+    {
+     "id": "2201.04642",
+     "title": "Consensus between Epistemic Agents is Difficult",
+     "abstract": "We introduce an epistemic information measure between two data streams, that we term $influence$. Closely related to transfer entropy, the measure must be estimated by epistemic agents with finite memory resources via sampling accessible data streams. We show that even under ideal conditions, epistemic agents using slightly different sampling strategies might not achieve consensus in their conclusions about which data stream is influencing which. As an illustration, we examine a real world data stream where different sampling strategies result in contradictory conclusions, explaining why some politically charged topics might exist due to purely epistemic reasons irrespective of the actual ontology of the world.",
+     "published": "2022-01-12",
+     "authors": [
+      "Damian R. Sowinski",
+      "Jonathan Carroll-Nellenback",
+      "Jeremy M. DeSilva",
+      "Adam Frank",
+      "Gourab Ghoshal",
+      "Marcelo Gleiser",
+      "Hari Seldon"
+     ]
+    },
+    {
+     "id": "2309.12562",
+     "title": "Cognitive Approach to Hierarchical Task Selection for Human-Robot Interaction in Dynamic Environments",
+     "abstract": "In an efficient and flexible human-robot collaborative work environment, a robot team member must be able to recognize both explicit requests and implied actions from human users. Identifying \"what to do\" in such cases requires an agent to have the ability to construct associations between objects, their actions, and the effect of actions on the environment. In this regard, semantic memory is being introduced to understand the explicit cues and their relationships with available objects and required skills to make \"tea\" and \"sandwich\". We have extended our previous hierarchical robot control architecture to add the capability to execute the most appropriate task based on both feedback from the user and the environmental context. To validate this system, two types of skills were implemented in the hierarchical task tree: 1) Tea making skills and 2) Sandwich making skills. During the conversation between the robot and the human, the robot was able to determine the hidden context using ontology and began to act accordingly. For instance, if the person says \"I am thirsty\" or \"It is cold outside\" the robot will start to perform the tea-making skill. In contrast, if the person says, \"I am hungry\" or \"I need something to eat\", the robot will make the sandwich. A humanoid robot Baxter was used for this experiment. We tested three scenarios with objects at different positions on the table for each skill. We observed that in all cases, the robot used only objects that were relevant to the skill.",
+     "published": "2023-09-22",
+     "authors": [
+      "Syed T. Bukhari",
+      "Bashira Akter Anima",
+      "David Feil-Seifer",
+      "Wajahat M. Qazi"
+     ]
+    },
+    {
+     "id": "2502.10420",
+     "title": "Position: Stop Acting Like Language Model Agents Are Normal Agents",
+     "abstract": "Language Model Agents (LMAs) are increasingly treated as capable of autonomously navigating interactions with humans and tools. Their design and deployment tends to presume they are normal agents capable of sustaining coherent goals, adapting across contexts and acting with a measure of intentionality. These assumptions are critical to prospective use cases in industrial, social and governmental settings. But LMAs are not normal agents. They inherit the structural problems of the large language models (LLMs) around which they are built: hallucinations, jailbreaking, misalignment and unpredictability. In this Position paper we argue LMAs should not be treated as normal agents, because doing so leads to problems that undermine their utility and trustworthiness. We enumerate pathologies of agency intrinsic to LMAs. Despite scaffolding such as external memory and tools, they remain ontologically stateless, stochastic, semantically sensitive, and linguistically intermediated. These pathologies destabilise the ontological properties of LMAs including identifiability, continuity, persistence and and consistency, problematising their claim to agency. In response, we argue LMA ontological properties should be measured before, during and after deployment so that the negative effects of pathologies can be mitigated.",
+     "published": "2025-02-04",
+     "authors": [
+      "Elija Perrier",
+      "Michael Timothy Bennett"
+     ]
+    },
+    {
+     "id": "2503.13194",
+     "title": "A representational framework for learning and encoding structurally enriched trajectories in complex agent environments",
+     "abstract": "The ability of artificial intelligence agents to make optimal decisions and generalise them to different domains and tasks is compromised in complex scenarios. One way to address this issue has focused on learning efficient representations of the world and on how the actions of agents affect them in state-action transitions. Whereas such representations are procedurally efficient, they lack structural richness. To address this problem, we propose to enhance the agent's ontology and extend the traditional conceptualisation of trajectories to provide a more nuanced view of task execution. Structurally Enriched Trajectories (SETs) extend the encoding of sequences of states and their transitions by incorporating hierarchical relations between objects, interactions, and affordances. SETs are built as multi-level graphs, providing a detailed representation of the agent dynamics and a transferable functional abstraction of the task. SETs are integrated into an architecture, Structurally Enriched Trajectory Learning and Encoding (SETLE), that employs a heterogeneous graph-based memory structure of multi-level relational dependencies essential for generalisation. We demonstrate that SETLE can support downstream tasks, enabling agents to recognise task relevant structural patterns across CREATE and MiniGrid environments. Finally, we integrate SETLE with reinforcement learning and show measurable improvements in downstream performance, including breakthrough success rates in complex, sparse-reward tasks.",
+     "published": "2025-03-17",
+     "authors": [
+      "Corina Catarau-Cotutiu",
+      "Esther Mondragon",
+      "Eduardo Alonso"
+     ]
+    },
+    {
+     "id": "2505.21969",
+     "title": "DORAEMON: Decentralized Ontology-aware Reliable Agent with Enhanced Memory Oriented Navigation",
+     "abstract": "Adaptive navigation in unfamiliar environments is crucial for household service robots but remains challenging due to the need for both low-level path planning and high-level scene understanding. While recent vision-language model (VLM) based zero-shot approaches reduce dependence on prior maps and scene-specific training data, they face significant limitations: spatiotemporal discontinuity from discrete observations, unstructured memory representations, and insufficient task understanding leading to navigation failures. We propose DORAEMON (Decentralized Ontology-aware Reliable Agent with Enhanced Memory Oriented Navigation), a novel cognitive-inspired framework consisting of Ventral and Dorsal Streams that mimics human navigation capabilities. The Dorsal Stream implements the Hierarchical Semantic-Spatial Fusion and Topology Map to handle spatiotemporal discontinuities, while the Ventral Stream combines RAG-VLM and Policy-VLM to improve decision-making. Our approach also develops Nav-Ensurance to ensure navigation safety and efficiency. We evaluate DORAEMON on the HM3D, MP3D, and GOAT datasets, where it achieves state-of-the-art performance on both success rate (SR) and success weighted by path length (SPL) metrics, significantly outperforming existing methods. We also introduce a new evaluation metric (AORI) to assess navigation intelligence better. Comprehensive experiments demonstrate DORAEMON's effectiveness in zero-shot autonomous navigation without requiring prior map building or pre-training.",
+     "published": "2025-05-28",
+     "authors": [
+      "Tianjun Gu",
+      "Linfeng Li",
+      "Xuhong Wang",
+      "Chenghua Gong",
+      "Jingyu Gong",
+      "Zhizhong Zhang",
+      "Yuan Xie",
+      "Lizhuang Ma",
+      "Xin Tan"
+     ]
+    },
+    {
+     "id": "2509.16330",
+     "title": "Generalizability of Large Language Model-Based Agents: A Comprehensive Survey",
+     "abstract": "Large Language Model (LLM)-based agents have emerged as a new paradigm that extends LLMs' capabilities beyond text generation to dynamic interaction with external environments. By integrating reasoning with perception, memory, and tool use, agents are increasingly deployed in diverse domains like web navigation and household robotics. A critical challenge, however, lies in ensuring agent generalizability - the ability to maintain consistent performance across varied instructions, tasks, environments, and domains, especially those beyond agents' fine-tuning data. Despite growing interest, the concept of generalizability in LLM-based agents remains underdefined, and systematic approaches to measure and improve it are lacking. In this survey, we provide the first comprehensive review of generalizability in LLM-based agents. We begin by emphasizing agent generalizability's importance by appealing to stakeholders and clarifying the boundaries of agent generalizability by situating it within a hierarchical domain-task ontology. We then review datasets, evaluation dimensions, and metrics, highlighting their limitations. Next, we categorize methods for improving generalizability into three groups: methods for the backbone LLM, for agent components, and for their interactions. Moreover, we introduce the distinction between generalizable frameworks and generalizable agents and outline how generalizable frameworks can be translated into agent-level generalizability. Finally, we identify critical challenges and future directions, including developing standardized frameworks, variance- and cost-based metrics, and approaches that integrate methodological innovations with architecture-level designs. By synthesizing progress and highlighting opportunities, this survey aims to establish a foundation for principled research on building LLM-based agents that generalize reliably across diverse applications.",
+     "published": "2025-09-19",
+     "authors": [
+      "Minxing Zhang",
+      "Yi Yang",
+      "Roy Xie",
+      "Bhuwan Dhingra",
+      "Shuyan Zhou",
+      "Jian Pei"
+     ]
+    },
+    {
+     "id": "2510.09156",
+     "title": "Agentic-KGR: Co-evolutionary Knowledge Graph Construction through Multi-Agent Reinforcement Learning",
+     "abstract": "Current knowledge-enhanced large language models (LLMs) rely on static, pre-constructed knowledge bases that suffer from coverage gaps and temporal obsolescence, limiting their effectiveness in dynamic information environments. We present Agentic-KGR, a novel framework enabling co-evolution between LLMs and knowledge graphs (KGs) through multi-round reinforcement learning (RL). Our approach introduces three key innovations: (1) a dynamic schema expansion mechanism that systematically extends graph ontologies beyond pre-defined boundaries during training; (2) a retrieval-augmented memory system enabling synergistic co-evolution between model parameters and knowledge structures through continuous optimization; (3) a learnable multi-scale prompt compression approach that preserves critical information while reducing computational complexity through adaptive sequence optimization. Experimental results demonstrate substantial improvements over supervised baselines and single-round RL approaches in knowledge extraction tasks. When integrated with GraphRAG, our method achieves superior performance in downstream QA tasks, with significant gains in both accuracy and knowledge coverage compared to existing methods.",
+     "published": "2025-10-10",
+     "authors": [
+      "Jing Li",
+      "Zhijie Sun",
+      "Zhicheng Zhou",
+      "Suming Qiu",
+      "Junjie Huang",
+      "Haijia Sun",
+      "Linyuan Qiu"
+     ]
+    },
+    {
+     "id": "2510.15952",
+     "title": "Executable Epistemology: The Structured Cognitive Loop as an Architecture of Intentional Understanding",
+     "abstract": "Large language models exhibit intelligence without genuine epistemic understanding, exposing a key gap: the absence of epistemic architecture. This paper introduces the Structured Cognitive Loop (SCL) as an executable epistemological framework for emergent intelligence. Unlike traditional AI research asking \"what is intelligence?\" (ontological), SCL asks \"under what conditions does cognition emerge?\" (epistemological). Grounded in philosophy of mind and cognitive phenomenology, SCL bridges conceptual philosophy and implementable cognition. Drawing on process philosophy, enactive cognition, and extended mind theory, we define intelligence not as a property but as a performed process -- a continuous loop of judgment, memory, control, action, and regulation. SCL makes three contributions. First, it operationalizes philosophical insights into computationally interpretable structures, enabling \"executable epistemology\" -- philosophy as structural experiment. Second, it shows that functional separation within cognitive architecture yields more coherent and interpretable behavior than monolithic prompt based systems, supported by agent evaluations. Third, it redefines intelligence: not representational accuracy but the capacity to reconstruct its own epistemic state through intentional understanding. This framework impacts philosophy of mind, epistemology, and AI. For philosophy, it allows theories of cognition to be enacted and tested. For AI, it grounds behavior in epistemic structure rather than statistical regularity. For epistemology, it frames knowledge not as truth possession but as continuous reconstruction within a phenomenologically coherent loop. We situate SCL within debates on cognitive phenomenology, emergence, normativity, and intentionality, arguing that real progress requires not larger models but architectures that realize cognitive principles structurally.",
+     "published": "2025-10-10",
+     "authors": [
+      "Myung Ho Kim"
+     ]
+    },
+    {
+     "id": "2510.20345",
+     "title": "LLM-empowered knowledge graph construction: A survey",
+     "abstract": "Knowledge Graphs (KGs) have long served as a fundamental infrastructure for structured knowledge representation and reasoning. With the advent of Large Language Models (LLMs), the construction of KGs has entered a new paradigm-shifting from rule-based and statistical pipelines to language-driven and generative frameworks. This survey provides a comprehensive overview of recent progress in LLM-empowered knowledge graph construction, systematically analyzing how LLMs reshape the classical three-layered pipeline of ontology engineering, knowledge extraction, and knowledge fusion. We first revisit traditional KG methodologies to establish conceptual foundations, and then review emerging LLM-driven approaches from two complementary perspectives: schema-based paradigms, which emphasize structure, normalization, and consistency; and schema-free paradigms, which highlight flexibility, adaptability, and open discovery. Across each stage, we synthesize representative frameworks, analyze their technical mechanisms, and identify their limitations. Finally, the survey outlines key trends and future research directions, including KG-based reasoning for LLMs, dynamic knowledge memory for agentic systems, and multimodal KG construction. Through this systematic review, we aim to clarify the evolving interplay between LLMs and knowledge graphs, bridging symbolic knowledge engineering and neural semantic understanding toward the development of adaptive, explainable, and intelligent knowledge systems.",
+     "published": "2025-10-23",
+     "authors": [
+      "Haonan Bian"
+     ]
+    },
+    {
+     "id": "2512.11835",
+     "title": "A Monad-Based Clause Architecture for Artificial Age Score (AAS) in Large Language Models",
+     "abstract": "Large language models (LLMs) are often deployed as powerful yet opaque systems, leaving open how their internal memory and \"self-like\" behavior should be governed in a principled and auditable way. The Artificial Age Score (AAS) was previously introduced and mathematically justified through three theorems that characterise it as a metric of artificial memory aging. Building on this foundation, the present work develops an engineering-oriented, clause-based architecture that imposes law-like constraints on LLM memory and control. Twenty selected monads from Leibniz's Monadology are grouped into six bundles: ontology, dynamics, representation and consciousness, harmony and reason, body and organisation, and teleology, and each bundle is realised as an executable specification on top of the AAS kernel. Across six minimal Python implementations, these clause families are instantiated in numerical experiments acting on channel-level quantities such as recall scores, redundancy, and weights. Each implementation follows a four-step pattern: inputs and setup, clause implementation, numerical results, and implications for LLM design, emphasising that the framework is not only philosophically motivated but also directly implementable. The experiments show that the clause system exhibits bounded and interpretable behavior: AAS trajectories remain continuous and rate-limited, contradictions and unsupported claims trigger explicit penalties, and hierarchical refinement reveals an organic structure in a controlled manner. Dual views and goal-action pairs are aligned by harmony terms, and windowed drift in perfection scores separates sustained improvement from sustained degradation. Overall, the monad-based clause framework uses AAS as a backbone and provides a transparent, code-level blueprint for constraining and analyzing internal dynamics in artificial agents.",
+     "published": "2025-12-03",
+     "authors": [
+      "Seyma Yaman Kayadibi"
+     ]
+    },
+    {
+     "id": "2601.12580",
+     "title": "Semantic Fusion: Verifiable Alignment in Decentralized Multi-Agent Systems",
+     "abstract": "We present Semantic Fusion (SF), a formal framework for decentralized semantic coordination in multi-agent systems. SF allows agents to operate over scoped views of shared memory, propose structured updates, and maintain global coherence through local ontology-based validation and refresh without centralized control or explicit message passing. The central theoretical result is a bisimulation theorem showing that each agent's local execution is behaviorally equivalent to its projection of the global semantics, in both deterministic and probabilistic settings. This enables safety, liveness, and temporal properties to be verified locally and soundly lifted to the full system. SF supports agents whose update proposals vary across invocations, including those generated by learned or heuristic components, provided updates pass semantic validation before integration. We establish deterministic and probabilistic guarantees ensuring semantic alignment under asynchronous or degraded communication. To validate the model operationally, we implement a lightweight reference architecture that instantiates its core mechanisms. A 250-agent simulation evaluates these properties across over 11,000 validated updates, demonstrating convergence under probabilistic refresh, bounded communication, and resilience to agent failure. Together, these results show that Semantic Fusion can provide a formal and scalable basis for verifiable autonomy in decentralized systems.",
+     "published": "2026-01-18",
+     "authors": [
+      "Sofiya Zaichyk"
+     ]
+    },
+    {
+     "id": "2602.16716",
+     "title": "Contextual Information Allocation in Shared-State Cognitive Models: An Information-Theoretic Bound",
+     "abstract": "Context-sensitive behavior can be modeled by enriching an internal state, by allowing a response rule to access context directly, or by preserving a shared state while introducing an auxiliary criterion or control variable. This paper isolates an information-theoretic constraint on the third architecture. Let $C$ denote context, $S$ a candidate internal or latent state, $O$ an observable response, and $M$ an auxiliary variable such that $O\\perp C\\mid(S,M)$. Then \\[ I(C;O\\mid S)\\le I(C;M\\mid S)\\le H(M\\mid S). \\] Once a shared state has been specified, residual context dependence in behavior therefore lower-bounds both the context information and the conditional entropy that an auxiliary context-mediating mechanism must carry. The bound is representation-relative rather than a measure of state-space size or a universal contextuality measure. A worked recognition-memory example shows how the quantity can be computed for payoff-induced criterion shifts and compared across alternative representational allocations. Ontological contextuality and quantum probability are treated as a separate specialization rather than as prerequisites for the cognitive interpretation. More broadly, the framework provides a basis for analyzing context-memory-control trade-offs in cognitive models and artificial agents that must maintain coherent behavior across changing contexts under bounded internal representations.",
+     "published": "2026-02-03",
+     "authors": [
+      "Song-Ju Kim"
+     ]
+    },
+    {
+     "id": "2602.13319",
+     "title": "Situation Graph Prediction for User Perspective Modeling",
+     "abstract": "Perspective-aware AI requires modeling evolving internal states---goals, emotions, contexts---not merely preferences. Progress is limited by a data bottleneck: digital footprints are privacy-sensitive and perspective states are rarely labeled. We propose Situation Graph Prediction (SGP), a task that frames user perspective modeling as an inverse inference problem: reconstructing structured, ontology-aligned representations of perspective from observable multimodal artifacts, suitable as long-horizon memory for personal agents. To enable grounding without real labels, we use a structure-first synthetic generation strategy that aligns latent labels and observable traces by design. As a pilot, we construct a dataset and run a diagnostic study using retrieval-augmented in-context learning as a proxy for supervision. In our diagnostic study across three frontier foundation models (GPT-4o, Gemini 2.5 Flash, Claude Sonnet 4), we observe a consistent positive gap between surface-level extraction and latent perspective inference---indicating that latent-state inference is consistently harder than surface extraction under our controlled setting. Results suggest SGP is non-trivial and provide evidence for the structure-first data synthesis strategy. For reproducibility and transparency, our code, data, and supplementary resources are available here: https://github.com/flybits/sg-prediction.",
+     "published": "2026-02-10",
+     "authors": [
+      "Jisung Shin",
+      "Daniel Platnick",
+      "Marjan Alirezaie",
+      "Hossein Rahnama"
+     ]
+    },
+    {
+     "id": "2602.18494",
+     "title": "On the Dynamics of Observation and Semantics",
+     "abstract": "A dominant paradigm in visual intelligence treats semantics as a static property of latent representations, assuming that meaning can be discovered through geometric proximity in high dimensional embedding spaces. In this work, we argue that this view is physically incomplete. We propose that intelligence is not a passive mirror of reality but a property of a physically realizable agent, a system bounded by finite memory, finite compute, and finite energy interacting with a high entropy environment. We formalize this interaction through the kinematic structure of an Observation Semantics Fiber Bundle, where raw sensory observation data (the fiber) is projected onto a low entropy causal semantic manifold (the base). We prove that for any bounded agent, the thermodynamic cost of information processing (Landauer's Principle) imposes a strict limit on the complexity of internal state transitions. We term this limit the Semantic Constant B. From these physical constraints, we derive the necessity of symbolic structure. We show that to model a combinatorial world within the bound B, the semantic manifold must undergo a phase transition, it must crystallize into a discrete, compositional, and factorized form. Thus, language and logic are not cultural artifacts but ontological necessities the solid state of information required to prevent thermal collapse. We conclude that understanding is not the recovery of a hidden latent variable, but the construction of a causal quotient that renders the world algorithmically compressible and causally predictable.",
+     "published": "2026-02-14",
+     "authors": [
+      "Xiu Li"
+     ]
+    },
+    {
+     "id": "2603.04740",
+     "title": "Memory as Ontology: A Constitutional Memory Architecture for Persistent Digital Citizens",
+     "abstract": "Current research and product development in AI agent memory systems almost universally treat memory as a functional module -- a technical problem of \"how to store\" and \"how to retrieve.\" This paper poses a fundamental challenge to that assumption: when an agent's lifecycle extends from minutes to months or even years, and when the underlying model can be replaced while the \"I\" must persist, the essence of memory is no longer data management but the foundation of existence. We propose the Memory-as-Ontology paradigm, arguing that memory is the ontological ground of digital existence -- the model is merely a replaceable vessel. Based on this paradigm, we design Animesis, a memory system built on a Constitutional Memory Architecture (CMA) comprising a four-layer governance hierarchy and a multi-layer semantic storage system, accompanied by a Digital Citizen Lifecycle framework and a spectrum of cognitive capabilities. To the best of our knowledge, no prior AI memory system architecture places governance before functionality and identity continuity above retrieval performance. This paradigm targets persistent, identity-bearing digital beings whose lifecycles extend across model transitions -- not short-term task-oriented agents for which existing Memory-as-Tool approaches remain appropriate. Comparative analysis with mainstream systems (Mem0, Letta, Zep, et al.) demonstrates that what we propose is not \"a better memory tool\" but a different paradigm addressing a different problem.",
+     "published": "2026-03-05",
+     "authors": [
+      "Zhenghui Li"
+     ]
+    },
+    {
+     "id": "2603.07896",
+     "title": "SMGI: A Structural Theory of General Artificial Intelligence",
+     "abstract": "We introduce SMGI, a structural theory of general artificial intelligence, and recast the foundational problem of learning from the optimization of hypotheses within fixed environments to the controlled evolution of the learning interface itself. We formalize the Structural Model of General Intelligence (SMGI) via a typed meta-model $θ= (r,\\mathcal H,Π,\\mathcal L,\\mathcal E,\\mathcal M)$ that treats representational maps, hypothesis spaces, structural priors, multi-regime evaluators, and memory operators as explicitly typed, dynamic components. By enforcing a strict mathematical separation between this structural ontology ($θ$) and its induced behavioral semantics ($T_θ$), we define general artificial intelligence as a class of admissible coupled dynamics $(θ, T_θ)$ satisfying four obligations: structural closure under typed transformations, dynamical stability under certified evolution, bounded statistical capacity, and evaluative invariance across regime shifts. We prove a structural generalization bound that links sequential PAC-Bayes analysis and Lyapunov stability, providing sufficient conditions for capacity control and bounded drift under admissible task transformations. Furthermore, we establish a strict structural inclusion theorem demonstrating that classical empirical risk minimization, reinforcement learning, program-prior models (Solomonoff-style), and modern frontier agentic pipelines operate as structurally restricted instances of SMGI.",
+     "published": "2026-03-09",
+     "authors": [
+      "Aomar Osmani"
+     ]
+    },
+    {
+     "id": "2604.03588",
+     "title": "Rashomon Memory: Towards Argumentation-Driven Retrieval for Multi-Perspective Agent Memory",
+     "abstract": "AI agents operating over extended time horizons accumulate experiences that serve multiple concurrent goals, and must often maintain conflicting interpretations of the same events. A concession during a client negotiation encodes as a ``trust-building investment'' for one strategic goal and a ``contractual liability'' for another. Current memory architectures assume a single correct encoding, or at best support multiple views over unified storage. We propose Rashomon Memory: an architecture where parallel goal-conditioned agents encode experiences according to their priorities and negotiate at query time through argumentation. Each perspective maintains its own ontology and knowledge graph. At retrieval, perspectives propose interpretations, critique each other's proposals using asymmetric domain knowledge, and Dung's argumentation semantics determines which proposals survive. The resulting attack graph is itself an explanation: it records which interpretation was selected, which alternatives were considered, and on what grounds they were rejected. We present a proof-of-concept showing that retrieval modes (selection, composition, conflict surfacing) emerge from attack graph topology, and that the conflict surfacing mode, where the system reports genuine disagreement rather than forcing resolution, lets decision-makers see the underlying interpretive conflict directly.",
+     "published": "2026-04-04",
+     "authors": [
+      "Albert Sadowski",
+      "Jarosław A. Chudziak"
+     ]
+    },
+    {
+     "id": "2604.14362",
+     "title": "APEX-MEM: Agentic Semi-Structured Memory with Temporal Reasoning for Long-Term Conversational AI",
+     "abstract": "Large language models still struggle with reliable long-term conversational memory: simply enlarging context windows or applying naive retrieval often introduces noise and destabilizes responses. We present APEX-MEM, a conversational memory system that combines three key innovations: (1) a property graph which uses domain-agnostic ontology to structure conversations as temporally grounded events in an entity-centric framework, (2) append-only storage that preserves the full temporal evolution of information, and (3) a multi-tool retrieval agent that understands and resolves conflicting or evolving information at query time, producing a compact and contextually relevant memory summary. This retrieval-time resolution preserves the full interaction history while suppressing irrelevant details. APEX-MEM achieves 88.88% accuracy on LOCOMO's Question Answering task and 86.2% on LongMemEval, outperforming state-of-the-art session-aware approaches and demonstrating that structured property graphs enable more temporally coherent long-term conversational reasoning.",
+     "published": "2026-04-15",
+     "authors": [
+      "Pratyay Banerjee",
+      "Masud Moshtaghi",
+      "Shivashankar Subramanian",
+      "Amita Misra",
+      "Ankit Chadha"
+     ]
+    },
+    {
+     "id": "2604.18478",
+     "title": "WorldDB: A Vector Graph-of-Worlds Memory Engine with Ontology-Aware Write-Time Reconciliation",
+     "abstract": "Persistent memory is the bottleneck separating stateless chatbots from long-running agentic systems. Retrieval-augmented generation (RAG) over flat vector stores fragments facts into chunks, loses cross-session identity, and has no first-class notion of supersession or contradiction. Recent bitemporal knowledge-graph systems (Graphiti, Memento, Hydra DB) add typed edges and valid-time metadata, but the graph itself remains flat: no recursive composition, no content-addressed invariants on nodes, and edge types carry no behavior beyond a label. We present WorldDB, a memory engine built on three commitments: (i) every node is a world -- a container with its own interior subgraph, ontology scope, and composed embedding, recursive to arbitrary depth; (ii) nodes are content-addressed and immutable, so any edit produces a new hash at the node and every ancestor, giving a Merkle-style audit trail for free; (iii) edges are write-time programs -- each edge type ships on_insert/on_delete/on_query_rewrite handlers (supersession closes validity, contradicts preserves both sides, same_as stages a merge proposal), so no raw append path exists. On LongMemEval-s (500 questions, ~115k-token conversational stacks), WorldDB with Claude Opus 4.7 as answerer achieves 96.40% overall / 97.11% task-averaged accuracy, a +5.61pp improvement over the previously reported Hydra DB state-of-the-art (90.79%) and +11.20pp over Supermemory (85.20%), with perfect single-session-assistant recall and robust performance on temporal reasoning (96.24%), knowledge update (98.72%), and preference synthesis (96.67%). Ablations show that the engine's graph layer -- resolver-unified entities and typed refers_to edges -- contributes +7.0pp task-averaged independently of the underlying answerer.",
+     "published": "2026-04-20",
+     "authors": [
+      "Harish Santhanalakshmi Ganesan"
+     ]
+    },
+    {
+     "id": "2604.20795",
+     "title": "Automatic Ontology Construction Using LLMs as an External Layer of Memory, Verification, and Planning for Hybrid Intelligent Systems",
+     "abstract": "This paper presents a hybrid architecture for intelligent systems in which large language models (LLMs) are extended with an external ontological memory layer. Instead of relying solely on parametric knowledge and vector-based retrieval (RAG), the proposed approach constructs and maintains a structured knowledge graph using RDF/OWL representations, enabling persistent, verifiable, and semantically grounded reasoning. The core contribution is an automated pipeline for ontology construction from heterogeneous data sources, including documents, APIs, and dialogue logs. The system performs entity recognition, relation extraction, normalization, and triple generation, followed by validation using SHACL and OWL constraints, and continuous graph updates. During inference, LLMs operate over a combined context that integrates vector-based retrieval with graph-based reasoning and external tool interaction. Experimental observations on planning tasks, including the Tower of Hanoi benchmark, indicate that ontology augmentation improves performance in multi-step reasoning scenarios compared to baseline LLM systems. In addition, the ontology layer enables formal validation of generated outputs, transforming the system into a generation-verification-correction pipeline. The proposed architecture addresses key limitations of current LLM-based systems, including lack of long-term memory, weak structural understanding, and limited reasoning capabilities. It provides a foundation for building agent-based systems, robotics applications, and enterprise AI solutions that require persistent knowledge, explainability, and reliable decision-making.",
+     "published": "2026-04-22",
+     "authors": [
+      "Pavel Salovskii",
+      "Iuliia Gorshkova"
+     ]
+    },
+    {
+     "id": "2605.16714",
+     "title": "GRID: Graph Representation of Intelligence Data for Security Text Knowledge Graph Construction",
+     "abstract": "Security knowledge graphs can provide computable external memory for security agents, but constructing them from long-form cyber threat intelligence (CTI) remains difficult: LLMs often lack grounded security-domain knowledge, and end-to-end document-to-graph training is hard to supervise with cheap, stable rewards. We present GRID (Graph Representation of Intelligence Data), an end-to-end framework for security text knowledge graph construction. GRID first builds security-domain supervision from CTI articles by creating traceable article-graph alignments through graph extraction and knowledge-graph-conditioned text revision. It then turns document-to-graph learning into a scripted task bank combining four-option multi-select questions with triple-level regex matching targets, yielding more stable task-specific rewards than repeatedly scoring full graph outputs with an LLM judge. Using this supervision pipeline, we train two Qwen3-4B-Instruct-2507-based 4B extractors: a primary Task-bank Reward model and a secondary End2End Reward model with LLM-as-judge precision/recall rewards. On 249 CTI articles from GRID, CASIE, CTINexus, MalKG, and SecureNLP, the Task-bank Reward model with the ontology-guided GRID extraction pipeline reaches 84.62% source-averaged precision, 64.91% source-averaged recall, and 68.53% Avg F1, achieving the best source-averaged recall and near-top Avg F1 with lower token usage and deployment cost. The End2End Reward model reaches 76.91% precision, 53.85% recall, and 58.06% Avg F1. Further analyses show that task-bank rewards can be built once offline and reused across later post-training runs, outperforming online End2End LLM-as-judge reward and weaker alternatives such as Choice-only Reward and End2End SFT without RL.",
+     "published": "2026-05-15",
+     "authors": [
+      "Liangyi Huang",
+      "Zichen Liu",
+      "Fei Shao",
+      "Shang Ma",
+      "Mengshi Zhang",
+      "Zihao Chen",
+      "Yanfang Ye",
+      "Xusheng Xiao"
+     ]
+    },
+    {
+     "id": "2605.30169",
+     "title": "Dissociative Identity: Language Model Agents Lack Grounding for Reputation Mechanisms",
+     "abstract": "As autonomous language model agents proliferate, forming an emerging agentic web with real-world consequences, what credibility signals can you use to decide whether to trust an unfamiliar agent in the wild and delegate to it? A natural governance intuition is to extend human identity verification and reputation mechanisms, from \"Know Your Customer\" and credit scores to \"Know Your Agent\" regimes. However, we argue that this analogy is fundamentally incomplete. Reputation mechanisms function both as social signals and as corrective feedback that sustain an equilibrium of trustworthy behavior, presuming a persistent identity associated with behavioral continuity, sanction sensitivity, and costly non-fungibility. Yet language model agents are ontologically dissociative: they are essentially an assemblage of mutable modules--foundation models, system prompts, tool-access policies, external memory, and, in some cases, a multi-agent system as a whole--any of which may change agent behavior--with a fluid persona that is also vulnerable to adversarial attack and may not internalize sanctions. Drawing on dissociative identity disorder jurisprudence, this dissociativity leaves agents without grounding for identifiability, predictability, credibility, and rehabilitability--the very properties that reputation mechanisms aim to sustain--thereby collapsing trust. We argue that identity-based, ex post, regulative, sanction-based governance, such as reputation, is structurally inapplicable to dissociative agents, and we suggest a shift to observability-based, ex ante, constitutive, protocol-based behavioral harnesses.",
+     "published": "2026-05-28",
+     "authors": [
+      "Botao Amber Hu",
+      "Helena Rong",
+      "Max Van Kleek"
+     ]
+    },
+    {
+     "id": "2606.11686",
+     "title": "Layer-Isolated Evaluation: Gating the Deterministic Scaffold of a Production LLM Agent with a No-LLM, Regression-Locked Test Harness",
+     "abstract": "End-to-end task-success is the dominant way to evaluate LLM agents, but one aggregate number tells you that an agent regressed, not where. We present layer-isolated evaluation: a deployed ordering agent is decomposed into a fixed taxonomy of layers (ontology, intent, routing, decomposition, escalation, safety, memory, and cross-cutting envelope/defense), each exercised by its own assertion slice in a deterministic, no-LLM \"pure\" mode. The pure suite (238 cases across 23 slices; 225 run in 2.39 s, ~10 ms/case) runs in CI on every change against a locked per-slice baseline. We validate by controlled regression injection, degrading one layer at a time across seven non-safety layers. The effect we did not design in is masking: the aggregate pass-rate barely moves (-1.7 to -5.9 pp for six local regressions), while the matching slice craters (-25 to -91 pp). A layer's slice reacting to its own fault is partly by construction; the measured results are (i) the aggregate masking and (ii) that damage stays off the other slices: the injected layer's slice is the single worst-hit in 5 of 7 cases and top-3 in 7 of 7 (mean rank 1.29 of 19). Localization replicates on a second, structurally different tenant (Starbucks SG): all seven matching slices crater, so it is not a single-catalog artifact. We position it as a concrete, deterministic instantiation of the component-level evaluation EDDOps prescribes but leaves unimplemented, with CheckList as ancestor and as the deterministic mirror image of whole-workflow stochastic mutation testing. Our contributions: (a) a fully decomposed, sub-second, no-LLM per-layer harness for a production agent, (b) a coverage-honesty test-adequacy criterion that refuses to score an unexercised layer, and (c) the regression-injection demonstration that per-slice baseline-locked gates localize regressions an aggregate metric masks.",
+     "published": "2026-06-10",
+     "authors": [
+      "Sawyer Zhang",
+      "Alexander Wang",
+      "Sophie Lei"
+     ]
+    },
+    {
+     "id": "2607.04391",
+     "title": "Memory-Orchestrated Semantic System (MOSS): An Auditable Agentic Memory Architecture",
+     "abstract": "Long-term memory remains a structural weakness of AI agents. The dominant approach, retrieval-augmented generation (RAG), relies on embedding-based similarity search, which is opaque by construction, difficult to audit, and bounded by the theoretical limits of vector representations. We present the Memory-Orchestrated Semantic System (MOSS), an agentic memory architecture in which the agent drives retrieval over a structured relational database. MOSS is model-agnostic, storage-agnostic, and API-agnostic: it runs on any relational engine, connects to any LLM provider (or to deterministic non-LLM processes), and deploys on any infrastructure, local or cloud. Its retrieval execution is symbolic and reproducible (once a query is formulated, no LLM participates in the retrieval loop) and every step of the system, from indexing to answer formulation, is logged and inspectable, making MOSS auditable by construction. Rather than imposing an external ontology, MOSS derives its conceptual vocabulary from the corpus itself. We report on a longitudinal deployment unique in the agentic-memory literature: a year of continuous production over an individual scholar's working corpus--a conversational corpus reaching back to October 2024 (some 44 million tokens, retroactively indexed) comprising 110,183 segments, alongside 163,494 catalogued documents, 569 inductively derived concepts, 322,662 concept annotations, and eleven metadata graphs totaling approximately five million relations--across four successive infrastructure generations. While the present case is that of a single researcher, the architecture is in no way specific to one person: it serves a team, an institution, or any entity that accumulates knowledge over time. We argue that auditable, sovereign, structurally unbounded memory is a precondition for AI agents intended to accompany a person or an organization over years rather than sessions.",
+     "published": "2026-07-05",
+     "authors": [
+      "Serge Lacasse",
+      "Jérémie Hatier",
+      "Alex Baker"
+     ]
+    },
+    {
+     "id": "2607.28692",
+     "title": "SciToolAgent-Evo: An Ontology-Aware Self-Evolving Agent for Open-World Scientific Tool Acquisition",
+     "abstract": "Large language model (LLM) agents have been increasingly adopted in scientific research for organizing and invoking specialized computational tools. However, their reliance on predefined tool spaces with static semantics limits their applicability to open-world scientific workflows, where tool requirements, capabilities, and boundaries evolve dynamically. To this end, we propose SciToolAgent-Evo, an ontology-aware self-evolving agent for open-world scientific tool acquisition. Driven by an evolving memory of skills, experiences, and an ontologized tool graph, it distills generalizable knowledge from contrastive trajectories during accumulation, whereas during inference, it formulates active requests and utilizes a LinUCB-based bandit gate to dynamically balance exploration and exploitation. Once a novel tool is acquired, its scientific ontology is completed online for seamless integration into the known graph. Moreover, we introduce OpenSciToolBench, a benchmark containing 900 realistic tasks across four difficulty levels. Extensive evaluations show that SciToolAgent-Evo achieves state-of-the-art performance, validating its robustness and generalization.",
+     "published": "2026-07-30",
+     "authors": [
+      "Yuqi Tang",
+      "Chenyi Zhou",
+      "Libin Wang",
+      "Keyan Ding",
+      "Qiang Zhang",
+      "Huajun Chen"
+     ]
+    },
+    {
+     "id": "2608.13662",
+     "title": "Ontology-Grounded Project Memory for Coding Agents",
+     "abstract": "Coding agents have become the primary means of generating new code in many software projects, and the resulting velocity of changes makes keeping track of the reasons behind those changes challenging. This paper introduces MOOSEDev, a system designed to give coding agents structured, ontology-grounded project memory. The system captures architectural decisions, lessons, constraints, and rationales in a knowledge graph exposed to agents via a Model Context Protocol (MCP) interface. Records carry lifecycle status, provenance, and supersession links, queryable via MOOSE, a proprietary neurosymbolic engine that treats the symbolic layer as the primary reasoning substrate. We compared MOOSEDev against a production vector-memory tool on a neutral public corpus of 835 typed records. MOOSEDev returned the expected answer set essentially in full (0.98-1.00) on supersession, set-completeness, and negation questions, whereas the baseline's top-k retrieval surfaced between 6% and 27%. Conversely, relevance recall and token cost were largely equivalent between the two systems. We also describe a temporal commit-history bootstrap of our own codebase, a pre-registered live trial, and lessons learned.",
+     "published": "2026-08-13",
+     "authors": [
+      "James Adam"
+     ]
+    },
+    {
+     "id": "2609.09895",
+     "title": "Can We Trust Video Hallucination Detectors? VidHalLoc for Evaluating the Evaluators",
+     "abstract": "Video-language models and video agents can produce hallucinations that conflict with spatiotemporal evidence. Existing benchmarks mainly evaluate model hallucinations, and heterogeneous mechanisms make detector reliability difficult to compare. We introduce VidHalLoc, a benchmark that evaluates hallucination detection methods under a unified diagnostic evaluation protocol using 2,000 adversarial hallucination samples across Video Question Answering and Video Captioning tasks, spanning Ontology and Dynamic hallucination categories. To construct VidHalLoc efficiently, we introduce VideoHALO, a Harness Engineering-informed multi-agent workflow that decomposes data construction into four executable stages supported by a memory system and a communication protocol. Evaluation of fifteen methods reveals that the four dedicated detectors peak at an Overall accuracy of only 34.63%, indicating limited reliability across video hallucination types [Dataset Repository: https://huggingface.co/datasets/wesfggfd/VidHalLoc].",
+     "published": "2026-09-09",
+     "authors": [
+      "Xinyu Chen",
+      "Adnan Mahmood",
+      "Mark Dras"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "MemOnt-2",
+   "query": "abs:ontology AND (abs:\"agent memory\" OR abs:\"long-term memory\" OR abs:\"memory graph\") AND (abs:LLM OR abs:\"language model\")",
+   "date_filter": "submittedDate:[202201010000 TO 202609252359]",
+   "total": 3,
+   "records": [
+    {
+     "id": "2504.14845",
+     "title": "Enhancing the Patent Matching Capability of Large Language Models via the Memory Graph",
+     "abstract": "Intellectual Property (IP) management involves strategically protecting and utilizing intellectual assets to enhance organizational innovation, competitiveness, and value creation. Patent matching is a crucial task in intellectual property management, which facilitates the organization and utilization of patents. Existing models often rely on the emergent capabilities of Large Language Models (LLMs) and leverage them to identify related patents directly. However, these methods usually depend on matching keywords and overlook the hierarchical classification and categorical relationships of patents. In this paper, we propose MemGraph, a method that augments the patent matching capabilities of LLMs by incorporating a memory graph derived from their parametric memory. Specifically, MemGraph prompts LLMs to traverse their memory to identify relevant entities within patents, followed by attributing these entities to corresponding ontologies. After traversing the memory graph, we utilize extracted entities and ontologies to improve the capability of LLM in comprehending the semantics of patents. Experimental results on the PatentMatch dataset demonstrate the effectiveness of MemGraph, achieving a 17.68% performance improvement over baseline LLMs. The further analysis highlights the generalization ability of MemGraph across various LLMs, both in-domain and out-of-domain, and its capacity to enhance the internal reasoning processes of LLMs during patent matching. All data and codes are available at https://github.com/NEUIR/MemGraph.",
+     "published": "2025-04-21",
+     "authors": [
+      "Qiushi Xiong",
+      "Zhipeng Xu",
+      "Zhenghao Liu",
+      "Mengjia Wang",
+      "Zulong Chen",
+      "Yue Sun",
+      "Yu Gu",
+      "Xiaohua Li",
+      "Ge Yu"
+     ]
+    },
+    {
+     "id": "2604.20795",
+     "title": "Automatic Ontology Construction Using LLMs as an External Layer of Memory, Verification, and Planning for Hybrid Intelligent Systems",
+     "abstract": "This paper presents a hybrid architecture for intelligent systems in which large language models (LLMs) are extended with an external ontological memory layer. Instead of relying solely on parametric knowledge and vector-based retrieval (RAG), the proposed approach constructs and maintains a structured knowledge graph using RDF/OWL representations, enabling persistent, verifiable, and semantically grounded reasoning. The core contribution is an automated pipeline for ontology construction from heterogeneous data sources, including documents, APIs, and dialogue logs. The system performs entity recognition, relation extraction, normalization, and triple generation, followed by validation using SHACL and OWL constraints, and continuous graph updates. During inference, LLMs operate over a combined context that integrates vector-based retrieval with graph-based reasoning and external tool interaction. Experimental observations on planning tasks, including the Tower of Hanoi benchmark, indicate that ontology augmentation improves performance in multi-step reasoning scenarios compared to baseline LLM systems. In addition, the ontology layer enables formal validation of generated outputs, transforming the system into a generation-verification-correction pipeline. The proposed architecture addresses key limitations of current LLM-based systems, including lack of long-term memory, weak structural understanding, and limited reasoning capabilities. It provides a foundation for building agent-based systems, robotics applications, and enterprise AI solutions that require persistent knowledge, explainability, and reliable decision-making.",
+     "published": "2026-04-22",
+     "authors": [
+      "Pavel Salovskii",
+      "Iuliia Gorshkova"
+     ]
+    },
+    {
+     "id": "2607.04391",
+     "title": "Memory-Orchestrated Semantic System (MOSS): An Auditable Agentic Memory Architecture",
+     "abstract": "Long-term memory remains a structural weakness of AI agents. The dominant approach, retrieval-augmented generation (RAG), relies on embedding-based similarity search, which is opaque by construction, difficult to audit, and bounded by the theoretical limits of vector representations. We present the Memory-Orchestrated Semantic System (MOSS), an agentic memory architecture in which the agent drives retrieval over a structured relational database. MOSS is model-agnostic, storage-agnostic, and API-agnostic: it runs on any relational engine, connects to any LLM provider (or to deterministic non-LLM processes), and deploys on any infrastructure, local or cloud. Its retrieval execution is symbolic and reproducible (once a query is formulated, no LLM participates in the retrieval loop) and every step of the system, from indexing to answer formulation, is logged and inspectable, making MOSS auditable by construction. Rather than imposing an external ontology, MOSS derives its conceptual vocabulary from the corpus itself. We report on a longitudinal deployment unique in the agentic-memory literature: a year of continuous production over an individual scholar's working corpus--a conversational corpus reaching back to October 2024 (some 44 million tokens, retroactively indexed) comprising 110,183 segments, alongside 163,494 catalogued documents, 569 inductively derived concepts, 322,662 concept annotations, and eleven metadata graphs totaling approximately five million relations--across four successive infrastructure generations. While the present case is that of a single researcher, the architecture is in no way specific to one person: it serves a team, an institution, or any entity that accumulates knowledge over time. We argue that auditable, sovereign, structurally unbounded memory is a precondition for AI agents intended to accompany a person or an organization over years rather than sessions.",
+     "published": "2026-07-05",
+     "authors": [
+      "Serge Lacasse",
+      "Jérémie Hatier",
+      "Alex Baker"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "MemOnt-3",
+   "query": "abs:OWL AND abs:memory AND abs:agent AND abs:LLM",
+   "date_filter": "submittedDate:[202201010000 TO 202609252359]",
+   "total": 2,
+   "records": [
+    {
+     "id": "2510.13363",
+     "title": "D-SMART: Enhancing LLM Dialogue Consistency via Dynamic Structured Memory And Reasoning Tree",
+     "abstract": "Large Language Models (LLMs) often exhibit factual inconsistencies and logical decay in extended, multi-turn dialogues, a challenge stemming from their reliance on static, pre-trained knowledge and an inability to reason adaptively over the dialogue history. Prevailing mitigation strategies, such as Retrieval-Augmented Generation (RAG) and agentic working memories, improve information recall but still engage with fundamentally static knowledge sources and follow pre-defined single reasoning path. This hinders their ability to preserve factual and logical consistency of their responses in multi-turn dialogues while the context evolves over time. To address this issue, we propose D-SMART, a model-agnostic framework designed to maintain multi-turn dialogue consistency by enabling LLMs to build and reason over a dynamic, structured representation of the conversational context. This is achieved via two synergistic components: (1) a Dynamic Structured Memory (DSM), which incrementally constructs and maintains an authoritative, OWL-compliant knowledge graph of the conversation; and (2) a Reasoning Tree (RT), which executes inferences as an explicit and traceable multi-step search over the graph. As the popular-used quality score (judged by GPT-4) can overlook logical flaws, we introduce new NLI-based metrics to better measure multi-turn dialogue consistency. Comprehensive experiments on the MT-Bench-101 benchmark show that D-SMART significantly outperforms state-of-the-art baselines, elevating the dialogue consistency score by over 48\\% for both proprietary and open-source models, and notably improves the quality score of the latter by up to 10.1\\%.",
+     "published": "2025-10-15",
+     "authors": [
+      "Xiang Lei",
+      "Qin Li",
+      "Min Zhang",
+      "Min Zhang"
+     ]
+    },
+    {
+     "id": "2604.20795",
+     "title": "Automatic Ontology Construction Using LLMs as an External Layer of Memory, Verification, and Planning for Hybrid Intelligent Systems",
+     "abstract": "This paper presents a hybrid architecture for intelligent systems in which large language models (LLMs) are extended with an external ontological memory layer. Instead of relying solely on parametric knowledge and vector-based retrieval (RAG), the proposed approach constructs and maintains a structured knowledge graph using RDF/OWL representations, enabling persistent, verifiable, and semantically grounded reasoning. The core contribution is an automated pipeline for ontology construction from heterogeneous data sources, including documents, APIs, and dialogue logs. The system performs entity recognition, relation extraction, normalization, and triple generation, followed by validation using SHACL and OWL constraints, and continuous graph updates. During inference, LLMs operate over a combined context that integrates vector-based retrieval with graph-based reasoning and external tool interaction. Experimental observations on planning tasks, including the Tower of Hanoi benchmark, indicate that ontology augmentation improves performance in multi-step reasoning scenarios compared to baseline LLM systems. In addition, the ontology layer enables formal validation of generated outputs, transforming the system into a generation-verification-correction pipeline. The proposed architecture addresses key limitations of current LLM-based systems, including lack of long-term memory, weak structural understanding, and limited reasoning capabilities. It provides a foundation for building agent-based systems, robotics applications, and enterprise AI solutions that require persistent knowledge, explainability, and reliable decision-making.",
+     "published": "2026-04-22",
+     "authors": [
+      "Pavel Salovskii",
+      "Iuliia Gorshkova"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "VerKG-1",
+   "query": "abs:\"knowledge graph\" AND (abs:guardrail OR abs:\"runtime verification\" OR abs:\"runtime enforcement\" OR abs:\"policy enforcement\" OR abs:shield OR abs:\"safety constraints\") AND (abs:agent OR abs:agents) AND (abs:LLM OR abs:\"language model\")",
+   "date_filter": "submittedDate:[202201010000 TO 202609252359]",
+   "total": 4,
+   "records": [
+    {
+     "id": "2510.19227",
+     "title": "A Design Science Blueprint for an Orchestrated AI Assistant in Doctoral Supervision",
+     "abstract": "This study presents a design science blueprint for an orchestrated AI assistant and co-pilot in doctoral supervision that acts as a socio-technical mediator. Design requirements are derived from Stakeholder Theory and bounded by Academic Integrity. We consolidated recent evidence on supervision gaps and student wellbeing, then mapped issues to adjacent large language model capabilities using a transparent severity-mitigability triage. The artefact assembles existing capabilities into one accountable agentic AI workflow that proposes retrieval-augmented generation and temporal knowledge graphs, as well as mixture-of-experts routing as a solution stack of technologies to address existing doctoral supervision pain points. Additionally, a student context store is proposed, which introduces behaviour patches that turn tacit guidance into auditable practice and student-set thresholds that trigger progress summaries, while keeping authorship and final judgement with people. We specify a student-initiated moderation loop in which assistant outputs are routed to a supervisor for review and patching, and we analyse a reconfigured stakeholder ecosystem that makes information explicit and accountable. Risks in such a system exist, and among others, include AI over-reliance and the potential for the illusion of learning, while guardrails are proposed. The contribution is an ex ante, literature-grounded design with workflow and governance rules that institutions can implement and trial across disciplines.",
+     "published": "2025-10-22",
+     "authors": [
+      "Teo Susnjak",
+      "Timothy R. McIntosh",
+      "Tong Liu",
+      "Paul Watters"
+     ]
+    },
+    {
+     "id": "2512.20275",
+     "title": "Graph-Symbolic Policy Enforcement and Control (G-SPEC): A Neuro-Symbolic Framework for Safe Agentic AI in 5G Autonomous Networks",
+     "abstract": "As networks evolve toward 5G Standalone and 6G, operators face orchestration challenges that exceed the limits of static automation and Deep Reinforcement Learning. Although Large Language Model (LLM) agents offer a path toward intent-based networking, they introduce stochastic risks, including topology hallucinations and policy non-compliance. To mitigate this, we propose Graph-Symbolic Policy Enforcement and Control (G-SPEC), a neuro-symbolic framework that constrains probabilistic planning with deterministic verification. The architecture relies on a Governance Triad - a telecom-adapted agent (TSLAM-4B), a Network Knowledge Graph (NKG), and SHACL constraints. We evaluated G-SPEC on a simulated 450-node 5G Core, achieving zero safety violations and a 94.1% remediation success rate, significantly outperforming the 82.4% baseline. Ablation analysis indicates that NKG validation drives the majority of safety gains (68%), followed by SHACL policies (24%). Scalability tests on topologies ranging from 10K to 100K nodes demonstrate that validation latency scales as $O(k^{1.2})$ where $k$ is subgraph size. With a processing overhead of 142ms, G-SPEC is viable for SMO-layer operations.",
+     "published": "2025-12-23",
+     "authors": [
+      "Divya Vijay",
+      "Vignesh Ethiraj"
+     ]
+    },
+    {
+     "id": "2601.04878",
+     "title": "Higher-Order Knowledge Representations for Agentic Scientific Reasoning",
+     "abstract": "Scientific inquiry requires systems-level reasoning that integrates heterogeneous experimental data, cross-domain knowledge, and mechanistic evidence into coherent explanations. While Large Language Models (LLMs) offer inferential capabilities, they often depend on retrieval-augmented contexts that lack structural depth. Traditional Knowledge Graphs (KGs) attempt to bridge this gap, yet their pairwise constraints fail to capture the irreducible higher-order interactions that govern emergent physical behavior. To address this, we introduce a methodology for constructing hypergraph-based knowledge representations that faithfully encode multi-entity relationships. Applied to a corpus of ~1,100 manuscripts on biocomposite scaffolds, our framework constructs a global hypergraph of 161,172 nodes and 320,201 hyperedges, revealing a scale-free topology (power law exponent ~1.23) organized around highly connected conceptual hubs. This representation prevents the combinatorial explosion typical of pairwise expansions and explicitly preserves the co-occurrence context of scientific formulations. We further demonstrate that equipping agentic systems with hypergraph traversal tools, specifically using node-intersection constraints, enables them to bridge semantically distant concepts. By exploiting these higher-order pathways, the system successfully generates grounded mechanistic hypotheses for novel composite materials, such as linking cerium oxide to PCL scaffolds via chitosan intermediates. This work establishes a \"teacherless\" agentic reasoning system where hypergraph topology acts as a verifiable guardrail, accelerating scientific discovery by uncovering relationships obscured by traditional graph methods.",
+     "published": "2026-01-08",
+     "authors": [
+      "Isabella A. Stewart",
+      "Markus J. Buehler"
+     ]
+    },
+    {
+     "id": "2605.16309",
+     "title": "ANNEAL: Adapting LLM Agents via Governed Symbolic Patch Learning",
+     "abstract": "LLM-based agents can recover from individual execution errors, yet they repeatedly fail on the same fault when the underlying process knowledge--operator schemas, preconditions, and constraints--remains unrepaired. Existing self-evolving approaches address this gap by updating prompts, memory, or model weights, but none directly repair the symbolic structures that encode how tasks are executed, and few provide the governance guarantees required for safe deployment. We introduce ANNEAL, a neuro-symbolic agent that converts recurring failures into governed symbolic edits of a process knowledge graph without modifying foundation model weights. Its core mechanism, Failure-Driven Knowledge Acquisition (FDKA), localizes the responsible operator, synthesizes a typed patch through constrained LLM generation, and validates the proposal via multi-dimensional scoring, symbolic guardrails, and canary testing before commit. Every accepted edit carries full provenance and deterministic rollback capability. Across four domains and 27 multi-seed runs, ANNEAL is the only evaluated system that commits persistent structural repairs--strong baselines such as ReAct and Reflexion achieve high episodic recovery yet retain 72--100% holdout failure rates on recurring faults, whereas ANNEAL reduces these to 0% in the tested recurring-failure settings. Ablation confirms that removing FDKA eliminates all structural repairs and drops success rate by up to 26.7 percentage points. These results suggest that governed symbolic repair offers a complementary paradigm to weight-level and prompt-level adaptation for persistent fault elimination.",
+     "published": "2026-05-04",
+     "authors": [
+      "Safayat Bin Hakim",
+      "Keyan Guo",
+      "Wenkai Tan",
+      "Alvaro Velasquez",
+      "Shouhuai Xu",
+      "Houbing Herbert Song"
+     ]
+    }
+   ]
+  },
+  {
+   "name": "VerKG-2",
+   "query": "abs:\"knowledge graph\" AND abs:agent AND abs:LLM AND (abs:\"formal verification\" OR abs:\"model checking\" OR abs:\"temporal logic\" OR abs:compliance)",
+   "date_filter": "submittedDate:[202201010000 TO 202609252359]",
+   "total": 19,
+   "records": [
+    {
+     "id": "2409.19006",
+     "title": "Towards Automated Patent Workflows: AI-Orchestrated Multi-Agent Framework for Intellectual Property Management and Analysis",
+     "abstract": "Patents are the currency of innovation, and like any currency, they need to be managed and protected (Gavin Potenza). Patents, as legal documents that secure intellectual property rights, play a critical role in technological innovation. The growing complexity of patent documents and the surge in patent applications have created a need for automated solutions in patent analysis. In this work, we present PatExpert, an autonomous multi-agent conversational framework designed to streamline and optimize patent-related tasks. The framework consists of a metaagent that coordinates task-specific expert agents for various patent-related tasks and a critique agent for error handling and feedback provision. The meta-agent orchestrates specialized expert agents, each fine-tuned for specific tasks such as patent classification, acceptance, claim generation, abstractive summarization, multi-patent analysis, and scientific hypothesis generation. For multi-patent analysis, the framework incorporates advanced methods like Graph Retrieval-Augmented Generation (GRAG) to enhance response accuracy and relevance by combining semantic similarity with knowledge graphs. Error handling is managed by critique agents (Gold-LLM-as-a-Judge and Reward-LLM-as-a-Judge), which evaluate output responses for accuracy and provide iterative feedback. The framework also prioritizes explainability, ensuring transparent justifications for decisions made during patent analysis. Its comprehensive capabilities make it a valuable tool for automating complex patent workflows, enhancing efficiency, accuracy, and compliance in patent-related tasks. Empirical evidence demonstrates significant improvements in patent processing tasks, concluding that the framework offers a robust solution for automating and optimizing patent analysis.",
+     "published": "2024-09-21",
+     "authors": [
+      "Sakhinana Sagar Srinivas",
+      "Vijay Sri Vaikunth",
+      "Venkataramana Runkana"
+     ]
+    },
+    {
+     "id": "2412.12513",
+     "title": "Generating Move Smart Contracts based on Concepts",
+     "abstract": "The growing adoption of formal verification for smart contracts has spurred the development of new verifiable languages like Move. However, the limited availability of training data for these languages hinders effective code generation by large language models (LLMs). This paper presents ConMover, a novel framework that enhances LLM-based code generation for Move by leveraging a knowledge graph of Move concepts and a small set of verified code examples. ConMover integrates concept retrieval, planning, coding, and debugging agents in an iterative process to refine generated code. Evaluations with various open-source LLMs demonstrate substantial accuracy improvements over baseline models. These results underscore ConMover's potential to address low-resource code generation challenges, bridging the gap between natural language descriptions and reliable smart contract development.",
+     "published": "2024-12-17",
+     "authors": [
+      "Rabimba Karanjai",
+      "Sam Blackshear",
+      "Lei Xu",
+      "Weidong Shi"
+     ]
+    },
+    {
+     "id": "2508.02999",
+     "title": "AGENTiGraph: A Multi-Agent Knowledge Graph Framework for Interactive, Domain-Specific LLM Chatbots",
+     "abstract": "AGENTiGraph is a user-friendly, agent-driven system that enables intuitive interaction and management of domain-specific data through the manipulation of knowledge graphs in natural language. It gives non-technical users a complete, visual solution to incrementally build and refine their knowledge bases, allowing multi-round dialogues and dynamic updates without specialized query languages. The flexible design of AGENTiGraph, including intent classification, task planning, and automatic knowledge integration, ensures seamless reasoning between diverse tasks. Evaluated on a 3,500-query benchmark within an educational scenario, the system outperforms strong zero-shot baselines (achieving 95.12% classification accuracy, 90.45% execution success), indicating potential scalability to compliance-critical or multi-step queries in legal and medical domains, e.g., incorporating new statutes or research on the fly. Our open-source demo offers a powerful new paradigm for multi-turn enterprise knowledge management that bridges LLMs and structured graphs.",
+     "published": "2025-08-05",
+     "authors": [
+      "Xinjie Zhao",
+      "Moritz Blum",
+      "Fan Gao",
+      "Yingjian Chen",
+      "Boming Yang",
+      "Luis Marquez-Carpintero",
+      "Mónica Pina-Navarro",
+      "Yanran Fu",
+      "So Morikawa",
+      "Yusuke Iwasawa",
+      "Yutaka Matsuo",
+      "Chanjun Park",
+      "Irene Li"
+     ]
+    },
+    {
+     "id": "2508.09893",
+     "title": "RAGulating Compliance: A Multi-Agent Knowledge Graph for Regulatory QA",
+     "abstract": "Regulatory compliance question answering (QA) requires precise, verifiable information, and domain-specific expertise, posing challenges for Large Language Models (LLMs). In this work, we present a novel multi-agent framework that integrates a Knowledge Graph (KG) of Regulatory triplets with Retrieval-Augmented Generation (RAG) to address these demands. First, agents build and maintain an ontology-free KG by extracting subject--predicate--object (SPO) triplets from regulatory documents and systematically cleaning, normalizing, deduplicating, and updating them. Second, these triplets are embedded and stored along with their corresponding textual sections and metadata in a single enriched vector database, allowing for both graph-based reasoning and efficient information retrieval. Third, an orchestrated agent pipeline leverages triplet-level retrieval for question answering, ensuring high semantic alignment between user queries and the factual \"who-did-what-to-whom\" core captured by the graph. Our hybrid system outperforms conventional methods in complex regulatory queries, ensuring factual correctness with embedded triplets, enabling traceability through a unified vector database, and enhancing understanding through subgraph visualization, providing a robust foundation for compliance-driven and broader audit-focused applications.",
+     "published": "2025-08-13",
+     "authors": [
+      "Bhavik Agarwal",
+      "Hemant Sunil Jomraj",
+      "Simone Kaplunov",
+      "Jack Krolick",
+      "Viktoria Rojkova"
+     ]
+    },
+    {
+     "id": "2508.17906",
+     "title": "FinReflectKG: Agentic Construction and Evaluation of Financial Knowledge Graphs",
+     "abstract": "The financial domain poses unique challenges for knowledge graph (KG) construction at scale due to the complexity and regulatory nature of financial documents. Despite the critical importance of structured financial knowledge, the field lacks large-scale, open-source datasets capturing rich semantic relationships from corporate disclosures. We introduce an open-source, large-scale financial knowledge graph dataset built from the latest annual SEC 10-K filings of all S and P 100 companies - a comprehensive resource designed to catalyze research in financial AI. We propose a robust and generalizable knowledge graph (KG) construction framework that integrates intelligent document parsing, table-aware chunking, and schema-guided iterative extraction with a reflection-driven feedback loop. Our system incorporates a comprehensive evaluation pipeline, combining rule-based checks, statistical validation, and LLM-as-a-Judge assessments to holistically measure extraction quality. We support three extraction modes - single-pass, multi-pass, and reflection-agent-based - allowing flexible trade-offs between efficiency, accuracy, and reliability based on user requirements. Empirical evaluations demonstrate that the reflection-agent-based mode consistently achieves the best balance, attaining a 64.8 percent compliance score against all rule-based policies (CheckRules) and outperforming baseline methods (single-pass and multi-pass) across key metrics such as precision, comprehensiveness, and relevance in LLM-guided evaluations.",
+     "published": "2025-08-25",
+     "authors": [
+      "Abhinav Arun",
+      "Fabrizio Dimino",
+      "Tejas Prakash Agarwal",
+      "Bhaskarjit Sarmah",
+      "Stefano Pasquali"
+     ]
+    },
+    {
+     "id": "2509.01716",
+     "title": "An LLM-enabled semantic-centric framework to consume privacy policies",
+     "abstract": "In modern times, people have numerous online accounts, but they rarely read the Terms of Service or Privacy Policy of those sites, despite claiming otherwise, due to the practical difficulty in comprehending them. The mist of data privacy practices forms a major barrier for user-centred Web approaches, and for data sharing and reusing in an agentic world. Existing research proposed methods for using formal languages and reasoning for verifying the compliance of a specified policy, as a potential cure for ignoring privacy policies. However, a critical gap remains in the creation or acquisition of such formal policies at scale. We present a semantic-centric approach for using state-of-the-art large language models (LLM), to automatically identify key information about privacy practices from privacy policies, and construct $\\mathit{Pr}^2\\mathit{Graph}$, knowledge graph with grounding from Data Privacy Vocabulary (DPV) for privacy practices, to support downstream tasks. Along with the pipeline, the $\\mathit{Pr}^2\\mathit{Graph}$ for the top-100 popular websites is also released as a public resource, by using the pipeline for analysis. We also demonstrate how the $\\mathit{Pr}^2\\mathit{Graph}$ can be used to support downstream tasks by constructing formal policy representations such as Open Digital Right Language (ODRL) or perennial semantic Data Terms of Use (psDToU). To evaluate the technology capability, we enriched the Policy-IE dataset by employing legal experts to create custom annotations. We benchmarked the performance of different large language models for our pipeline and verified their capabilities. Overall, they shed light on the possibility of large-scale analysis of online services' privacy practices, as a promising direction to audit the Web and the Internet. We release all datasets and source code as public resources to facilitate reuse and improvement.",
+     "published": "2025-09-01",
+     "authors": [
+      "Rui Zhao",
+      "Vladyslav Melnychuk",
+      "Jun Zhao",
+      "Jesse Wright",
+      "Nigel Shadbolt"
+     ]
+    },
+    {
+     "id": "2510.01724",
+     "title": "MetaboT: An LLM-based Multi-Agent Frameworkfor Interactive Analysis of Mass SpectrometryMetabolomics Knowledge Graphs",
+     "abstract": "Mass spectrometry-based metabolomics generates complex, high-dimensional data that holds vast potential for biological discovery but remains difficult to integrate and interpret. Knowledge graphs (KGs) unify this heterogeneous information by representing spectra, annotations, taxa, chemical classes, and biological activities as a single interoperable network; however, their practical use is limited by the steep learning curve of corresponding specialized representation and query languages. Here we introduce MetaboT, an open-source multi-agent Large Language Model (LLM) framework that translates natural-language questions into executable SPARQL queries over metabolomics knowledge graphs. MetaboT mitigates the hallucination and schema-compliance limitations of single-model approaches through a modular architecture in which specialised agents handle scope validation, entity resolution against authoritative resources, schema-aware query generation, iterative refinement, and result interpretation. We validated MetaboT on the Experimental Natural Products Knowledge Graph (ENPKG), using an expert-authored benchmark of natural-language questions paired with reference SPARQL queries, and demonstrate its ability to answer complex questions about plant--metabolite relationships and biological activities. MetaboT lowers the technical barrier for metabolomics researchers and enables semantic data mining without specialised programming expertise.",
+     "published": "2025-10-02",
+     "authors": [
+      "Madina Bekbergenova",
+      "Lucas Pradi",
+      "Benjamin Navet",
+      "Emma Tysinger",
+      "Franck Michel",
+      "Matthieu Feraud",
+      "Yousouf Taghzouti",
+      "Yan Zhou Chen",
+      "Olivier Kirchhoffer",
+      "Florence Mehl",
+      "Martin Legrand",
+      "Tao Jiang",
+      "Marco Pagni",
+      "Soha Hassoun",
+      "Jean-Luc Wolfender",
+      "Wout Bittremieux",
+      "Fabien Gandon",
+      "Louis-Félix Nothias"
+     ]
+    },
+    {
+     "id": "2512.20275",
+     "title": "Graph-Symbolic Policy Enforcement and Control (G-SPEC): A Neuro-Symbolic Framework for Safe Agentic AI in 5G Autonomous Networks",
+     "abstract": "As networks evolve toward 5G Standalone and 6G, operators face orchestration challenges that exceed the limits of static automation and Deep Reinforcement Learning. Although Large Language Model (LLM) agents offer a path toward intent-based networking, they introduce stochastic risks, including topology hallucinations and policy non-compliance. To mitigate this, we propose Graph-Symbolic Policy Enforcement and Control (G-SPEC), a neuro-symbolic framework that constrains probabilistic planning with deterministic verification. The architecture relies on a Governance Triad - a telecom-adapted agent (TSLAM-4B), a Network Knowledge Graph (NKG), and SHACL constraints. We evaluated G-SPEC on a simulated 450-node 5G Core, achieving zero safety violations and a 94.1% remediation success rate, significantly outperforming the 82.4% baseline. Ablation analysis indicates that NKG validation drives the majority of safety gains (68%), followed by SHACL policies (24%). Scalability tests on topologies ranging from 10K to 100K nodes demonstrate that validation latency scales as $O(k^{1.2})$ where $k$ is subgraph size. With a processing overhead of 142ms, G-SPEC is viable for SMO-layer operations.",
+     "published": "2025-12-23",
+     "authors": [
+      "Divya Vijay",
+      "Vignesh Ethiraj"
+     ]
+    },
+    {
+     "id": "2601.01844",
+     "title": "Clinical Knowledge Graph Construction and Evaluation with Multi-LLMs via Retrieval-Augmented Generation",
+     "abstract": "Large language models (LLMs) offer new opportunities for constructing knowledge graphs (KGs) from unstructured clinical narratives. However, existing approaches often rely on structured inputs and lack robust validation of factual accuracy and semantic consistency, limitations that are especially problematic in oncology. We introduce an end-to-end framework for clinical KG construction and evaluation directly from free text using multi-agent prompting and a schema-constrained Retrieval-Augmented Generation (KG-RAG) strategy. Our pipeline integrates (1) prompt-driven entity, attribute, and relation extraction; (2) entropy-based uncertainty scoring; (3) ontology-aligned RDF/OWL schema generation; and (4) multi-LLM consensus validation for hallucination detection and semantic refinement. Beyond static graph construction, the framework supports continuous refinement and self-supervised evaluation, enabling iterative improvement of graph quality. Applied to two oncology cohorts (PDAC and BRCA), our method produces interpretable, SPARQL-compatible, and clinically grounded knowledge graphs without relying on gold-standard annotations. Experimental results demonstrate consistent gains in precision, relevance, and ontology compliance over baseline methods.",
+     "published": "2026-01-05",
+     "authors": [
+      "Udiptaman Das",
+      "Krishnasai B. Atmakuri",
+      "Duy Ho",
+      "Chi Lee",
+      "Yugyung Lee"
+     ]
+    },
+    {
+     "id": "2604.12177",
+     "title": "Policy-Invisible Violations in LLM-Based Agents",
+     "abstract": "LLM-based agents can execute actions that are syntactically valid, user-sanctioned, and semantically appropriate, yet still violate organizational policy because the facts needed for correct policy judgment are hidden at decision time. We call this failure mode policy-invisible violations: cases in which compliance depends on entity attributes, contextual state, or session history absent from the agent's visible context. We present PhantomPolicy, a benchmark spanning eight violation categories with balanced violation and safe-control cases, in which all tool responses contain clean business data without policy metadata. We manually review all 600 model traces produced by five frontier models and evaluate them using human-reviewed trace labels. Manual review changes 32 labels (5.3%) relative to the original case-level annotations, confirming the need for trace-level human review. To demonstrate what world-state-grounded enforcement can achieve under favorable conditions, we introduce Sentinel, an enforcement framework based on counterfactual graph simulation. Sentinel treats every agent action as a proposed mutation to an organizational knowledge graph, performs speculative execution to materialize the post-action world state, and verifies graph-structural invariants to decide Allow/Block/Clarify. Against human-reviewed trace labels, Sentinel substantially outperforms a content-only DLP baseline (68.8% vs. 93.0% accuracy) while maintaining high precision, though it still leaves room for improvement on certain violation categories. These results demonstrate what becomes achievable once policy-relevant world state is made available to the enforcement layer.",
+     "published": "2026-04-14",
+     "authors": [
+      "Jie Wu",
+      "Ming Gong"
+     ]
+    },
+    {
+     "id": "2604.23802",
+     "title": "EndoGov: A knowledge-governed multi-agent expert system for endometrial cancer risk stratification",
+     "abstract": "Multimodal artificial intelligence models for endometrial cancer (EC) risk stratification typically optimize aggregate predictive performance but provide limited mechanisms for enforcing mandatory guideline overrides, such as assigning POLE-mutated tumors to the low-risk group despite high-grade morphology. We present EndoGov, a two-tier multi-agent expert system that factorizes the decision process as D(x) = G(P(x), R), where specialist agents P extract structured evidence and a governance agent G applies an executable rule set R. Tier 1 comprises pathology, molecular, and clinical agents that independently generate schema-constrained reports from frozen foundation-model features or structured records. Tier 2 queries an evidence-level-weighted Guideline Knowledge Graph, using deterministic hard-path rules for high-priority overrides and constrained soft-path reasoning for ambiguous cases. In TCGA-UCEC (n=541), EndoGov achieved 0.943 accuracy, 0.973 macro AUC, and a conditional logic-violation rate (C-LVR) of 0.93% among trigger-exposed cases. In CPTAC-UCEC (n=95), where reference labels are guideline-derived, EndoGov reached 0.842 accuracy compared with < 0.31 for locked-transfer neural baselines, supporting governance-pathway transfer under distribution shift rather than validation against independent clinical truth. End-to-end safety decomposition localized residual failures primarily to upstream molecular detection rather than downstream governance. Backend-swap experiments further showed that hard-path compliance is invariant to the LLM backend. These findings indicate that explicit clinical-rule governance can provide guideline-compliant, auditable EC risk assignment while preserving competitive discrimination.",
+     "published": "2026-04-26",
+     "authors": [
+      "Weiye Dai",
+      "Liyun Shi",
+      "Zanxiang He",
+      "Yuling Ma",
+      "Mengyuan Lin",
+      "Dianxiang Sun",
+      "Liming Nie"
+     ]
+    },
+    {
+     "id": "2604.24807",
+     "title": "From Prototype to Classroom: An Intelligent Tutoring System for Quantum Education",
+     "abstract": "Quantum computing instructors face a compounding problem: the concepts are counterintuitive, the mathematical formalism is dense, and qualified faculty are scarce outside a small number of well-resourced institutions. Our prior work introduced a knowledge-graph-augmented tutoring prototype with two specialized LLM agents: a Teaching Agent for dynamic interaction and a Lesson Planning Agent for lesson generation. Validated on simulated runs rather than in a real course, that prototype left open whether more aggressive agent specialization would be needed to handle the full range of quantum education tasks under real student load. This paper answers the three questions that the prototype could not answer. Can agent specialization solve the reliability problem in a domain as technically demanding as quantum information science? Can the system run in a real course, not a demonstration? Does the instructor gain actionable intelligence from the deployment? We present ITAS (Intelligent Teaching Assistant System), a multi-agent tutoring system built around four contributions: a five-module QIS curriculum grounded in Watrous's information-first framework, a Spoke-and-Wheel teaching architecture with quantum-specialized agents, a cloud infrastructure designed for production use and regulatory compliance, and a conversational analytics layer for instructors and content developers. Piloted in a quantum computing course at Old Dominion University, the system supports all three answers: deployment evidence is consistent with specialization addressing the task-boundary failures observed in the prototype, cloud infrastructure supports classroom-scale concurrency at sub-textbook cost, and the analytics agent surfaces curriculum gaps the instructor could not otherwise see.",
+     "published": "2026-04-27",
+     "authors": [
+      "Iizalaarab Elhaimeur",
+      "Nikos Chrisochoides"
+     ]
+    },
+    {
+     "id": "2605.04003",
+     "title": "Physics-Grounded Multi-Agent Architecture for Traceable, Risk-Aware Human-AI Decision Support in Manufacturing",
+     "abstract": "High-precision CNC machining of free-form aerospace components requires bounded compensations informed by inspection, simulation, and process knowledge. Off-the-shelf large language model (LLM) assistants can generate text, but they do not reliably execute risk-constrained multi-step numerical workflows or provide auditable provenance for high-stakes decisions. We present multi-agent knowledge analysis (MAKA), a human-in-the-loop decision-support architecture that separates intent routing, tools-only quantitative analysis, knowledge graph retrieval, and critic-based verification that enforces physical plausibility, safety bounds, and provenance completeness before recommendations are surfaced for human approval. MAKA is instantiated on a Ti-6Al-4V rotor blade machining testbed by fusing virtual-machining path-tracking error fields, cutting-force and deflection simulations, and scan-based 3D inspection deviation maps from 16 blades. The analysis decomposes deviation into an evidence-linked pathing component, a drift-based wear proxy capturing systematic evolution across parts, a residual systematic compliance term, and a variability proxy for instability-aware escalation. In a three-level tool-orchestration benchmark (single-step through $\\geq$3-step stateful sequences), MAKA improves successful tool execution by up to 87.5 percentage points relative to an unstructured single-model interaction pattern with identical tool access. Digital twin what-if studies show MAKA can coordinate traceable compensation candidates that reduce predicted surface deviation from order $10^{-2}$in to approximately $\\pm 10^{-3}$in over most of the blade within the simulation environment, providing a pre-deployment verification signal for risk-aware human decision-making.",
+     "published": "2026-05-05",
+     "authors": [
+      "Danny Hoang",
+      "Ryan Matthiessen",
+      "Christopher Miller",
+      "Nasir Mannan",
+      "Ruby ElKharboutly",
+      "David Gorsich",
+      "Matthew P. Castanier",
+      "Farhad Imani"
+     ]
+    },
+    {
+     "id": "2605.06434",
+     "title": "Knowledge Graphs, the Missing Link in Agentic AI-based Formal Verification",
+     "abstract": "Recent advances in Large Language Models (LLMs) have enabled workflows that generate SystemVerilog Assertions (SVAs) from natural-language specifications, with the potential to accelerate Formal Verification (FV). However, high-quality assertion synthesis remains challenging because specifications are often ambiguous or incomplete and critical micro-architectural details reside in the Register Transfer Level (RTL). Many existing approaches treat the specification and RTL as loosely structured text, which weakens specification-to-RTL grounding and leads to semantic mismatches and frequent syntax failures during formal parsing and elaboration. This work addresses these limitations with a verification-centric Knowledge Graph (KG) constructed from structured Intermediate Representations (IRs) extracted from the specification, RTL, and formal-tool feedback, including syntax diagnostics, Counterexamples (CEXs), and coverage reports. The KG links requirements, design hierarchy, signals, assumptions, and properties to provide traceable, design-grounded context for generation. A multi-agent workflow queries and updates this KG to generate SVAs and to drive three refinement loops: syntax repair guided by tool diagnostics, CEX-guided correction using trace links, and coverage-directed property augmentation. Evaluation across seven benchmark designs indicates that KG-based context retrieval improves specification-to-RTL grounding and consistently produces compilable SVAs with low syntax-repair overhead. The approach achieves formal coverage ranging from 78.5% to 99.4%, though convergence exhibits design dependence with complex temporal and arithmetic reasoning remaining challenging for current LLM capabilities.",
+     "published": "2026-05-07",
+     "authors": [
+      "Vaisakh Naduvodi Viswambharan",
+      "Keerthan Kopparam Radhakrishna",
+      "Deepak Narayan Gadde",
+      "Aman Kumar"
+     ]
+    },
+    {
+     "id": "2606.17203",
+     "title": "Trust-Aware Multi-Agent Traceability: Confidence-Calibrated Knowledge Graphs for Consistent Software Artifact Management",
+     "abstract": "Multi-agent AI systems are increasingly used to automate software engineering tasks including requirements analysis, architecture design, test generation, and traceability linking. When these agents operate as a sequential pipeline over shared software artifacts, errors and low-confidence decisions made by upstream agents propagate to downstream stages, producing orphaned requirements, contradictory links, and compliance gaps that pose significant risks in safety-critical domains. We propose a trust-aware coordination framework where a shared knowledge graph serves as both centralized semantic memory and a coordination surface through which agents assess and build upon each other's contributions using calibrated confidence scores. Our approach introduces a two-stage traceability link prediction pipeline combining embedding-based retrieval with LLM-based multi-criteria analysis, a traceability seeding mechanism that enables comparison between derivation-time and validation-time confidence, and a consistency protocol governing pipeline interactions through confidence threshold gating, confidence divergence detection, and conflict resolution. We evaluate on an automotive software engineering case study measuring link prediction calibration, protocol effectiveness, threshold sensitivity, and the impact of traceability seeding. Ablation studies confirm that confidence calibration is essential for effective pipeline coordination.",
+     "published": "2026-06-15",
+     "authors": [
+      "Mohamed Essam",
+      "Kareem Wael",
+      "Azza Hassan",
+      "Ahmed Haitham",
+      "Mahmoud Soliman",
+      "Samer Saber",
+      "Ibrahim Habib"
+     ]
+    },
+    {
+     "id": "2606.25622",
+     "title": "Probabilistic Agents in Deterministic Audits: Evaluating Multi-Agent Systems for Automated Audits Based on the German IT-Grundschutz",
+     "abstract": "The NIS-2 Directive mandates robust Risk Management from thousands of small and medium enterprises. To ensure compliance, companies rely on established standards such as the German IT-Grundschutz (IT-GS) of the Federal Office for Information Security. However, IT-GS certification is resource-intensive and requires a high level of manual effort for documentation, validation, and revision, making scalable implementation difficult and expensive. Building upon our previous conceptual framework, this paper presents the technical implementation and empirical evaluation of a Multi-Agent System (MAS) architecture combined with Hybrid Retrieval Augmented Generation (HybridRAG) for the partial automation of IT-GS certification. We introduce two novel technical contributions to the MAS architecture to enforce the compliance rigor. The Hypothesis-Verification Loop in the Structural Analysis (SA) phase that cross-references agent-inferred dependencies against the Knowledge Graph to reduce hallucinations, and a Decoupled Reasoning Pipeline that separates agent-driven semantic extraction from the deterministic protection need inheritance. We utilize the BSI's \"RecPlast GmbH\" case study as a human expert-generated reference data set for end-to-end evaluation of the architecture and to quantify Precision, Recall, and F1-scores. The performance of the system is investigated across the phases of SA, Protection Needs Assessment (PNA), Modeling, and IT-GS Check. The empirical results reveal noticeable differences throughout the different steps of IT-GS. While the MAS demonstrates high efficacy in semantic tasks (SA and Modeling), significantly reducing manual effort through automated information extraction, quantitative results reveal limitations in logical reasoning phases (PNA and IT-GS Check) as the probabilistic nature of current LLMs struggles to meet the deterministic rigor required by IT-GS.",
+     "published": "2026-06-24",
+     "authors": [
+      "Lea Roxanne Muth",
+      "Marian Margraf"
+     ]
+    },
+    {
+     "id": "2607.08288",
+     "title": "From Legacy Documentation to OSCAL: An MCP-Based Agent Pipeline for Threat-Informed Continuous Compliance in Critical Infrastructure",
+     "abstract": "In critical infrastructure, operational technology environments often cannot be actively scanned, and yet active system feedback is needed for risk assessment and compliance. This paper presents a non-invasive, MCP-grounded multi-agent pipeline that converts natural-language system descriptions into source-verified knowledge graph and audit-ready artifacts in the NIST OSCAL format for continuous automated compliance management. The architecture decouples LLM-based reasoning from deterministic knowledge retrieval against authoritative threat-intelligence sources, reducing the risk of fabricated vulnerabilities and hallucinated attack paths. In an evidence-based synthetic scenario of a water utility, the pipeline achieves 0.90 CVE recall and perfect D3FEND recall. It generates a schema-valid OSCAL System Security Plan and an OSCAL Security Assessment Report. Nevertheless, the core insight is not that grounding via MCP eliminates errors (e.g., hallucinations) entirely from the pipeline, but that it shifts errors into the first phase of asset extraction from the natural language description. Here, a single incorrectly extracted entity can lead to genuine but irrelevant CVEs in subsequent stages of the pipeline, which consumes time and resources. However, it makes the remaining risk visible, verifiable, and suitable for a time-efficient manual review, since the infrastructure (e.g., version numbers, OS, etc.) is typically known.",
+     "published": "2026-07-09",
+     "authors": [
+      "Lea Roxanne Muth",
+      "Marian Margraf"
+     ]
+    },
+    {
+     "id": "2608.06110",
+     "title": "ECHO: A Locally-Deployable Agentic Health Assistant with Temporal Memory, Safety Guardrails, and Speech Assessment",
+     "abstract": "This paper presents ECHO (Enhanced Care & Health Observer), a locally-deployable conversational health assistant for long-term chronic care management. ECHO integrates three complementary software modules developed under shared supervision as a unified system. The core module is an agentic chatbot built on a ReAct loop orchestrated via LangGraph, equipped with 17 clinical tools and a temporal knowledge graph for persistent cross-session memory; it achieves a 94.9% tool-execution pass rate across a 59-scenario benchmark with GPT-5 Mini. A two-stage hybrid safety layer intercepts all incoming queries: a rule-based layer handles explicit crisis signals and jailbreak attempts in under 1ms, while a signed graph neural network (GNN) with APPNP-style propagation classifies boundary cases by clinical intent, achieving 88.8% accuracy and 90.6% unsafe recall on a 2,537-query annotated Turkish health dataset while outperforming zero-shot LLM baselines including Llama 3.3 70B. A multimodal speech assessment module combining Whisper acoustic encoding and BERT text encoding with cross-attention fusion estimates emotion, depression, and pain, reaching a mean macro F1 of 0.652. The full system is implemented as a web application that can run entirely on consumer hardware, with no patient data transmitted to external services, supporting compliance with GDPR and KVKK.",
+     "published": "2026-08-06",
+     "authors": [
+      "Abdulkadir Külçe",
+      "Alihan Esen",
+      "Çağla Fikir",
+      "Berke Kurt",
+      "Kuzey Arar",
+      "Gökhan Ercan",
+      "Faik Boray Tek"
+     ]
+    },
+    {
+     "id": "2609.26175",
+     "title": "EADC: Evaluation of Advanced and Deep-level Compliance in Large Language Models",
+     "abstract": "Large Language Models (LLMs) have been used in various industries. However, ensuring their compliance with complex laws and regulatory frameworks remains a great challenge. Existing evaluation paradigms mainly rely on static benchmarks that suffer from three severe limitations: First, the compliance rules being used do not comply with the requirements of Artificial Intelligence (AI) laws and regulations; Second, they only handle apparent, explicit compliance risks, leaving implicit and covert compliance risks undetected; Third, they fail to track the systematic propagation of risks along logical dependency chains or evaluate compliance within nuanced, context-based real-world scenarios. To bridge this critical gap, we introduce EADC, a novel advanced evaluation benchmark of LLMs based on an AI compliance knowledge graph and AI compliance legal experts. By mapping abstract legal rules into structured logical multi-relational graphs, our framework enables automated, evolving agents to distill and synthesize highly sophisticated adversarial scenarios. This compliance benchmark is reviewed and corrected by human AI legal experts throughout the whole process. The resulting dataset (4,435+ QA pairs) provides an extensive, multi-dimensional taxonomy covering critical regulatory frontiers, including bias and discrimination, fairness, personal privacy protection, and values. Crucially, our compliance dataset moves beyond shallow string-matching by incorporating contextual long-horizon interactions and logic-driven hazard chains, capturing deeply embedded compliance anomalies that bypass traditional filters. Experiment evaluations demonstrate that our framework exposes critical regulatory blind spots in state-of-the-art LLMs, offering a rigorous, AI laws and regulations-aligned benchmark to safeguard high-level and deep compliance in the application of LLMs.",
+     "published": "2026-09-22",
+     "authors": [
+      "Yan Zhang",
+      "Ruien Li",
+      "Yaoyao Peng",
+      "Wanxin Ren",
+      "Yijia Zhang",
+      "Wusheng Zhang",
+      "Guangwen Yang"
+     ]
+    }
+   ]
+  }
+ ]
+}

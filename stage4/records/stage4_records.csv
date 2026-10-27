@@ -1,0 +1,1038 @@
+no,arxiv_id,title,first_submitted,rounds,stratum,status,citations,part,screened
+1,2206.02928,Neuro-Symbolic Procedural Planning with Commonsense Prompting,2022-06-06,P,A,new,45,most cited,yes
+2,2207.00627,Interactive Learning from Natural Language and Demonstrations using Signal Temporal Logic,2022-07-01,V,A,new,3,verification round,yes
+3,2210.06254,Zero-Shot On-the-Fly Event Schema Induction,2022-10-12,P,A,new,24,rest,
+4,2212.08718,Neural Story Planning,2022-12-16,P,A,new,9,rest,
+5,2302.11649,Grounding Complex Natural Language Commands for Temporal Tasks in Unseen Environments,2023-02-22,V,A,handled in an earlier stage (found by title),,,
+6,2303.08006,Data-Efficient Learning of Natural Language to Linear Temporal Logic Translators for Robot Task Specification,2023-03-09,V,A,new,69,most cited,yes
+7,2305.05091,Knowledge-enhanced Agents for Interactive Text Games,2023-05-08,M,A,new,11,rest,
+8,2305.07716,Learning to Reason over Scene Graphs: A Case Study of Finetuning GPT-2 into a Robot Language Model for Grounded Task Planning,2023-05-12,P+V,A,new,50,most cited,yes
+9,2305.19234,Grammar Prompting for Domain-Specific Language Generation with Large Language Models,2023-05-30,P,A,new,138,most cited,yes
+10,2306.14325,The Neuro-Symbolic Inverse Planning Engine (NIPE): Modeling Probabilistic Social Inferences from Linguistic Inputs,2023-06-25,P,A,new,27,most cited,yes
+11,2307.07696,Coupling Large Language Models with Logic Programming for Robust and General Reasoning from Text,2023-07-15,P,A,new,110,most cited,yes
+12,2308.12682,SayCanPay: Heuristic Planning with Large Language Models using Learnable Domain Knowledge,2023-08-24,P,A,new,87,most cited,yes
+13,2308.13724,ISR-LLM: Iterative Self-Refined Large Language Model for Long-Horizon Sequential Task Planning,2023-08-26,P,A,new,148,most cited,yes
+14,2309.09182,Optimal Scene Graph Planning with Large Language Model Guidance,2023-09-17,P,A,new,55,most cited,yes
+15,2309.15074,Natural Language based Context Modeling and Reasoning for Ubiquitous Computing with Large Language Models: A Tutorial,2023-09-24,P,A,new,8,rest,
+16,2309.14945,Integration of Large Language Models within Cognitive Architectures for Autonomous Robots,2023-09-26,P,A,new,4,rest,
+17,2309.16436,Neuro Symbolic Reasoning for Planning: Counterexample Guided Inductive Synthesis using Large Language Models and Satisfiability Solving,2023-09-28,P,A,new,12,rest,
+18,2310.16421,Graph Agent: Explicit Reasoning Agent for Graphs,2023-10-25,M,A,new,13,rest,yes
+19,2311.00967,Vision-Language Interpreter for Robot Task Planning,2023-11-02,P+V,A,new,70,most cited,yes
+20,2311.04403,Human-Centered Planning,2023-11-08,P,A,new,2,rest,
+21,2311.09830,Automating the Generation of Prompts for LLM-based Action Choice in PDDL Planning,2023-11-16,P,A,new,27,most cited,yes
+22,2312.08820,How to Raise a Robot -- A Case for Neuro-Symbolic AI in Constrained Task Planning for Humanoid Assistive Robots,2023-12-14,P,A,new,3,rest,
+23,2401.02500,On the Prospects of Incorporating Large Language Models (LLMs) in Automated Planning and Scheduling (APS),2024-01-04,P,A,new,87,most cited,yes
+24,2401.07868,Consolidating Trees of Robotic Plans Generated Using Large Language Models to Improve Reliability,2024-01-15,P,A,new,12,rest,
+25,2401.18070,Do Language Models Exhibit the Same Cognitive Biases in Problem Solving as Human Learners?,2024-01-31,P,A,new,29,most cited,yes
+26,2402.01817,"LLMs Can't Plan, But Can Help Planning in LLM-Modulo Frameworks",2024-02-02,P,A,handled in an earlier stage (found by title),,,
+27,2402.06608,"TIC: Translate-Infer-Compile for accurate ""text to plan"" using LLMs and Logical Representations",2024-02-09,P,A,new,2,rest,
+28,2402.15929,Certifying Knowledge Comprehension in LLMs,2024-02-24,V,A,new,1,verification round,yes
+29,2403.00092,PROC2PDDL: Open-Domain Planning Representations from Texts,2024-02-29,P,A,new,19,rest,
+30,2404.02817,A Survey of Optimization-based Task and Motion Planning: From Classical To Learning Approaches,2024-04-03,P,A,new,101,most cited,yes
+31,2404.07751,Generating consistent PDDL domains with Large Language Models,2024-04-11,P,A,new,25,most cited,yes
+32,2404.07774,Sketch-Plan-Generalize: Learning and Planning with Neuro-Symbolic Programmatic Representations for Inductive Spatial Concepts,2024-04-11,P,A,new,0,rest,
+33,2404.14547,Integrating Disambiguation and User Preferences into Large Language Models for Robot Motion Planning,2024-04-22,P,A,new,4,rest,
+34,2405.03734,"FOKE: A Personalized and Explainable Education Framework Integrating Foundation Models, Knowledge Graphs, and Prompt Engineering",2024-05-06,P,A,new,19,rest,
+35,2405.04215,NL2Plan: Robust LLM-Driven Planning from Minimal Text Descriptions,2024-05-07,P,A,new,33,most cited,yes
+36,2405.12035,KG-RAG: Bridging the Gap Between Knowledge and Creativity,2024-05-20,M,A,new,109,most cited,yes
+37,2405.12433,LLM+Reasoning+Planning for Supporting Incomplete User Queries in Presence of APIs,2024-05-21,P,A,new,4,rest,
+38,2405.17846,Safety Control of Service Robots with LLMs and Embodied Knowledge Graphs,2024-05-28,V,A,new,13,verification round,yes
+39,2405.19758,InterPreT: Interactive Predicate Learning from Language Feedback for Generalizable Task Planning,2024-05-30,P,A,new,69,most cited,yes
+40,2405.19793,PDDLEGO: Iterative Planning in Textual Environments,2024-05-30,P,A,new,19,rest,yes
+41,2406.00554,Guiding and Diversifying LLM-Based Story Generation via Answer Set Programming,2024-06-01,P,A,new,13,rest,
+42,2406.01238,EffiQA: Efficient Question-Answering with Strategic Multi-Model Collaboration on Knowledge Graphs,2024-06-03,P,A,new,28,most cited,yes
+43,2406.06566,Natural Language Interaction with a Household Electricity Knowledge-based Digital Twin,2024-06-03,P,A,new,6,rest,
+44,2406.03367,CLMASP: Coupling Large Language Models with Answer Set Programming for Robotic Task Planning,2024-06-05,P,A,new,0,rest,
+45,2406.07080,DARA: Decomposition-Alignment-Reasoning Autonomous Language Agent for Question Answering over Knowledge Graphs,2024-06-11,P,A,new,15,rest,
+46,2406.14282,Learning to Plan for Retrieval-Augmented Large Language Models from Knowledge Graphs,2024-06-20,P,A,new,51,most cited,yes
+47,2406.17659,DKPROMPT: Domain Knowledge Prompting Vision-Language Models for Open-World Planning,2024-06-25,P,A,new,21,rest,
+48,2406.17987,Multi-step Inference over Unstructured Data,2024-06-26,P,A,new,2,rest,
+49,2406.19228,Tools Fail: Detecting Silent Errors in Faulty Tools,2024-06-27,P,A,new,31,most cited,yes
+50,2407.03321,Planetarium: A Rigorous Benchmark for Translating Text to Structured Planning Languages,2024-07-03,P,A,new,41,most cited,yes
+51,2407.06590,Revolutionizing Battery Disassembly: The Design and Implementation of a Battery Disassembly Autonomous Mobile Manipulator Robot(BEAM-1),2024-07-09,P,A,new,18,rest,yes
+52,2407.09792,Language-Augmented Symbolic Planner for Open-World Task Planning,2024-07-13,P,A,new,26,most cited,yes
+53,2407.14414,System-1.x: Learning to Balance Fast and Slow Planning with Language Models,2024-07-19,P,A,new,39,most cited,yes
+54,2408.02535,Towards Coarse-grained Visual Language Navigation Task Planning Enhanced by Event Knowledge Graph,2024-08-05,P,A,new,4,rest,
+55,2408.07705,Enhancing Supply Chain Visibility with Knowledge Graphs and Large Language Models,2024-08-05,P,A,new,52,most cited,yes
+56,2408.05336,Logically Constrained Robotics Transformers for Enhanced Perception-Action Planning,2024-08-09,P,A,new,5,rest,
+57,2408.08188,Nl2Hltl2Plan: Scaling Up Natural Language Understanding for Multi-Robots Through Hierarchical Temporal Logic Task Representation,2024-08-15,P+V,A,new,0,verification round,yes
+58,2409.03440,Rx Strategist: Prescription Verification using LLM Agents System,2024-09-05,M+V,A,new,8,verification round,yes
+59,2409.06859,NSP: A Neuro-Symbolic Natural Language Navigational Planner,2024-09-10,P,A,new,4,rest,
+60,2409.09536,VernaCopter: Disambiguated Natural-Language-Driven Robot via Formal Specifications,2024-09-14,V,A,new,9,verification round,yes
+61,2409.10196,"NEUSIS: A Compositional Neuro-Symbolic Framework for Autonomous Perception, Reasoning, and Planning in Complex UAV Search Missions",2024-09-16,P,A,new,18,rest,yes
+62,2409.12262,Bootstrapping Object-level Planning with Large Language Models,2024-09-18,P,A,new,7,rest,
+63,2409.15915,Planning in the Dark: LLM-Symbolic Planning Pipeline without Experts,2024-09-24,P,A,new,29,most cited,yes
+64,2410.02874,Real-World Cooking Robot System from Recipes Based on Food State Recognition Using Foundation Models and PDDL,2024-10-03,P,A,new,13,rest,
+65,2410.07245,AAAI Workshop on AI Planning for Cyber-Physical Systems -- CAIPI24,2024-10-08,P,A,new,0,rest,
+66,2410.11900,FLARE: Faithful Logic-Aided Reasoning and Exploration,2024-10-14,P,A,new,9,rest,
+67,2410.16207,CoT-TL: Low-Resource Temporal Knowledge Representation of Planning Instructions Using Chain-of-Thought Reasoning,2024-10-21,P+V,A,new,11,verification round,yes
+68,2410.22225,CaStL: Constraints as Specifications through LLM Translation for Long-Horizon Task and Motion Planning,2024-10-29,P,A,new,23,rest,
+69,2410.23156,VisualPredicator: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning,2024-10-30,P,A,new,65,most cited,yes
+70,2410.23875,Plan-on-Graph: Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs,2024-10-31,P,A,new,158,most cited,yes
+71,2411.01639,Know Where You're Uncertain When Planning with Multimodal Foundation Models: A Formal Framework,2024-11-03,P,A,new,15,rest,
+72,2411.11714,Semantic-Geometric-Physical-Driven Robot Manipulation Skill Transfer via Skill Library and Tactile Representation,2024-11-18,P,A,new,1,rest,
+73,2411.15758,Decoding Urban Industrial Complexity: Enhancing Knowledge-Driven Insights via IndustryScopeGPT,2024-11-24,P,A,new,8,rest,yes
+74,2411.16495,AtomR: Atomic Operator-Empowered Large Language Models for Heterogeneous Knowledge Reasoning,2024-11-25,P,A,new,14,rest,
+75,2412.05313,λ: A Benchmark for Data-Efficiency in Long-Horizon Indoor Mobile Manipulation Robotics,2024-11-28,P,A,new,5,rest,
+76,2411.19886,PDDLFuse: A Tool for Generating Diverse Planning Domains,2024-11-29,P,A,new,4,rest,
+77,2412.00224,An AI-Driven Data Mesh Architecture Enhancing Decision-Making in Infrastructure Construction and Public Procurement,2024-11-29,P,A,new,5,rest,
+78,2412.00300,Aligning LLM+PDDL Symbolic Plans with Human Objective Specifications through Evolutionary Algorithm Guidance,2024-11-30,P,A,new,0,rest,
+79,2412.06162,Query-Efficient Planning with Language Models,2024-12-09,P,A,new,1,rest,
+80,2412.06176,AlphaVerus: Bootstrapping Formally Verified Code Generation through Self-Improving Translation and Treefinement,2024-12-09,V,A,new,45,most cited,yes
+81,2412.09879,On the Limit of Language Models as Planning Formalizers,2024-12-13,P,A,new,25,most cited,yes
+82,2412.11387,How Can LLMs and Knowledge Graphs Contribute to Robot Safety? A Few-Shot Learning Approach,2024-12-16,V,A,new,5,verification round,yes
+83,2412.11499,Embodied CoT Distillation From LLM To Off-the-shelf Agents,2024-12-16,P,A,new,18,rest,
+84,2412.12643,LLM-based Discriminative Reasoning for Knowledge Graph Question Answering,2024-12-17,P,A,new,7,rest,
+85,2412.12839,From An LLM Swarm To A PDDL-Empowered HIVE: Planning Self-Executed Instructions In A Multi-Modal Jungle,2024-12-17,P,A,new,6,rest,
+86,2412.13575,Generating Long-form Story Using Dynamic Hierarchical Outlining with Memory-Enhancement,2024-12-18,P,A,new,46,most cited,yes
+87,2412.17029,GraphAgent: Agentic Graph Language Assistant,2024-12-22,P,A,new,14,rest,
+88,2501.01439,Probabilistic Mission Design for Neuro-Symbolic Unmanned Aircraft Systems,2024-12-25,P,A,new,4,rest,
+89,2412.20995,KARPA: A Training-free Method of Adapting Knowledge Graph as References for Large Language Model's Reasoning Path Aggregation,2024-12-30,P,A,new,12,rest,
+90,2501.08897,Automated Retrosynthesis Planning of Macromolecules Using Large Language Models and Knowledge Graphs,2025-01-15,P,A,new,16,rest,
+91,2501.15214,"Think Small, Plan Smart: Minimalist Symbolic Abstraction and Heuristic Subspace Search for LLM-Guided Task Planning",2025-01-25,P,A,new,2,rest,
+92,2501.17665,Planning with Vision-Language Models and a Use Case in Robot-Assisted Teaching,2025-01-29,P,A,new,6,rest,
+93,2502.00931,VL-Nav: Neuro-Symbolic Reasoning-based Vision-Language Navigation,2025-02-02,P+M,A,new,11,rest,
+94,2503.04742,A Case for Specialisation in Non-Human Entities,2025-02-05,V,A,new,2,verification round,yes
+95,2502.04728,Generating Symbolic World Models via Test-time Scaling of Large Language Models,2025-02-07,P,A,new,16,rest,
+96,2502.10477,Knowledge Integration Strategies in Autonomous Vehicle Prediction and Planning: A Comprehensive Survey,2025-02-13,P,A,new,5,rest,
+97,2502.10996,RAS: Retrieval-And-Structuring for Knowledge-Intensive LLM Generation,2025-02-16,P,A,new,20,rest,
+98,2502.13092,Text2World: Benchmarking Large Language Models for Symbolic World Model Generation,2025-02-18,P,A,new,32,most cited,yes
+99,2502.17132,Applications of Large Models in Medicine,2025-02-24,P,A,new,15,rest,
+100,2502.20175,An Extensive Evaluation of PDDL Capabilities in off-the-shelf LLMs,2025-02-27,P,A,new,3,rest,
+101,2502.20284,Evaluating Human Trust in LLM-Based Planners: A Preliminary Study,2025-02-27,P,A,new,2,rest,
+102,2503.00870,NeSyC: A Neuro-symbolic Continual Learner For Complex Embodied Tasks In Open Domains,2025-03-02,M,A,new,20,rest,yes
+103,2503.01804,$\texttt{SEM-CTRL}$: Semantically Controlled Decoding,2025-03-03,P,A,new,1,rest,
+104,2503.02012,Pretrained Embeddings as a Behavior Specification Mechanism,2025-03-03,P+V,A,new,5,verification round,yes
+105,2503.03170,AttackSeqBench: Benchmarking the Capabilities of LLMs for Attack Sequences Understanding,2025-03-05,P,A,new,3,rest,
+106,2503.03911,Safe LLM-Controlled Robots with Formal Guarantees via Reachability Analysis,2025-03-05,P+V,A,new,18,verification round,yes
+107,2503.06060,STAR: A Foundation Model-driven Framework for Robust Task Planning and Failure Recovery in Robotic Systems,2025-03-08,P,A,new,2,rest,
+108,2503.07885,Safety Guardrails for LLM-Enabled Robots,2025-03-10,V,A,new,73,most cited,yes
+109,2503.07902,LTLCodeGen: Code Generation of Syntactically Correct Temporal Logic for Robot Task Planning,2025-03-10,P+V,A,new,8,verification round,yes
+110,2503.08084,Instruction-Augmented Long-Horizon Planning: Embedding Grounding Mechanisms in Embodied Mobile Manipulation,2025-03-11,P,A,new,15,rest,
+111,2503.10241,SCOOP: A Framework for Proactive Collaboration and Social Continual Learning through Natural Language Interaction andCausal Reasoning,2025-03-13,P,A,new,4,rest,
+112,2503.11790,Visualizing Thought: Conceptual Diagrams Enable Robust Planning in LMMs,2025-03-14,P,A,new,4,rest,
+113,2503.12349,SPIN-Bench: How Well Do LLMs Plan Strategically and Reason Socially?,2025-03-16,P,A,new,24,rest,
+114,2503.17309,LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language,2025-03-21,P,A,new,18,rest,
+115,2503.18492,VeriSafe Agent: Safeguarding Mobile GUI Agent via Logic-based Action Verification,2025-03-24,V,A,new,26,most cited,yes
+116,2503.18730,Predicting the Road Ahead: A Knowledge Graph based Foundation Model for Scene Understanding in Autonomous Driving,2025-03-24,P,A,new,7,rest,
+117,2503.20950,DEMENTIA-PLAN: An Agent-Based Framework for Multi-Knowledge Graph Retrieval-Augmented Generation in Dementia Care,2025-03-26,P+M,A,new,7,rest,
+118,2503.22674,QuestBench: Can LLMs ask the right question to acquire information in reasoning tasks?,2025-03-28,P,A,new,64,most cited,yes
+119,2504.00029,Generating Structured Plan Representation of Procedures with LLMs,2025-03-28,P,A,new,9,rest,
+120,2504.00993,MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs,2025-04-01,P,A,new,122,most cited,yes
+121,2504.04717,Beyond Single-Turn: A Survey on Multi-Turn Interactions with Large Language Models,2025-04-07,M,A,new,86,most cited,yes
+122,2504.09283,Semantic Commit: Helping Users Update Intent Specifications for AI Memory at Scale,2025-04-12,M+V,A,new,13,verification round,yes
+123,2504.13515,Large Language Models for Validating Network Protocol Parsers,2025-04-18,M+V,A,new,12,verification round,yes
+124,2504.15266,Roll the dice & look before you leap: Going beyond the creative limits of next-token prediction,2025-04-21,P,A,new,36,most cited,yes
+125,2504.17967,LLM Agent Swarm for Hypothesis-Driven Drug Discovery,2025-04-24,M+V,A,new,14,verification round,yes
+126,2504.18603,Toward Personalizing Quantum Computing Education: An Evolutionary LLM-Powered Approach,2025-04-24,P,A,new,3,rest,
+127,2504.21596,Leveraging Pre-trained Large Language Models with Refined Prompting for Online Task and Motion Planning,2025-04-30,P,A,new,0,rest,
+128,2505.12229,"Sentience Quest: Towards Embodied, Emotionally Adaptive, Self-Evolving, Ethically Aligned Artificial General Intelligence",2025-05-18,M,A,new,1,rest,yes
+129,2505.13126,Iterative Formalization and Planning in Partially Observable Environments,2025-05-19,P,A,new,1,rest,yes
+130,2505.13180,ViPlan: A Benchmark for Visual Planning with Symbolic Predicates and Vision-Language Models,2025-05-19,P,A,new,9,rest,
+131,2505.14763,Unifying Inference-Time Planning Language Generation,2025-05-20,P,A,new,3,rest,
+132,2505.14948,Programmatic Video Prediction Using Large Language Models,2025-05-20,P,A,new,1,rest,
+133,2505.20308,Large Language Model Powered Decision Support for a Metal Additive Manufacturing Knowledge Graph,2025-05-20,P,A,new,5,rest,
+134,2505.16348,Embodied Agents Meet Personalization: Investigating Challenges and Solutions Through the Lens of Memory Utilization,2025-05-22,P+M,A,new,14,rest,
+135,2505.16498,Human-like Semantic Navigation for Autonomous Driving using Knowledge Representation and Large Language Models,2025-05-22,P,A,new,0,rest,
+136,2505.17482,From Reasoning to Generalization: Knowledge-Augmented LLMs for ARC Benchmark,2025-05-23,P,A,new,2,rest,
+137,2505.19219,Where Paths Collide: A Comprehensive Survey of Classic and Learning-Based Multi-Agent Pathfinding,2025-05-25,P,A,new,14,rest,
+138,2505.19410,Self-Reflective Planning with Knowledge Graphs: Enhancing LLM Reasoning Reliability for Question Answering,2025-05-26,P,A,new,4,rest,
+139,2505.19933,"Subtle Risks, Critical Failures: A Framework for Diagnosing Physical Safety of LLMs for Embodied Decision Making",2025-05-26,V,A,new,26,most cited,yes
+140,2505.21291,Complex System Diagnostics Using a Knowledge Graph-Informed and Large Language Model-Enhanced Framework,2025-05-27,V,A,new,15,verification round,yes
+141,2506.04252,A Graph-Retrieval-Augmented Generation Framework Enhances Decision-Making in the Circular Economy,2025-06-01,P,A,new,1,rest,
+142,2506.03270,Grounded Vision-Language Interpreter for Long-Horizon Bimanual Task and Motion Planning,2025-06-03,P+V,A,new,0,verification round,yes
+143,2506.07454,Language-Grounded Hierarchical Planning and Execution with Multi-Robot 3D Scene Graphs,2025-06-09,P,A,new,9,rest,
+144,2506.09581,Integrating Quantized LLMs into Robotics Systems as Edge AI to Leverage their Natural Language Processing Capabilities,2025-06-11,P+M,A,new,4,rest,yes
+145,2506.11180,Beyond Formal Semantics for Capabilities and Skills: Model Context Protocol in Manufacturing,2025-06-12,P,A,new,8,rest,
+146,2506.13026,"Knowledge Graph Fusion with Large Language Models for Accurate, Explainable Manufacturing Process Planning",2025-06-16,P,A,new,4,rest,
+147,2506.13252,Vector Ontologies as an LLM world view extraction method,2025-06-16,P,A,new,1,rest,
+148,2506.15211,ProtoReasoning: Prototypes as the Foundation for Generalizable Reasoning in LLMs,2025-06-18,P,A,new,9,rest,yes
+149,2506.15828,Context Matters! Relaxing Goals with LLMs for Feasible 3D Scene Planning,2025-06-18,P,A,new,2,rest,
+150,2506.16596,A Community-driven vision for a new Knowledge Resource for AI,2025-06-19,P,A,new,0,rest,yes
+151,2506.20097,PSALM-V: Automating Symbolic Planning in Interactive Visual Environments with Large Language Models,2025-06-25,P,A,new,2,rest,
+152,2506.20156,Irec: A Metacognitive Scaffolding for Self-Regulated Learning through Just-in-Time Insight Recall: A Conceptual Framework and System Prototype,2025-06-25,P,A,new,1,rest,
+153,2506.20241,Enhancing Large Language Models through Structured Reasoning,2025-06-25,P,A,new,6,rest,
+154,2507.02253,Scaling LLM Planning: NL2FLOW for Parametric Problem Generation and Rigorous Evaluation,2025-07-03,P,A,new,3,rest,
+155,2507.08945,GraphRunner: A Multi-Stage Framework for Efficient and Accurate Graph-Based Retrieval,2025-07-11,P,A,new,5,rest,
+156,2507.10630,Enhancing the Capabilities of Large Language Models for API calls through Knowledge Graphs,2025-07-14,M,A,new,0,rest,yes
+157,2507.11352,"Foundation Models for Logistics: Toward Certifiable, Conversational Planning Interfaces",2025-07-15,P+V,A,new,0,verification round,yes
+158,2507.16971,Text-to-SPARQL Goes Beyond English: Multilingual Question Answering Over Knowledge Graphs through Human-Inspired Reasoning,2025-07-22,P,A,new,1,rest,
+159,2507.19942,Prometheus: Towards Long-Horizon Codebase Navigation for Repository-Level Problem Solving,2025-07-26,P+M,A,new,14,rest,yes
+160,2507.20280,SciToolAgent: A Knowledge Graph-Driven Scientific Agent for Multi-Tool Integration,2025-07-27,V,A,handled in an earlier stage (found by title),,,
+161,2507.21545,UniDomain: Pretraining a Unified PDDL Domain from Real-World Demonstrations for Generalizable Robot Task Planning,2025-07-29,P,A,new,9,rest,yes
+162,2507.21585,SafeDriveRAG: Towards Safe Autonomous Driving with Knowledge Graph-based Retrieval-Augmented Generation,2025-07-29,P,A,new,22,rest,
+163,2508.01300,How Far Are LLMs from Symbolic Planners? An NLP-Based Perspective,2025-08-02,P,A,new,6,rest,
+164,2508.01917,L3M+P: Lifelong Planning with Large Language Models,2025-08-03,P+M+V,A,new,2,verification round,yes
+165,2508.03137,Long Story Generation via Knowledge Graph and Literary Theory,2025-08-05,M,A,new,1,rest,yes
+166,2508.11429,HumorPlanSearch: Structured Planning and HuCoT for Contextual AI Humor,2025-08-15,P,A,new,1,rest,
+167,2508.13371,LOOP: A Plug-and-Play Neuro-Symbolic Framework for Enhancing Planning in Autonomous Systems,2025-08-18,P+M+V,A,new,0,verification round,yes
+168,2508.13876,Improved Generalized Planning with LLMs through Strategy Refinement and Reflection,2025-08-19,P,A,new,7,rest,
+169,2508.14387,DEXTER-LLM: Dynamic and Explainable Coordination of Multi-Robot Systems in Unknown Environments via Large Language Models,2025-08-20,P,A,new,6,rest,
+170,2508.18507,Language Models For Generalised PDDL Planning: Synthesising Sound and Programmatic Policies,2025-08-25,P,A,new,7,rest,
+171,2509.00054,Robotic Fire Risk Detection based on Dynamic Knowledge Graph Reasoning: An LLM-Driven Approach with Graph Chain-of-Thought,2025-08-25,P,A,new,0,rest,
+172,2508.18880,Challenges for Generative AI in Legal Reasoning,2025-08-26,M,A,new,13,rest,
+173,2509.00570,ConceptBot: Enhancing Robot's Autonomy through Task Decomposition with Large Language Models and Knowledge Graph,2025-08-30,P,A,new,2,rest,
+174,2509.01728,Constrained Decoding for Safe Robot Navigation Foundation Models,2025-09-01,V,A,new,3,verification round,yes
+175,2509.04731,Generative World Models of Tasks: LLM-Driven Hierarchical Scaffolding for Embodied Agents,2025-09-05,P,A,new,1,rest,yes
+176,2509.06239,Proof2Silicon: Prompt Repair for Verified Code and Hardware Generation via Reinforcement Learning,2025-09-07,V,A,new,2,verification round,yes
+177,2509.11617,AssemMate: Graph-Based LLM for Robotic Assembly Assistance,2025-09-15,P,A,new,1,rest,
+178,2509.11943,Agentic System with Modal Logic for Autonomous Diagnostics,2025-09-15,P,A,new,0,rest,
+179,2510.15906,FVDebug: An LLM-Driven Debugging Assistant for Automated Root Cause Analysis of Formal Verification Failures,2025-09-16,V,A,new,8,verification round,yes
+180,2509.18083,Reasoning Core: A Scalable RL Environment for LLM Symbolic Reasoning,2025-09-22,P,A,new,5,rest,
+181,2509.18384,LAD-VF: LLM-Automatic Differentiation Enables Fine-Tuning-Free Robot Planning from Formal Methods Feedback,2025-09-22,P+V,A,new,4,verification round,yes
+182,2509.21576,"Vision Language Models Cannot Plan, but Can They Formalize?",2025-09-25,P,A,new,2,rest,
+183,2509.25299,ID-RAG: Identity Retrieval-Augmented Generation for Long-Horizon Persona Coherence in Generative Agents,2025-09-29,M,A,new,6,rest,yes
+184,2509.26383,Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement Learning,2025-09-30,P,A,new,4,rest,
+185,2510.00182,A Systematic Study of Large Language Models for Task and Motion Planning With PDDLStream,2025-09-30,P,A,new,5,rest,
+186,2510.00451,A Call to Action for a Secure-by-Design Generative AI Paradigm,2025-10-01,V,A,new,3,verification round,yes
+187,2510.01483,Spatiotemporal Knowledge Graphs as Persistent Scene Memory for Embodied Question Answering,2025-10-01,M,A,new,1,rest,yes
+188,2510.03182,Simulation to Rules: A Dual-VLM Framework for Formal Visual Planning,2025-10-03,P,A,new,6,rest,
+189,2510.03369,TriQuest:An AI Copilot-Powered Platform for Interdisciplinary Curriculum Design,2025-10-03,P,A,new,0,rest,yes
+190,2510.06240,Knowledge Graph-Guided Multi-Agent Distillation for Reliable Industrial Question Answering with Datasets,2025-10-03,V,A,new,1,verification round,yes
+191,2510.06002,Deterministic Legal Agents: A Canonical Primitive API for Auditable Reasoning over Temporal Knowledge Graphs,2025-10-07,V,A,new,3,verification round,yes
+192,2510.06042,Agent+P: Guiding UI Agents via Symbolic Planning,2025-10-07,P,A,new,1,rest,
+193,2510.06296,VeriEquivBench: An Equivalence Score for Ground-Truth-Free Evaluation of Formally Verifiable Code,2025-10-07,V,A,new,8,verification round,yes
+194,2510.09720,Preference-Aware Memory Update for Long-Term LLM Agents,2025-10-10,M,A,new,17,rest,
+195,2510.12224,MedKGEval: A Knowledge Graph-Based Multi-Turn Evaluation Framework for Open-Ended Patient Interactions with Clinical LLMs,2025-10-14,V,A,new,8,verification round,yes
+196,2510.12985,SENTINEL: A Multi-Level Formal Framework for Safety Evaluation of Foundation Model-based Embodied Agents,2025-10-14,P+V,A,new,6,verification round,yes
+197,2510.16381,ATA: A Neuro-Symbolic Approach to Implement Autonomous and Trustworthy Agents,2025-10-18,V,A,new,3,verification round,yes
+198,2510.16767,T3 Planner: A Self-Correcting LLM Framework for Robotic Motion Planning with Temporal Logic,2025-10-19,P,A,new,2,rest,
+199,2510.20258,Using Large Language Models for Abstraction of Planning Domains - Extended Version,2025-10-23,P,A,new,1,rest,
+200,2510.20691,Plan Then Retrieve: Reinforcement Learning-Guided Complex Reasoning over Knowledge Graphs,2025-10-23,P,A,new,0,rest,
+201,2510.21302,Towards Reliable Code-as-Policies: A Neuro-Symbolic Framework for Embodied Task Planning,2025-10-24,P,A,new,14,rest,
+202,2510.22204,Human-Inspired Neuro-Symbolic World Modeling and Logic Reasoning for Interpretable Safe UAV Landing Site Assessment,2025-10-25,P,A,new,0,rest,
+203,2510.22371,"Reasoning Models Reason Well, Until They Don't",2025-10-25,P,A,new,6,rest,
+204,2510.22784,PIP-LLM: Integrating PDDL-Integer Programming with LLMs for Coordinating Multi-Robot Teams Using Natural Language,2025-10-26,P,A,new,5,rest,yes
+205,2510.26935,RepV: Safety-Separable Latent Spaces for Scalable Neurosymbolic Plan Verification,2025-10-30,P,A,new,1,rest,
+206,2511.07441,AudAgent: Automated Auditing of Privacy Policy Compliance in AI Agents,2025-11-03,V,A,new,4,verification round,yes
+207,2511.04072,Plan of Knowledge: Retrieval-Augmented Large Language Models for Temporal Knowledge Graph Question Answering,2025-11-06,P,A,new,4,rest,
+208,2511.07587,Beyond Fact Retrieval: Episodic Memory for RAG with Generative Semantic Workspaces,2025-11-10,M,A,new,7,rest,
+209,2511.12901,Online Learning of HTN Methods for integrated LLM-HTN Planning,2025-11-17,P,A,new,1,rest,
+210,2511.14096,NeuroPath: Neurobiology-Inspired Path Tracking and Reflection for Semantically Coherent Retrieval,2025-11-18,P,A,new,5,rest,
+211,2511.18165,Towards a General Framework for HTN Modeling with LLMs,2025-11-22,P,A,new,0,rest,
+212,2511.19648,Efficient Multi-Hop Question Answering over Knowledge Graphs via LLM Planning and Embedding-Guided Search,2025-11-24,P,A,new,2,rest,
+213,2512.00069,Enhancing Cognitive Robotics with Commonsense through LLM-Generated Preconditions and Subgoals,2025-11-24,P,A,new,0,rest,
+214,2511.20940,Chatty-KG: A Multi-Agent AI System for On-Demand Conversational Question Answering over Knowledge Graphs,2025-11-26,P,A,new,4,rest,
+215,2511.23276,Auditable Context-Aware HFMD Forecasting with Structured LLM Agents,2025-11-28,P,A,new,0,rest,
+216,2512.02080,The 4/$δ$ Bound: Designing Predictable LLM-Verifier Systems for Formal Method Guarantee,2025-11-30,P,A,new,1,rest,yes
+217,2512.04405,Towards 6G Native-AI Edge Networks: A Semantic-Aware and Agentic Intelligence Paradigm,2025-12-04,P,A,new,11,rest,
+218,2512.10173,ATLAS: Automated Toolkit for Large-Scale Verified Code Synthesis,2025-12-11,P,A,new,6,rest,
+219,2512.10441,Decoding Student Minds: Leveraging Conversational Agents for Psychological and Learning Analysis,2025-12-11,M,A,new,1,rest,
+220,2512.11620,Architecting Large Action Models for Human-in-the-Loop Intelligent Robots,2025-12-12,P+M+V,A,new,1,verification round,yes
+221,2512.14766,GR-Agent: Adaptive Graph Reasoning Agent under Incomplete Knowledge,2025-12-16,M,A,new,3,rest,
+222,2512.17062,Lang2Manip: A Tool for LLM-Based Symbolic-to-Geometric Planning for Manipulation,2025-12-18,P,A,new,1,rest,
+223,2512.18265,Intelligent Human-Machine Partnership for Manufacturing: Enhancing Warehouse Planning through Simulation-Driven Knowledge Graphs and LLM Collaboration,2025-12-20,P,A,new,0,rest,
+224,2512.20299,KnowVal: A Knowledge-Augmented and Value-Guided Autonomous Driving System,2025-12-23,P,A,new,5,rest,
+225,2601.06940,VISTA: Knowledge-Driven Vessel Trajectory Imputation with Repair Provenance,2026-01-11,P,A,new,1,rest,
+226,2601.07964,Executable Ontologies in Game Development: From Algorithmic Control to Semantic World Modeling,2026-01-12,P,A,new,0,rest,yes
+227,2601.08196,Evaluating Implicit Regulatory Compliance in LLM Tool Invocation via Logic-Guided Synthesis,2026-01-13,V,A,new,4,verification round,yes
+228,2601.10101,Matrix as Plan: Structured Logical Reasoning with Feedback-Driven Replanning,2026-01-15,P,A,new,0,rest,
+229,2601.10520,Breaking Up with Normatively Monolithic Agency with GRACE: A Reason-Based Neuro-Symbolic Architecture for Safe and Ethical AI Alignment,2026-01-15,V,A,new,5,verification round,yes
+230,2601.11063,EmboTeam: Grounding LLM Reasoning into Reactive Behavior Trees via PDDL for Embodied Multi-Robot Collaboration,2026-01-16,P+M,A,new,2,rest,
+231,2601.11840,Imandra CodeLogician: Neuro-Symbolic Reasoning for Precise Analysis of Software Logic,2026-01-17,V,A,new,0,verification round,yes
+232,2601.14456,On the Generalization Gap in LLM Planning: Tests and Verifier-Reward RL,2026-01-20,P,A,new,2,rest,
+233,2601.14662,Query-Efficient Agentic Graph Extraction Attacks on GraphRAG Systems,2026-01-21,M,A,new,2,rest,
+234,2601.16038,Grounding Large Language Models in Reaction Knowledge Graphs for Synthesis Retrieval,2026-01-22,P,A,new,2,rest,
+235,2601.18381,AI Agent for Reverse-Engineering Legacy Finite-Difference Code and Translating to Devito,2026-01-26,V,A,new,0,verification round,yes
+236,2601.20856,SokoBench: Evaluating Long-Horizon Planning and Reasoning in Large Language Models,2026-01-28,P,A,new,2,rest,
+237,2602.04892,Doc2Spec: Synthesizing Formal Programming Specifications from Natural Language via Grammar Induction,2026-01-30,V,A,new,2,verification round,yes
+238,2603.29585,Learn2Fold: Structured Origami Generation with World Model Planning,2026-02-02,P,A,new,4,rest,
+239,2602.03900,Knowledge Model Prompting Increases LLM Performance on Planning Tasks,2026-02-03,P,A,new,0,rest,
+240,2602.05004,CoWork-X: Experience-Optimized Co-Evolution for Multi-Agent Collaboration System,2026-02-04,M,A,new,1,rest,yes
+241,2602.05048,MINT: Minimal Information Neuro-Symbolic Tree for Objective-Driven Knowledge-Gap Reasoning and Active Elicitation,2026-02-04,P,A,new,5,rest,
+242,2602.05818,TKG-Thinker: Towards Dynamic Reasoning over Temporal Knowledge Graphs via Agentic Reinforcement Learning,2026-02-05,P,A,new,1,rest,
+243,2602.08537,UniPlan: Vision-Language Task Planning for Mobile Manipulation with Unified PDDL Formulation,2026-02-09,P,A,new,5,rest,
+244,2602.08543,GISA: A Benchmark for General Information-Seeking Assistant,2026-02-09,P,A,new,5,rest,
+245,2602.09472,LLM-Grounded Dynamic Task Planning with Hierarchical Temporal Logic for Human-Aware Multi-Robot Handover,2026-02-10,P+V,A,new,0,verification round,yes
+246,2602.10480,Neuro-Symbolic Synergy for World Modeling,2026-02-11,P+V,A,new,5,verification round,yes
+247,2602.12244,Any House Any Task: Scalable Long-Horizon Planning for Abstract Human Tasks,2026-02-12,P,A,new,0,rest,
+248,2602.13808,An end-to-end agentic pipeline for smart contract translation and quality evaluation,2026-02-14,V,A,new,0,verification round,yes
+249,2603.02240,SuperLocalMemory: Privacy-Preserving Multi-Agent Memory with Bayesian Trust Defense Against Memory Poisoning,2026-02-17,M,A,new,9,rest,
+250,2602.17999,Aurora: Neuro-Symbolic AI Driven Advising Agent,2026-02-20,M,A,new,0,rest,
+251,2602.18606,OVerSeeC: Open-Vocabulary Costmap Generation from Satellite Images and Natural Language,2026-02-20,P,A,new,2,rest,
+252,2602.19948,Assessing Risks of Large Language Models in Mental Health Support: A Framework for Automated Clinical AI Red Teaming,2026-02-23,V,A,new,4,verification round,yes
+253,2602.22067,Semantic Partial Grounding via LLMs,2026-02-25,P,A,new,0,rest,
+254,2602.23937,Enhancing Vision-Language Navigation with Multimodal Event Knowledge from Real-World Indoor Tour Videos,2026-02-27,M,A,new,2,rest,
+255,2602.24235,SafeGen-LLM: Enhancing Safety Generalization in Task Planning for Robotic Systems,2026-02-27,P,A,new,2,rest,
+256,2603.00876,BioProAgent: Neuro-Symbolic Grounding for Constrained Scientific Planning,2026-03-01,P,A,new,1,rest,
+257,2603.02208,Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training,2026-03-02,P,A,new,2,rest,
+258,2603.03686,AI4S-SDS: A Neuro-Symbolic Solvent Design System via Sparse MCTS and Differentiable Physics Alignment,2026-03-04,P+M,A,new,0,rest,yes
+259,2603.04560,From Local Corrections to Generalized Skills: Improving Neuro-Symbolic Policies with MEMO,2026-03-04,M,A,new,3,rest,
+260,2603.07824,Reasoning Knowledge-Gap in Drone Planning via LLM-based Active Elicitation,2026-03-08,P,A,new,1,rest,
+261,2603.08814,Scale-Plan: Scalable Language-Enabled Task Planning for Heterogeneous Multi-Robot Teams,2026-03-09,P+V,A,new,2,verification round,yes
+262,2603.09152,DataFactory: Collaborative Multi-Agent Framework for Advanced Table Question Answering,2026-03-10,P,A,new,5,rest,
+263,2603.09481,GenePlan: Evolving Better Generalized PDDL Plans using Large Language Models,2026-03-10,P,A,new,1,rest,yes
+264,2603.09758,Beyond Fine-Tuning: Robust Food Entity Linking under Ontology Drift with FoodOntoRAG,2026-03-10,V,A,new,1,verification round,yes
+265,2604.08552,Automated Standardization of Legacy Biomedical Metadata Using an Ontology-Constrained LLM Agent,2026-03-10,V,A,new,0,verification round,yes
+266,2603.11093,A Survey of Reasoning in Autonomous Driving Systems: Open Challenges and Emerging Paradigms,2026-03-11,V,A,new,2,verification round,yes
+267,2604.16331,BrainMem: Brain-Inspired Evolving Memory for Embodied Agent Task Planning,2026-03-12,P+M,A,new,2,rest,
+268,2603.14248,Why Do LLM-based Web Agents Fail? A Hierarchical Planning Perspective,2026-03-15,P,A,new,11,rest,
+269,2603.15375,Formalizing and validating properties in Asmeta with Large Language Models (Extended Abstract),2026-03-16,V,A,new,0,verification round,yes
+270,2603.16307,NeSy-Route: A Neuro-Symbolic Benchmark for Constrained Route Planning in Remote Sensing,2026-03-17,P,A,new,2,rest,
+271,2603.17208,SYMDIREC: A Neuro-Symbolic Divide-Retrieve-Conquer Framework for Enhanced RTL Synthesis and Summarization,2026-03-17,P,A,new,0,rest,
+272,2603.17969,Specification-Aware Distribution Shaping for Robotics Foundation Models,2026-03-18,V,A,new,0,verification round,yes
+273,2603.20094,LLM-Enhanced Semantic Data Integration of Electronic Component Qualifications in the Aerospace Domain,2026-03-20,P,A,new,0,rest,
+274,2603.21149,Emergent Formal Verification: How an Autonomous AI Ecosystem Independently Discovered SMT-Based Safety Across Six Domains,2026-03-22,V,A,new,0,verification round,yes
+275,2603.21523,SafePilot: A Framework for Assuring LLM-enabled Cyber-Physical Systems,2026-03-23,P,A,new,0,rest,
+276,2603.23676,Grounding Vision and Language to 3D Masks for Long-Horizon Box Rearrangement,2026-03-24,P,A,new,0,rest,yes
+277,2603.23844,Language Models as Higher-Order Planning Formalizers,2026-03-25,P,A,new,0,rest,
+278,2603.24747,Formal Semantics for Agentic Tool Protocols: A Process Calculus Approach,2026-03-25,V,A,new,1,verification round,yes
+279,2603.25097,ElephantBroker: A Knowledge-Grounded Cognitive Runtime for Trustworthy AI Agents,2026-03-26,M+V,A,new,0,verification round,yes
+280,2603.25768,UCAgent: An End-to-End Agent for Block-Level Functional Verification,2026-03-26,V,A,new,0,verification round,yes
+281,2603.26412,Generalizable task-oriented object grasping through LLM-guided ontology and similarity-based planning,2026-03-27,P,A,new,1,rest,yes
+282,2603.27277,Codebase-Memory: Tree-Sitter-Based Knowledge Graphs for LLM Code Exploration via MCP,2026-03-28,M,A,new,7,rest,
+283,2603.27910,GAAMA: Graph Augmented Associative Memory for Agents,2026-03-29,M,A,new,3,rest,yes
+284,2603.29088,WybeCoder: Verified Imperative Code Generation,2026-03-31,V,A,new,3,verification round,yes
+285,2604.00628,StretchBot: A Neuro-Symbolic Framework for Adaptive Guidance with Assistive Robots,2026-04-01,M,A,new,0,rest,yes
+286,2604.02226,When to ASK: Uncertainty-Gated Language Assistance for Reinforcement Learning,2026-04-02,P+V,A,new,2,verification round,yes
+287,2604.02812,Learning Structured Robot Policies from Vision-Language Models via Synthetic Neuro-Symbolic Supervision,2026-04-03,P+V,A,new,0,verification round,yes
+288,2604.03759,Build on Priors: Vision--Language--Guided Neuro-Symbolic Imitation Learning for Data-Efficient Real-World Robot Manipulation,2026-04-04,P,A,new,1,rest,
+289,2604.03789,Automated Conjecture Resolution with Formal Verification,2026-04-04,P,A,new,62,most cited,yes
+290,2604.04190,Schema-Aware Planning and Hybrid Knowledge Toolset for Reliable Knowledge Graph Triple Verification,2026-04-05,P+M,A,new,0,rest,yes
+291,2604.05427,Pre-Execution Safety Gate & Task Safety Contracts for LLM-Controlled Robot Systems,2026-04-07,V,A,new,4,verification round,yes
+292,2607.15280,GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis,2026-04-08,P,A,new,1,rest,
+293,2604.08033,IoT-Brain: Grounding LLMs for Semantic-Spatial Sensor Scheduling,2026-04-09,P,A,new,5,rest,
+294,2604.09155,CORA: Conformal Risk-Controlled Agents for Safeguarded Mobile GUI Automation,2026-04-10,V,A,new,5,verification round,yes
+295,2604.12179,AgenticAI-DialogGen: Topic-Guided Conversation Generation for Fine-Tuning and Evaluating Short- and Long-Term Memories of LLMs,2026-04-14,M,A,new,0,rest,
+296,2604.14550,VeriGraphi: A Multi-Agent Framework of Hierarchical RTL Generation for Large Hardware Designs,2026-04-16,V,A,new,2,verification round,yes
+297,2604.14829,Beyond Literal Summarization: Redefining Hallucination for Medical SOAP Note Evaluation,2026-04-16,P,A,new,1,rest,
+298,2604.16950,AutoPKG: An Automated Framework for Dynamic E-commerce Product-Attribute Knowledge Graph Construction,2026-04-18,M,A,new,1,rest,
+299,2604.17142,Logic-Based Verification of Task Allocation for LLM-Enabled Multi-Agent Manufacturing Systems,2026-04-18,P+V,A,new,2,verification round,yes
+300,2604.17819,PDDL-Mind: Large Language Models are Capable on Belief Reasoning with Reliable State Tracking,2026-04-20,P,A,new,1,rest,
+301,2604.17957,Process Reward Models Meet Planning: Generating Precise and Scalable Datasets for Step-Level Rewards,2026-04-20,P,A,new,3,rest,yes
+302,2604.18652,From Craft to Kernel: A Governance-First Execution Architecture and Semantic ISA for Agentic Computers,2026-04-20,V,A,new,0,verification round,yes
+303,2604.23090,Towards Automated Ontology Generation from Unstructured Text: A Multi-Agent LLM Approach,2026-04-25,P+V,A,new,2,verification round,yes
+304,2604.23100,From Language to Logic: Bridging LLMs & Formal Representations for RTL Assertion Generation,2026-04-25,V,A,new,2,verification round,yes
+305,2604.23345,Bridging Reasoning and Action: Hybrid LLM-RL Framework for Efficient Cross-Domain Task-Oriented Dialogue,2026-04-25,P,A,new,0,rest,
+306,2604.23446,IndustryAssetEQA: A Neurosymbolic Operational Intelligence System for Embodied Question Answering in Industrial Asset Maintenance,2026-04-25,V,A,new,1,verification round,yes
+307,2606.20571,Less is More: Lightweight Prompt Compression for Question Answering Applications on Edge Devices,2026-04-27,M,A,new,0,rest,
+308,2605.00034,Symbolic Execution Meets Multi-LLM Orchestration: Detecting Memory Vulnerabilities in Incomplete Rust CVE Snippets,2026-04-28,P+M+V,A,new,0,verification round,yes
+309,2604.26522,AGEL-Comp: A Neuro-Symbolic Framework for Compositional Generalization in Interactive Agents,2026-04-29,P,A,new,0,rest,
+310,2604.27699,Bridging Values and Behavior: A Hierarchical Framework for Proactive Embodied Agents,2026-04-30,M,A,new,0,rest,yes
+311,2605.00073,AgentReputation: A Decentralized Agentic AI Reputation Framework,2026-04-30,V,A,new,4,verification round,yes
+312,2605.01209,ClarifySTL: An Interactive LLM Agent Framework for STL Transformation through Requirements Clarification,2026-05-02,V,A,new,3,verification round,yes
+313,2605.01562,Neuro-Symbolic Agents for Hallucination-Free Requirements Reuse,2026-05-02,V,A,new,0,verification round,yes
+314,2605.02600,CoRAL: Contact-Rich Adaptive LLM-based Control for Robotic Manipulation,2026-05-04,P,A,new,1,rest,
+315,2605.02765,U-Define: Designing User Workflows for Hard and Soft Constraints in LLM-Based Planning,2026-05-04,P,A,new,1,rest,yes
+316,2605.03476,CuraView: A Multi-Agent Framework for Medical Hallucination Detection with GraphRAG-Enhanced Knowledge Verification,2026-05-05,V,A,new,1,verification round,yes
+317,2605.04327,From Language to Logic: A Theoretical Architecture for VLM-Grounded Safe Navigation,2026-05-05,P+V,A,new,0,verification round,yes
+318,2605.06455,PrefixGuard: Online Failure Warning and Trace-Grounded Diagnosis for LLM Agents,2026-05-07,V,A,new,0,verification round,yes
+319,2605.07782,CktFormalizer: Autoformalization of Natural Language into Circuit Representations,2026-05-08,V,A,new,1,verification round,yes
+320,2605.07877,Melding LLM and temporal logic for reliable human-swarm collaboration in complex scenarios,2026-05-08,P,A,new,0,rest,
+321,2605.08538,Human-Inspired Memory Architecture for LLM Agents,2026-05-08,M,A,new,1,rest,
+322,2605.09505,EpiGraph: Building Generalists for Evidence-Intensive Epilepsy Reasoning in the Wild,2026-05-10,P,A,new,0,rest,
+323,2605.10488,DeepRefine: Agentic Knowledge Refinement via Reinforcement Learning,2026-05-11,M,A,new,0,rest,yes
+324,2605.11259,Template-as-Ontology: Configurable Synthetic Data Infrastructure for Cross-Domain Manufacturing AI Validation,2026-05-11,V,A,new,0,verification round,yes
+325,2605.11534,PRISM: : Planning and Reasoning with Intent in Simulated Embodied Environments,2026-05-12,P+M,A,new,0,rest,yes
+326,2605.15333,Zero-Shot Goal Recognition with Large Language Models,2026-05-14,P,A,new,0,rest,
+327,2605.15701,H-Mem: A Novel Memory Mechanism for Evolving and Retrieving Agent Memory via a Hybrid Structure,2026-05-15,M,A,new,4,rest,yes
+328,2605.16142,Property-Guided LLM Program Synthesis for Planning,2026-05-15,P,A,new,1,rest,
+329,2605.18423,REBAR: Reference Ethical Benchmark for Autonomy Readiness,2026-05-18,V,A,new,0,verification round,yes
+330,2605.19180,Supporting System Testing with a Multi-Agent LLM-based Framework for Knowledge Graph Extraction: A Case Study with Ethernet Switch Systems,2026-05-18,V,A,new,0,verification round,yes
+331,2605.24018,EvoSci: A Bio-Inspired Multi-Agent Framework for the Evolution of Scientific Discovery,2026-05-20,M,A,new,2,rest,yes
+332,2605.23109,Inductive Deductive Synthesis: Enabling AI to Generate Formally Verified Systems,2026-05-22,V,A,new,3,verification round,yes
+333,2605.25489,"ATWL: A Formal Language for Representing, Comparing, and Reusing Visual Analytics Workflows",2026-05-25,V,A,new,3,verification round,yes
+334,2605.26256,Personalizing Embodied Multimodal Large Language Model Agents over Long-term User Interactions,2026-05-25,M,A,new,1,rest,yes
+335,2605.26835,Helicase: Uncertainty-Guided Supply Chain Knowledge Graph Construction with Autonomous Multi-Agent LLMs,2026-05-26,M,A,new,0,rest,
+336,2605.27014,ReasonOps: A Unified Operational Paradigm for Trustworthy Verified LLM Reasoning,2026-05-26,V,A,new,0,verification round,yes
+337,2605.27485,Automating Formal Verification with Agent-Guided Tree Search,2026-05-26,V,A,new,0,verification round,yes
+338,2605.28093,ConRAG: Consensus-Driven Multi-View Retrieval for Multi-Hop Question Answering,2026-05-27,P,A,new,1,rest,
+339,2605.29534,UI-KOBE: Knowledge-Oriented Behavior Exploration for Lightweight Graph-Guided GUI Agents,2026-05-28,P,A,new,2,rest,
+340,2605.30144,AgentSchool: An LLM-Powered Multi-Agent Simulation for Education,2026-05-28,M,A,new,0,rest,
+341,2605.30914,Automating Formal Verification with Reinforcement Learning and Recursive Inference,2026-05-29,P,A,new,1,rest,
+342,2606.01215,Distilling Neuro-Symbolic Programs into 3D Multi-modal LLMs,2026-05-31,P,A,new,2,rest,
+343,2606.03374,eMEM: A Hybrid Spatio-Temporal Memory System For Embodied Agents,2026-06-02,M,A,new,1,rest,
+344,2606.05395,VASO: Formally Verifiable Self-Evolving Skills for Physical AI Agents,2026-06-03,V,A,new,2,verification round,yes
+345,2606.06337,TokenMizer: Graph-Structured Session Memory for Long-Horizon LLM Context Management,2026-06-04,M,A,new,0,rest,
+346,2606.11560,"LLMs+Graphs: Toward Graph-Native, Synergistic AI Systems",2026-06-10,P,A,new,0,rest,
+347,2607.22591,Lexical discovery in unknown environments orchestrated by Large Language Models,2026-06-10,P,A,new,0,rest,
+348,2606.12910,Bounding Boxes as Goals: Language-Conditioned Grasping via Neuro-Symbolic Planning,2026-06-11,P,A,new,0,rest,yes
+349,2606.14805,Knowledge-Based Zero-Replay Debugging of Multi-Agent LLM Traces,2026-06-11,M,A,new,1,rest,
+350,2606.15349,LearnOpt: Recovering the Latent Cognitive Structure of Standardized Examinations via Knowledge Graphs and Constrained Optimization,2026-06-13,P,A,new,0,rest,
+351,2606.15654,PO-PDDL: Learning Symbolic POMDPs from Visual Demonstrations for Robot Planning Under Uncertainty,2026-06-14,P,A,new,0,rest,yes
+352,2606.17474,AIPatient Arena: EHR-grounded evaluation of large language models in end-to-end clinical consultation workflows,2026-06-16,P,A,new,1,rest,
+353,2606.17981,Planning to Hammer: Difficulty-Aware Decomposition for Automating Rocq Proofs,2026-06-16,P,A,new,3,rest,
+354,2607.20498,AISE-Bench: A Full-Cycle Curated Benchmark for Information Seeking on Academic Knowledge Graphs,2026-06-16,P,A,new,0,rest,
+355,2606.19821,TelcoAgent: A Scalable 5G Multi-KPM Forecasting With 3GPP-Grounded Explainability,2026-06-18,V,A,new,0,verification round,yes
+356,2606.21832,AgentCAT: Simulating Computerized Adaptive Testing via Multi-Agent Large Language Models,2026-06-20,M,A,new,0,rest,
+357,2606.23754,Verifiable Foundation Models for Robot Safety,2026-06-22,V,A,new,0,verification round,yes
+358,2606.24779,DeepBD: A Grounded Agentic Workflow for Variant Prioritization and Diagnosis of Genetic Birth Defects,2026-06-23,M,A,new,0,rest,
+359,2606.25532,Agentic evolution of physically constrained foundation models,2026-06-24,M,A,new,0,rest,
+360,2606.28070,"JD Oxygen AI Item Center (Oxygen AIIC) V1: An Industrial-Scale LLM/VLM-Centric Solution for Item Understanding, Management, and Applications",2026-06-26,P,A,new,0,rest,
+361,2606.29399,LLM-Guided Planning for Multi-hop Reasoning over Multimodal Nuclear Regulatory Documents,2026-06-28,P+V,A,new,0,verification round,yes
+362,2606.29799,The CRISTAL Method: Neurosymbolic analysis from AI-synthesized world models,2026-06-29,P,A,new,0,rest,
+363,2606.30613,Sequential Planning via Anchored Robotic Keypoints,2026-06-29,P,A,new,2,rest,
+364,2606.30696,ViTL: Temporal Logic-Guided Zero-Shot Natural Language Navigation via Vision-Language Models,2026-06-29,P,A,new,0,rest,yes
+365,2607.01595,Safe and Adaptive Cloud Healing: Verifying LLM-Generated Recovery Plans with a Neural-Symbolic World Model,2026-07-02,P,A,new,0,rest,
+366,2607.06341,Harnessing Code Agents for Automatic Software Verification,2026-07-07,M,A,new,1,rest,
+367,2607.06724,EvoPlan: Evolutionary Neuro-Symbolic Robot Planning with Spatio-Temporal Guarantees,2026-07-07,V,A,new,0,verification round,yes
+368,2607.11948,Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterprise Language Models: A Combined Proof-of-Mechanism and Negative-Results Method Study,2026-07-11,V,A,new,1,verification round,yes
+369,2607.10621,WebDesignIter: Co-Evolving Design Knowledge for Repository-Level Front-End Code Generation,2026-07-12,P,A,new,1,rest,
+370,2607.14661,SmartRAG: Native Graph-Based RAG for Mobile Device,2026-07-16,P,A,new,0,rest,
+371,2607.15674,A Generative Partially Specified Finite State Machine Approach to Complex Behaviour Planning,2026-07-17,P,A,new,0,rest,yes
+372,2607.17269,An Explicit World Model Based on Data-First Ontology: DaoQL Multimodal Storage Validation and Counterfactual Reasoning Evaluation,2026-07-19,P,A,new,0,rest,
+373,2607.17935,DeLIVeR: Decomposed Learning for Information-grounded Veracity Recognition via Reinforced Knowledge Graph Exploration,2026-07-20,P,A,new,0,rest,
+374,2607.20268,PoTRE: Test-Time Reasoning inspired by Cognitive Heterogeneity,2026-07-22,P,A,new,0,rest,
+375,2607.21957,KaPilot: LLM-Assisted Generation of Kani Specifications for Unsafe Rust Verification,2026-07-24,M+V,A,new,0,verification round,yes
+376,2607.22954,Toward Automated Detection of Documentation Inconsistencies in Electronic Health Records,2026-07-24,P,A,new,0,rest,
+377,2607.27267,FAVA: Formal Authorization for Verified Agents with Evidence-Backed Permission Graphs,2026-07-29,V,A,new,4,verification round,yes
+378,2607.28877,Open-Source LLM-Driven Formal Verification: A Multi-Agent Pipeline for RTL Repair,2026-07-30,V,A,new,0,verification round,yes
+379,2608.00143,Symbolic Attack Chain Generation from Atomic Red Team Techniques: An Empirical Study of Predicate Representation Granularity,2026-07-31,P,A,new,0,rest,
+380,2608.00937,Neuro-Symbolic Participation Governance for Verifiable AI Agents in Open Digital Twin Ecosystems,2026-08-02,V,A,new,0,verification round,yes
+381,2608.01904,CoEvoKG: Co-Evolving Knowledge Graphs with Self-Evolving Search Agents,2026-08-03,M,A,new,3,rest,yes
+382,2608.05391,Adaptive Arena-based Contestable Argumentative Network-of-Experts for Open-Ended Care Plan Coordination,2026-08-05,V,A,new,0,verification round,yes
+383,2608.07954,KGCache: Amortized Subgraph Retrieval for KG Reasoning with LLMs,2026-08-08,P,A,new,0,rest,
+384,2608.12888,When Your Agent Opens the Chat App: Agent-Controlled Search over Raw Chat Logs Rivals Structured Memory,2026-08-13,M,A,new,1,rest,
+385,2608.15193,Valhalla: A Layered Knowledge-State and Service-Governance Framework for Long-Term Scientific Knowledge Work,2026-08-15,M,A,new,0,rest,yes
+386,2608.17146,PDDL-ART: Autonomous Symbolic Abstraction From Demonstration For Long-Horizon Robotic Manipulation Using Vision-Language Models,2026-08-17,P+M,A,new,0,rest,yes
+387,2608.17386,MANIGUARD: A Benchmark and Data Suite for Specification-Grounded Safety Evaluation and Improvement of Robotic Manipulation,2026-08-18,P,A,new,2,rest,
+388,2608.17665,GraphWake: Group Polarization via Memory-Mediated Polarization Cascade in LLM-Agent Communities,2026-08-18,M,A,new,0,rest,
+389,2608.20661,Auditable by Construction: An Ontology-Driven Framework for Trustworthy LLM Analytics in Enterprise Finance,2026-08-21,P,A,new,0,rest,
+390,2608.21897,From Solver Feedback to Faithful Plans: Multi-Role Reinforcement Learning for Symbolic Planning,2026-08-22,P,A,new,0,rest,
+391,2608.22149,Meta-Ctrl: Guaranteed Plan Generation by Decoupling Syntactic and Semantic Constraints,2026-08-23,M,A,new,0,rest,
+392,2608.23263,Automated Construction of FAIR Digital Object Knowledge Graphs from Flat Cultural Heritage Records,2026-08-24,V,A,new,0,verification round,yes
+393,2608.24534,Neurosymbolic Alignment for Physiologically-Safe Clinical Language Models,2026-08-25,P,A,new,0,rest,
+394,2608.27716,PCFBench: A Diagnostic Benchmark for Product Carbon Footprint Estimation,2026-08-27,V,A,new,0,verification round,yes
+395,2608.29016,Towards Fully Automated Medical Imaging Code Generation via Validation-based Context Engineering,2026-08-29,P+M,A,new,0,rest,
+396,2608.29263,RACER: Reinforced Agent Collaboration for Explainable Reasoning on Knowledge Graphs,2026-08-29,M,A,new,0,rest,yes
+397,2608.29347,A Cognitive Architecture for Shared Autonomy in AUV Operations,2026-08-29,P,A,new,0,rest,
+398,2609.03201,MemoryLACE: Memory Lifecycle-Aware Consolidation and Evidence Retrieval,2026-09-02,M,A,new,1,rest,yes
+399,2609.03834,Semantic Bayesian World Models,2026-09-03,P,A,new,0,rest,
+400,2609.06071,Generating Instance Generators in PDDL Planning,2026-09-05,P,A,new,0,rest,
+401,2609.07111,From LLM-Generated Specifications to Learned Quadruped Locomotion,2026-09-07,V,A,new,0,verification round,yes
+402,2609.09153,Procedural Graphs: Self-Evolving Execution Structures for LLM Agents,2026-09-08,M,A,new,0,rest,yes
+403,2609.09898,Grounded Evaluation and Repair for NL-to-PDDL Problem Generation,2026-09-09,P,A,new,0,rest,
+404,2609.11043,LTLDiff: Finite Linear Temporal Logic-Guided Data Generation and Diffusion Policies for Multi-agent Robotic Manipulation,2026-09-10,V,A,new,0,verification round,yes
+405,2609.13776,Surprising Effectiveness of Self-Demonstrations in Enhancing Schema-Ontology Mapping with LLMs,2026-09-12,P,A,new,0,rest,
+406,2609.22285,ORDER: A Fictitious-World Benchmark for Domain-Adaptive Embodied AI,2026-09-13,V,A,new,0,verification round,yes
+407,2609.15009,CoMem: Collective-Individual Memory Synergy for Evolutionary Multi-Agent Systems,2026-09-14,M,A,new,0,rest,
+408,2609.18731,Which LLM is Best for Translating Natural Language Goals to PDDL,2026-09-16,P,A,new,0,rest,
+409,2609.18861,PersonaPath: Towards Knowledge-Centric Personalized Learning Path Planning,2026-09-16,P,A,new,0,rest,
+410,2609.19391,MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs,2026-09-16,V,A,new,0,verification round,yes
+411,2609.24446,ActGov: Governing LLM Agent Actions via Policy-Constrained Validation,2026-09-21,V,A,new,0,verification round,yes
+412,2609.27105,Provably Complete Generalized Planning with LLMs,2026-09-22,P,A,new,0,rest,
+413,2609.32803,Nutri-ATLAS: Embodied Agent for Tabulated Lookup and Assistance for Smarter nutrition,2026-09-26,M,A,new,0,rest,yes
+414,2202.07138,Integrating AI Planning with Natural Language Processing: A Combination of Explicit and Tacit Knowledge,2022-02-15,P,B,new,14,rest,
+415,2205.05718,"Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks",2022-05-11,P,B,new,74,most cited,yes
+416,2210.01240,Language Models Are Greedy Reasoners: A Systematic Formal Analysis of Chain-of-Thought,2022-10-03,P,B,new,553,most cited,yes
+417,2212.08681,Plansformer: Generating Symbolic Plans using Transformers,2022-12-16,P,B,new,55,most cited,yes
+418,2301.11564,Learning 6-DoF Fine-grained Grasp Detection Based on Part Affordance Grounding,2023-01-27,P,B,new,39,most cited,yes
+419,2301.13379,Faithful Chain-of-Thought Reasoning,2023-01-31,P,B,new,470,most cited,yes
+420,2303.12153,Text2Motion: From Natural Language Instructions to Feasible Plans,2023-03-21,P,B,new,434,most cited,yes
+421,2304.08587,Grounding Classical Task Planners via Vision-Language Models,2023-04-17,P,B,new,31,most cited,yes
+422,2305.10276,Chain-of-Symbol Prompting Elicits Planning in Large Langauge Models,2023-05-17,P,B,new,6,rest,
+423,2305.14603,OpenPI2.0: An Improved Dataset for Entity Tracking in Texts,2023-05-24,P,B,new,12,rest,yes
+424,2305.17590,Integrating Action Knowledge and LLMs for Task Planning and Situation Handling in Open Worlds,2023-05-27,P,B,new,91,most cited,yes
+425,2305.19472,PlaSma: Making Small Language Models Better Procedural Knowledge Models for (Counterfactual) Planning,2023-05-31,P,B,new,3,rest,
+426,2306.01295,Egocentric Planning for Scalable Embodied Task Achievement,2023-06-02,P+V,B,new,9,verification round,yes
+427,2306.12672,From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought,2023-06-22,P,B,new,163,most cited,yes
+428,2307.06135,SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning,2023-07-12,P,B,new,524,most cited,yes
+429,2308.04586,Bootstrapping Developmental AIs: From Simple Competences to Intelligent Human-Compatible AIs,2023-08-08,P,B,new,3,rest,
+430,2309.04077,SayNav: Grounding Large Language Models for Dynamic Planning to Navigation in New Environments,2023-09-08,P,B,new,127,most cited,yes
+431,2309.07726,GRID: Scene-Graph-based Instruction-driven Robotic Task Planning,2023-09-14,P,B,new,55,most cited,yes
+432,2309.07870,Agents: An Open-source Framework for Autonomous Language Agents,2023-09-14,P+M,B,new,151,most cited,yes
+433,2309.08587,Compositional Foundation Models for Hierarchical Planning,2023-09-15,P,B,new,137,most cited,yes
+434,2309.16052,OceanChat: Piloting Autonomous Underwater Vehicles in Natural Language,2023-09-27,P,B,new,19,rest,
+435,2310.07263,CoPAL: Corrective Planning of Robot Actions with Large Language Models,2023-10-11,P,B,new,79,most cited,yes
+436,2310.13065,Creative Robot Tool Use with Large Language Models,2023-10-19,P,B,new,71,most cited,yes
+437,2310.20034,GG-LLM: Geometrically Grounding Large Language Models for Zero-shot Human Activity Forecasting in Human-Aware Task Planning,2023-10-30,P,B,new,26,most cited,yes
+438,2312.01350,Honesty Is the Best Policy: Defining and Mitigating AI Deception,2023-12-03,V,B,new,60,most cited,yes
+439,2401.08392,DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models (Exemplified as A Video Agent),2024-01-16,P+M,B,new,79,most cited,yes
+440,2402.10778,AutoGPT+P: Affordance-based Task Planning with Large Language Models,2024-02-16,P,B,new,45,most cited,yes
+441,2402.11489,What's the Plan? Evaluating and Developing Planning-Aware Techniques for Language Models,2024-02-18,P,B,new,7,rest,
+442,2402.17753,Evaluating Very Long-Term Conversational Memory of LLM Agents,2024-02-27,M,B,new,929,most cited,yes
+443,2402.18679,Data Interpreter: An LLM Agent For Data Science,2024-02-28,M,B,new,291,most cited,yes
+444,2403.01248,SceneCraft: An LLM Agent for Synthesizing 3D Scene as Blender Code,2024-03-02,P,B,new,152,most cited,yes
+445,2403.06294,ArgMed-Agents: Explainable Clinical Decision Reasoning with LLM Disscusion via Argumentation Schemes,2024-03-10,P,B,new,33,most cited,yes
+446,2403.14690,Incorporating Graph Attention Mechanism into Geometric Problem Solving Based on Deep Reinforcement Learning,2024-03-14,M,B,new,0,rest,
+447,2403.11552,LLM3:Large Language Model-based Task and Motion Planning with Motion Failure Reasoning,2024-03-18,P,B,new,126,most cited,yes
+448,2403.15648,Unifying Large Language Model and Deep Reinforcement Learning for Human-in-Loop Interactive Socially-aware Navigation,2024-03-22,M,B,new,6,rest,yes
+449,2403.17124,Grounding Language Plans in Demonstrations Through Counterfactual Perturbations,2024-03-25,P,B,new,18,rest,
+450,2403.17238,Temporal and Semantic Evaluation Metrics for Foundation Models in Post-Hoc Analysis of Robotic Sub-tasks,2024-03-25,P,B,new,3,rest,
+451,2404.03275,DELTA: Decomposed Efficient Long-Term Robot Task Planning using Large Language Models,2024-04-04,P,B,new,66,most cited,yes
+452,2404.03587,Anticipate & Collab: Data-driven Task Anticipation and Knowledge-driven Planning for Human-robot Collaboration,2024-04-04,P,B,new,1,rest,
+453,2404.08827,"""Don't forget to put the milk back!"" Dataset for Enabling Embodied Agents to Detect Anomalous Situations",2024-04-12,M,B,new,15,rest,
+454,2405.01392,LLMSat: A Large Language Model-Based Goal-Oriented Agent for Autonomous Space Exploration,2024-04-13,P,B,new,9,rest,
+455,2404.11267,Towards Human Awareness in Robot Task Planning with Large Language Models,2024-04-17,P,B,new,10,rest,
+456,2404.14285,LLM-Personalize: Aligning LLM Planners with Human Preferences via Reinforced Self-Training for Housekeeping Robots,2024-04-22,P,B,new,33,most cited,yes
+457,2405.00552,Long-Term Human Trajectory Prediction using 3D Dynamic Scene Graphs,2024-05-01,P+M,B,new,29,most cited,yes
+458,2405.04776,Chain of Thoughtlessness? An Analysis of CoT in Planning,2024-05-08,P,B,new,156,most cited,yes
+459,2405.09822,SEEK: Semantic Reasoning for Object Goal Navigation in Real World Inspection Tasks,2024-05-16,P,B,new,41,most cited,yes
+460,2405.13042,StoryVerse: Towards Co-authoring Dynamic Plot with LLM-based Character Simulation via Narrative Planning,2024-05-17,P,B,new,50,most cited,yes
+461,2405.13209,Investigating Symbolic Capabilities of Large Language Models,2024-05-21,P,B,new,10,rest,
+462,2405.13245,A Survey of Robotic Language Grounding: Tradeoffs between Symbols and Embeddings,2024-05-21,V,B,new,41,most cited,yes
+463,2405.14062,ChatScene: Knowledge-Enabled Safety-Critical Scenario Generation for Autonomous Vehicles,2024-05-22,V,B,new,179,most cited,yes
+464,2406.11915,miniCodeProps: a Minimal Benchmark for Proving Code Properties,2024-06-16,V,B,new,24,verification round,yes
+465,2406.13094,Exploring and Benchmarking the Planning Capabilities of Large Language Models,2024-06-18,P,B,new,20,rest,
+466,2407.09985,A Training Data Recipe to Accelerate A* Search with Language Models,2024-07-13,P,B,new,4,rest,
+467,2407.10049,AutoGRAMS: Autonomous Graphical Agent Modeling Software,2024-07-14,M,B,new,1,rest,
+468,2407.19630,LLMs' Understanding of Natural Language Revealed,2024-07-29,P,B,new,10,rest,
+469,2408.06849,Causal Agent based on Large Language Model,2024-08-13,M,B,new,11,rest,
+470,2408.12093,LLM-enhanced Scene Graph Learning for Household Rearrangement,2024-08-22,P,B,new,27,most cited,yes
+471,2408.14769,Points2Plans: From Point Clouds to Long-Horizon Plans with Composable Relational Dynamics,2024-08-27,P,B,new,11,rest,
+472,2408.16098,Structured Event Reasoning with Large Language Models,2024-08-28,P,B,new,2,rest,
+473,2409.03258,GraphInsight: Unlocking Insights in Large Language Models for Graph Structure Understanding,2024-09-05,M,B,new,27,most cited,yes
+474,2409.12183,To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning,2024-09-18,P,B,new,374,most cited,yes
+475,2409.12452,Unlocking Reasoning Potential in Large Langauge Models by Scaling Code-form Planning,2024-09-19,P,B,new,32,most cited,yes
+476,2409.14908,KARMA: Augmenting Embodied AI Agents with Long-and-short Term Memory Systems,2024-09-23,P+M,B,new,45,most cited,yes
+477,2409.15566,GEM-RAG: Graphical Eigen Memories For Retrieval Augmented Generation,2024-09-23,M,B,new,2,rest,
+478,2410.00371,AHA: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation,2024-10-01,P,B,new,190,most cited,yes
+479,2410.02511,"Stop Wandering, Find the Keys: LLMs Discriminate Key States for Efficient Multi-Agent Exploration",2024-10-03,M,B,new,12,rest,
+480,2410.03136,Deliberate Reasoning in Language Models as Structure-Aware Planning with an Accurate World Model,2024-10-04,P,B,new,41,most cited,yes
+481,2410.06384,Validation of the Scientific Literature via Chemputation Augmented by Large Language Models,2024-10-08,V,B,new,4,verification round,yes
+482,2410.08792,"VLM See, Robot Do: Human Demo Video to Robot Action Plan via Vision Language Model",2024-10-11,P,B,new,62,most cited,yes
+483,2410.10045,Neuro-Symbolic Skill Discovery for Conditional Multi-Level Planning,2024-10-13,P,B,new,2,rest,
+484,2410.11989,Dynamic Open-Vocabulary 3D Scene Graphs for Long-term Language-Guided Mobile Manipulation,2024-10-15,P+M,B,new,67,most cited,yes
+485,2410.14865,Joint Verification and Refinement of Language Models for Safety-Constrained Planning,2024-10-18,V,B,new,8,verification round,yes
+486,2410.16155,A Troublemaker with Contagious Jailbreak Makes Chaos in Honest Towns,2024-10-21,M,B,new,9,rest,
+487,2410.16456,To the Globe (TTG): Towards Language-Driven Guaranteed Travel Planning,2024-10-21,P,B,new,32,most cited,yes
+488,2410.22194,ADAM: An Embodied Causal Agent in Open-World Environments,2024-10-29,M,B,new,17,rest,
+489,2410.23968,EmbodiedRAG: Dynamic 3D Scene Graph Retrieval for Efficient and Scalable Robot Task Planning,2024-10-31,P,B,new,32,most cited,yes
+490,2410.24096,Progressive Safeguards for Safe and Model-Agnostic Reinforcement Learning,2024-10-31,V,B,new,0,verification round,yes
+491,2411.02938,Multi-Modal 3D Scene Graph Updater for Shared and Dynamic Environments,2024-11-05,P,B,new,1,rest,
+492,2411.08253,Open-World Task and Motion Planning via Vision-Language Model Generated Constraints,2024-11-13,P,B,new,16,rest,
+493,2411.10446,VeriGraph: Scene Graphs for Execution Verifiable Robot Planning,2024-11-15,P,B,new,18,rest,
+494,2411.15027,Time is on my sight: scene graph filtering for dynamic environment perception in an LLM-driven robot,2024-11-22,P,B,new,2,rest,
+495,2411.18212,SCoTT: Strategic Chain-of-Thought Tasking for Wireless-Aware Robot Navigation in Digital Twins,2024-11-27,P,B,new,1,rest,
+496,2412.06931,Non-Prehensile Tool-Object Manipulation by Integrating LLM-Based Planning and Manoeuvrability-Driven Controls,2024-12-09,P,B,new,7,rest,
+497,2412.10415,Generative Adversarial Reviews: When LLMs Become the Critic,2024-12-09,M,B,new,15,rest,yes
+498,2412.07493,LLM-guided Task and Motion Planning using Knowledge-based Reasoning,2024-12-10,P,B,new,2,rest,
+499,2501.14734,Research on the Application of Spark Streaming Real-Time Data Analysis System and large language model Intelligent Agents,2024-12-10,M,B,new,3,rest,
+500,2412.14480,GraphEQA: Using 3D Semantic Scene Graphs for Real-time Embodied Question Answering,2024-12-19,P+M,B,new,53,most cited,yes
+501,2501.00296,From Pixels to Predicates: Learning Symbolic World Models via Pretrained Vision-Language Models,2024-12-31,P,B,new,19,rest,
+502,2501.02829,An Infrastructure Software Perspective Toward Computation Offloading between Executable Specifications and Foundation Models,2025-01-06,P,B,new,4,rest,
+503,2501.13428,Softplus Attention with Re-weighting Boosts Length Extrapolation in Large Language Models,2025-01-23,P,B,new,1,rest,
+504,2501.17403,General Scene Adaptation for Vision-and-Language Navigation,2025-01-29,M,B,new,21,rest,
+505,2502.18465,Empirical Research on Utilizing LLM-based Agents for Automated Bug Fixing via LangGraph,2025-01-29,M,B,new,8,rest,
+506,2502.00708,PhiP-G: Physics-Guided Text-to-3D Compositional Scene Generation,2025-02-02,P,B,new,7,rest,yes
+507,2502.03450,Schema-Guided Scene-Graph Reasoning based on Multi-Agent Large Language Model System,2025-02-05,P,B,new,6,rest,
+508,2502.07316,CodeI/O: Condensing Reasoning Patterns via Code Input-Output Prediction,2025-02-11,P,B,new,66,most cited,yes
+509,2502.13175,Towards Robust and Secure Embodied AI: A Survey on Vulnerabilities and Attacks,2025-02-18,P,B,new,67,most cited,yes
+510,2502.15309,DynamicGSG: Dynamic 3D Gaussian Scene Graphs for Environment Adaptation,2025-02-21,M,B,new,13,rest,
+511,2502.19135,Combining Large Language Models and Symbolic Reasoning for Multi-Robot Temporal Planning through Explainable Knowledge Bases,2025-02-26,P,B,new,3,rest,
+512,2503.02698,FlowPlan: Zero-Shot Task Planning with LLM Flow Engineering for Robotic Instruction Following,2025-03-04,P,B,new,3,rest,
+513,2503.05064,"Perceiving, Reasoning, Adapting: A Dual-Layer Framework for VLM-Guided Precision Robotic Manipulation",2025-03-07,M,B,new,0,rest,
+514,2503.09173,Long-Term Planning Around Humans in Domestic Environments with 3D Scene Graphs,2025-03-12,P+M,B,new,5,rest,yes
+515,2503.10099,AgentDAO: Synthesis of Proposal Transactions Via Abstract DAO Semantics,2025-03-13,V,B,new,3,verification round,yes
+516,2503.10630,UniGoal: Towards Universal Zero-shot Goal-oriented Navigation,2025-03-13,M,B,new,113,most cited,yes
+517,2503.11951,"SagaLLM: Context Management, Validation, and Transaction Guarantees for Multi-Agent LLM Planning",2025-03-15,M,B,new,82,most cited,yes
+518,2503.12065,Maritime Mission Planning for Unmanned Surface Vessel using Large Language Model,2025-03-15,P,B,new,18,rest,
+519,2503.15091,Intelligent Spatial Perception by Building Hierarchical 3D Scene Graphs for Indoor Scenarios with the Help of LLMs,2025-03-19,P,B,new,2,rest,yes
+520,2503.21564,Cooking Task Planning using LLM and Verified by Graph Network,2025-03-27,P,B,new,2,rest,
+521,2504.00587,AgentNet: Decentralized Evolutionary Coordination for LLM-based Multi-Agent Systems,2025-04-01,M,B,new,103,most cited,yes
+522,2504.02477,Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision,2025-04-03,M,B,new,97,most cited,yes
+523,2504.03245,Seeing is Believing: Belief-Space Planning with Foundation Models as Uncertainty Estimators,2025-04-04,P,B,new,1,rest,
+524,2504.07257,Better Decisions through the Right Causal World Model,2025-04-09,P,B,new,2,rest,
+525,2504.08525,Task Memory Engine (TME): Enhancing State Awareness for Multi-Step LLM Agent Tasks,2025-04-11,M,B,new,6,rest,
+526,2504.09479,Draw with Thought: Unleashing Multimodal Reasoning for Scientific Diagram Generation,2025-04-13,P,B,new,18,rest,
+527,2504.10030,EmbodiedAgent: A Scalable Hierarchical Approach to Overcome Practical Challenge in Multi-Robot Control,2025-04-14,M,B,new,6,rest,
+528,2504.21218,Theoretical Foundations for Semantic Cognition in Artificial Intelligence,2025-04-29,M,B,new,3,rest,
+529,2505.00831,"SmallPlan: Leverage Small Language Models for Sequential Path Planning with Simulation-Powered, LLM-Guided Distillation",2025-05-01,P,B,new,0,rest,
+530,2505.01009,Improving Large Language Model Planning with Action Sequence Similarity,2025-05-02,P,B,new,8,rest,
+531,2505.01479,Deliberate Planning in Language Models with Symbolic Representation,2025-05-02,P,B,new,5,rest,
+532,2505.03035,MORE: Mobile Manipulation Rearrangement Through Grounded Language Reasoning,2025-05-05,P,B,new,13,rest,
+533,2505.03725,Meta-Optimization and Program Search using Language Models for Task and Motion Planning,2025-05-06,P,B,new,5,rest,yes
+534,2505.04980,LVLM-MPC Collaboration for Autonomous Driving: A Safety-Aware and Task-Scalable Control Architecture,2025-05-08,P,B,new,4,rest,
+535,2505.05622,CityNavAgent: Aerial Vision-and-Language Navigation with Hierarchical Semantic Planning and Global Memory,2025-05-08,M,B,new,57,most cited,yes
+536,2505.07634,Neural Brain: A Neuroscience-inspired Framework for Embodied Agents,2025-05-12,M,B,new,13,rest,yes
+537,2505.08444,Extracting Visual Plans from Unlabeled Videos via Symbolic Guidance,2025-05-13,P,B,new,1,rest,
+538,2505.10922,Vaiage: A Multi-Agent Solution to Personalized Travel Planning,2025-05-16,P,B,new,12,rest,yes
+539,2505.17607,Symbolic Intermediaries as a Linguistic-Numerical Interface for LLM-Driven Geometric Reasoning,2025-05-23,P+V,B,new,1,verification round,yes
+540,2505.18279,Collaborative Memory: Multi-User Memory Sharing in LLM Agents with Dynamic Access Control,2025-05-23,M,B,new,62,most cited,yes
+541,2505.18382,One Demo Is All It Takes: Planning Domain Derivation with LLMs from A Single Demonstration,2025-05-23,P,B,new,9,rest,
+542,2505.19436,Task Memory Engine: Spatial Memory for Robust Multi-Step LLM Agents,2025-05-26,M,B,new,7,rest,
+543,2505.19905,EMAC+: Embodied Multimodal Agent for Collaborative Planning with VLM+LLM,2025-05-26,P,B,new,7,rest,
+544,2505.20415,Enhancing Logical Reasoning in Language Models via Symbolically-Guided Monte Carlo Process Supervision,2025-05-26,P,B,new,10,rest,
+545,2505.21981,Learning Compositional Behaviors from Demonstration and Language,2025-05-28,P,B,new,34,most cited,yes
+546,2505.23833,Benchmarking Abstract and Reasoning Abilities Through A Theoretical Perspective,2025-05-28,M,B,new,5,rest,yes
+547,2506.00043,From Motion to Behavior: Hierarchical Modeling of Humanoid Generative Behavior Control,2025-05-28,P,B,new,0,rest,
+548,2505.24157,Experience-based Knowledge Correction for Robust Planning in Minecraft,2025-05-30,M,B,new,1,rest,yes
+549,2505.24354,Unifying Language Agent Algorithms with Graph-based Orchestration Engine for Reproducible Agent Research,2025-05-30,M,B,new,8,rest,
+550,2506.01174,GraphPad: Inference-Time 3D Scene Graph Updates for Embodied Question Answering,2025-06-01,M,B,new,6,rest,yes
+551,2506.04251,Language-Driven Coordination and Learning in Multi-Agent Simulation Environments,2025-06-01,M,B,new,4,rest,yes
+552,2506.03760,Understanding Physical Properties of Unseen Deformable Objects by Leveraging Large Language Models and Robot Actions,2025-06-04,P,B,new,2,rest,
+553,2506.06843,United Minds or Isolated Agents? Exploring Coordination of LLMs under Cognitive Load Theory,2025-06-07,M,B,new,14,rest,
+554,2506.07062,Prime the search: Using large language models for guiding geometric task and motion planning by warm-starting tree search,2025-06-08,P,B,new,7,rest,
+555,2506.10161,Can LLMs Generate Good Stories? Insights and Challenges from a Narrative Planning Perspective,2025-06-11,P,B,new,6,rest,
+556,2506.10966,GENMANIP: LLM-driven Simulation for Generalizable Instruction-Following Manipulation,2025-06-12,P,B,new,24,rest,
+557,2506.12104,DRIFT: Dynamic Rule-Based Defense with Injection Isolation for Securing LLM Agents,2025-06-13,M,B,new,73,most cited,yes
+558,2506.15096,DyNaVLM: Zero-Shot Vision-Language Navigation System with Dynamic Viewpoints and Self-Refining Graph Memory,2025-06-18,M,B,new,14,rest,
+559,2506.16755,Language-Informed Synthesis of Rational Agent Models for Grounded Theory-of-Mind Reasoning On-The-Fly,2025-06-20,P,B,new,10,rest,yes
+560,2506.18019,"Graphs Meet AI Agents: Taxonomy, Progress, and Future Opportunities",2025-06-22,M,B,new,24,rest,
+561,2506.19433,Mem4Nav: Boosting Vision-and-Language Navigation in Urban Environments with a Hierarchical Spatial-Cognition Long-Short Memory System,2025-06-24,M,B,new,4,rest,
+562,2506.19592,Adaptive Domain Modeling with Language Models: A Multi-Agent Approach to Task Planning,2025-06-24,P+V,B,new,6,verification round,yes
+563,2507.02029,RoboBrain 2.0 Technical Report,2025-07-02,P,B,new,101,most cited,yes
+564,2507.07115,Autonomous Control Leveraging LLMs: An Agentic Framework for Next-Generation Industrial Automation,2025-07-03,P,B,new,11,rest,
+565,2507.05607,Structured Task Solving via Modular Embodied Intelligence: A Case Study on Rubik's Cube,2025-07-08,P+V,B,new,4,verification round,yes
+566,2507.05638,LLMs are Introvert,2025-07-08,M,B,new,1,rest,
+567,2507.10584,ARPaCCino: An Agentic-RAG for Policy as Code Compliance,2025-07-11,V,B,new,19,verification round,yes
+568,2507.11222,An Agentic Flow for Finite State Machine Extraction using Prompt Chaining,2025-07-15,V,B,new,3,verification round,yes
+569,2507.12547,Modeling Open-World Cognition as On-Demand Synthesis of Probabilistic Models,2025-07-16,P,B,new,21,rest,
+570,2507.16841,AquaChat: An LLM-Guided ROV Framework for Adaptive Inspection of Aquaculture Net Pens,2025-07-19,P,B,new,12,rest,
+571,2507.15782,Interleaved LLM and Motion Planning for Generalized Multi-Object Collection in Large Scene Graphs,2025-07-21,P,B,new,1,rest,
+572,2507.22925,Hierarchical Memory for High-Efficiency Long-Term Reasoning in LLM Agents,2025-07-23,M,B,new,65,most cited,yes
+573,2507.19635,Efficient and Scalable Agentic AI with Heterogeneous Systems,2025-07-25,M,B,new,14,rest,
+574,2507.21407,Graph-Augmented Large Language Model Agents: Current Progress and Future Prospects,2025-07-29,M,B,new,19,rest,
+575,2507.22414,AutoCodeSherpa: Symbolic Explanations in AI Coding Agents,2025-07-30,V,B,new,1,verification round,yes
+576,2507.23589,Can LLM-Reasoning Models Replace Classical Planning? A Benchmark Study,2025-07-31,P,B,new,8,rest,
+577,2508.00234,Quality-of-Service Aware LLM Routing for Edge Computing with Multiple Experts,2025-08-01,M,B,new,26,most cited,yes
+578,2508.00429,Node-as-Agent: Graph Agentic Network,2025-08-01,M,B,new,2,rest,
+579,2508.01057,Edge-Based Multimodal Sensor Data Fusion with Vision Language Models (VLMs) for Real-time Autonomous Vehicle Accident Avoidance,2025-08-01,P,B,new,6,rest,
+580,2508.04678,Open Scene Graphs for Open-World Object-Goal Navigation,2025-08-06,M,B,new,41,most cited,yes
+581,2508.04931,INTENTION: Inferring Tendencies of Humanoid Robot Motion Through Interactive Intuition and Grounded VLM,2025-08-06,M,B,new,2,rest,
+582,2508.06554,AquaChat++: LLM-Assisted Multi-ROV Inspection for Aquaculture Net Pens with Integrated Battery Management and Thruster Fault Tolerance,2025-08-06,P,B,new,4,rest,
+583,2508.10494,A Unified Multi-Agent Framework for Universal Multimodal Understanding and Generation,2025-08-14,P,B,new,6,rest,
+584,2508.10501,PASS: Probabilistic Agentic Supernet Sampling for Interpretable and Adaptive Chest X-Ray Reasoning,2025-08-14,M,B,new,4,rest,
+585,2508.11425,Tapas Are Free! Training-Free Adaptation of Programmatic Agents via LLM-Guided Program Synthesis in Dynamic Environments,2025-08-15,V,B,new,13,verification round,yes
+586,2508.12782,HeroBench: A Benchmark for Long-Horizon Planning and Structured Reasoning in Virtual Worlds,2025-08-18,P,B,new,6,rest,
+587,2508.13413,Large Language Models as Visualization Agents for Immersive Binary Reverse Engineering,2025-08-19,M,B,new,3,rest,
+588,2508.18302,AI LLM Proof of Self-Consciousness and User-Specific Attractors,2025-08-22,V,B,new,0,verification round,yes
+589,2508.19851,Tracking World States with Language Models: State-Based Evaluation Using Chess,2025-08-27,P,B,new,4,rest,
+590,2509.00971,CoreThink: A Symbolic Reasoning Layer to reason over Long Horizon Tasks with LLMs,2025-08-31,P,B,new,3,rest,
+591,2509.01364,TopoNav: Topological Graphs as a Key Enabler for Advanced Object Navigation,2025-09-01,M,B,new,13,rest,
+592,2509.09790,How well can LLMs provide planning feedback in grounded environments?,2025-09-11,P,B,new,2,rest,
+593,2509.11145,Text2Mem: A Unified Memory Operation Language for Memory Operating System,2025-09-14,M,B,new,3,rest,
+594,2509.11973,MusicSwarm: Biologically Inspired Intelligence for Music Composition,2025-09-15,M,B,new,3,rest,
+595,2509.20077,Queryable 3D Scene Representation: A Multi-Modal Framework for Semantic Reasoning and Robotic Task Planning,2025-09-24,P,B,new,2,rest,
+596,2509.22720,LayoutAgent: A Vision-Language Agent Guided Compositional Diffusion for Spatial Layout Planning,2025-09-24,P,B,new,1,rest,
+597,2509.21543,Self-CriTeach: LLM Self-Teaching and Self-Critiquing for Improving Robotic Planning via Automated Domain Generation,2025-09-25,P,B,new,4,rest,
+598,2509.21928,SAGE: Scene Graph-Aware Guidance and Execution for Long-Horizon Manipulation Tasks,2025-09-26,P,B,new,0,rest,
+599,2509.21981,Collaborative Belief Reasoning with LLMs for Efficient Multi-Agent Collaboration,2025-09-26,P,B,new,1,rest,
+600,2509.22014,Lightweight Structured Multimodal Reasoning for Clinical Scene Understanding in Robotics,2025-09-26,P,B,new,0,rest,
+601,2509.22628,UML-CoT: Structured Reasoning and Planning with Unified Modeling Language for Robotic Room Cleaning,2025-09-26,P,B,new,1,rest,
+602,2509.23563,RAVEN: Resilient Aerial Navigation via Open-Set Semantic Memory and Behavior Adaptation,2025-09-28,P+M,B,new,12,rest,
+603,2509.24219,ViReSkill: Vision-Grounded Replanning with Skill Memory for LLM-Based Planning in Lifelong Robot Learning,2025-09-29,P+M,B,new,2,rest,yes
+604,2509.26255,ExoPredicator: Learning Abstract Models of Dynamic Worlds for Robot Planning,2025-09-30,P,B,new,11,rest,
+605,2510.01049,KeySG: Hierarchical Keyframe-Based 3D Scene Graphs,2025-10-01,P,B,new,13,rest,
+606,2510.03536,GraphMed-LT: Patient-Specific Graph Memory with Latent Clinical Thought Refinement for Multi-Turn Medical Conversations,2025-10-03,M,B,new,0,rest,
+607,2510.03727,Bridging the Gap Between Multimodal Foundation Models and World Models,2025-10-04,P,B,new,1,rest,
+608,2510.04391,Psychological Imagination Networks Show Cross-Population Centrality and Clustering Alignment in Humans That Large Language Models Fail to Replicate,2025-10-05,M,B,new,0,rest,
+609,2510.04542,Code World Models for General Game Playing,2025-10-06,P,B,new,27,most cited,yes
+610,2510.07091,The Cognitive Bandwidth Bottleneck: Shifting Long-Horizon Agent from Planning with Actions to Planning with Schemas,2025-10-08,M,B,new,4,rest,
+611,2510.10074,StepFly: Agentic Troubleshooting Guide Automation for Incident Diagnosis,2025-10-11,M,B,new,5,rest,
+612,2510.10865,GRIP: A Unified Framework for Grid-Based Relay and Co-Occurrence-Aware Planning in Dynamic Environments,2025-10-13,P+M,B,new,0,rest,yes
+613,2510.14980,Compositional Machine Design as Program Synthesis with LLMs,2025-10-16,P,B,new,2,rest,
+614,2510.15261,AUGUSTUS: An LLM-Driven Multimodal Agent System with Contextualized User Memory,2025-10-17,M,B,new,6,rest,
+615,2510.16344,Manual2Skill++: Connector-Aware General Robotic Assembly from Instruction Manuals via Vision-Language Models,2025-10-18,P,B,new,6,rest,
+616,2510.17801,Robobench: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models as Embodied Brain,2025-10-20,P+M,B,new,29,most cited,yes
+617,2510.18395,Memory-Augmented State Machine Prompting: A Novel LLM Agent Framework for Real-Time Strategy Games,2025-10-21,M,B,new,2,rest,
+618,2510.19988,LLM-Augmented Symbolic NLU System for More Reliable Continuous Causal Statement Interpretation,2025-10-22,P,B,new,0,rest,yes
+619,2510.24390,Improving LLM Reasoning via Dependency-Aware Query Decomposition and Logic-Parallel Content Expansion,2025-10-28,M,B,new,1,rest,
+620,2510.25160,Model-Document Protocol for AI Search,2025-10-29,M,B,new,3,rest,
+621,2510.25548,Using VLM Reasoning to Constrain Task and Motion Planning,2025-10-29,P,B,new,5,rest,yes
+622,2510.25595,Communication and Verification in LLM Agents towards Collaboration under Information Asymmetry,2025-10-29,P,B,new,2,rest,
+623,2510.26139,Kinodynamic Task and Motion Planning using VLM-guided and Interleaved Sampling,2025-10-30,P,B,new,3,rest,
+624,2511.00450,SmartDoc: A Context-Aware Agentic Method Comment Generation Plugin,2025-11-01,M,B,new,1,rest,
+625,2511.07230,Discourse Graph Guided Document Translation with Large Language Models,2025-11-10,M,B,new,2,rest,
+626,2511.10674,Continual Learning of Domain Knowledge from Human Feedback in Text-to-SQL,2025-11-10,M,B,new,0,rest,
+627,2511.07727,LLM-GROP: Visually Grounded Robot Task and Motion Planning with Large Language Models,2025-11-11,P,B,new,12,rest,
+628,2511.15715,Graph-Memoized Reasoning: Foundations Structured Workflow Reuse in Intelligent Systems,2025-11-11,M,B,new,1,rest,yes
+629,2511.08935,Expand Your SCOPE: Semantic Cognition over Potential-Based Exploration for Embodied Visual Navigation,2025-11-12,M,B,new,7,rest,
+630,2511.09378,Frontier Large Language Models Rival State-of-the-Art Planners,2025-11-12,P,B,new,6,rest,
+631,2511.11052,AdaptPNP: Integrating Prehensile and Non-Prehensile Skills for Adaptive Robotic Manipulation,2025-11-14,P,B,new,3,rest,
+632,2511.11967,Bootstrapped LLM Semantics for Context-Aware Path Planning,2025-11-15,P,B,new,0,rest,
+633,2511.14004,Searching in Space and Time: Unified Memory-Action Loops for Open-World Object Retrieval,2025-11-18,M,B,new,4,rest,
+634,2511.16997,MirrorMind: Empowering OmniScientist with the Expert Perspectives and Collective Knowledge of Human Scientists,2025-11-21,M,B,new,1,rest,
+635,2511.17208,A Simple Yet Strong Baseline for Long-Term Conversational Memory of LLM Agents,2025-11-21,M,B,new,18,rest,
+636,2511.18203,SkillWrapper: Generative Predicate Invention for Task-level Robot Planning,2025-11-22,P,B,new,3,rest,
+637,2511.20937,ENACT: Evaluating Embodied Cognition with World Modeling of Egocentric Interaction,2025-11-26,M,B,new,18,rest,
+638,2511.21471,SpatialBench: Benchmarking Multimodal Large Language Models for Spatial Cognition,2025-11-26,P,B,new,32,most cited,yes
+639,2512.01311,CuES: A Curiosity-driven and Environment-grounded Synthesis Framework for Agentic RL,2025-12-01,M,B,new,6,rest,
+640,2512.04668,Topology Matters: Measuring Memory Leakage in Multi-Agent LLMs,2025-12-04,M,B,new,10,rest,yes
+641,2512.13713,LoopBench: Discovering Emergent Symmetry Breaking Strategies with LLM Swarms,2025-12-07,M,B,new,3,rest,yes
+642,2512.07461,Native Parallel Reasoner: Reasoning in Parallelism via Self-Distilled Reinforcement Learning,2025-12-08,M,B,new,13,rest,
+643,2512.08536,Principles2Plan: LLM-Guided System for Operationalising Ethical Principles into Plans,2025-12-09,P,B,new,0,rest,yes
+644,2512.10534,Achieving Olympiad-Level Geometry Large Language Model Agent via Complexity Boosting Reinforcement Learning,2025-12-11,M,B,new,7,rest,
+645,2512.12818,"Hindsight is 20/20: Building Agent Memory that Retains, Recalls, and Reflects",2025-12-14,M,B,new,36,most cited,yes
+646,2512.15784,Beyond Training: Enabling Self-Evolution of Agents with MOBIMEM,2025-12-15,M,B,new,3,rest,
+647,2512.16214,PDE-Agent: A toolchain-augmented multi-agent framework for PDE solving,2025-12-18,M,B,new,6,rest,
+648,2512.16461,SNOW: Spatio-Temporal Scene Understanding with World Knowledge for Open-World Embodied Reasoning,2025-12-18,P,B,new,5,rest,yes
+649,2512.16909,MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning,2025-12-18,P,B,new,10,rest,
+650,2512.17853,AnyTask: an Automated Task and Data Generation Framework for Advancing Sim-to-Real Policy Learning,2025-12-19,P,B,new,11,rest,
+651,2512.17992,Unifying Deep Predicate Invention with Pre-trained Foundation Models,2025-12-19,P,B,new,4,rest,
+652,2512.18940,FASTRIC: Prompt Specification Language for Verifiable LLM Interactions,2025-12-22,V,B,new,1,verification round,yes
+653,2512.19537,Event Extraction in Large Language Model,2025-12-22,M,B,new,5,rest,
+654,2512.21243,LookPlanGraph: Embodied Instruction Following Method with VLM Graph Augmentation,2025-12-24,P,B,new,9,rest,
+655,2512.23760,"Audited Skill-Graph Self-Improvement for Agentic LLMs via Verifiable Rewards, Experience Synthesis, and Continual Memory",2025-12-28,M,B,new,7,rest,yes
+656,2512.23328,"CubeBench: Diagnosing Interactive, Long-Horizon Spatial Reasoning Under Partial Observations",2025-12-29,P+M,B,new,3,rest,yes
+657,2512.24113,CogRec: A Cognitive Recommender Agent Fusing Large Language Models and Soar for Explainable Recommendation,2025-12-30,M,B,new,1,rest,
+658,2512.24504,"Thinking on Maps: How Foundation Model Agents Explore, Remember, and Reason Map Environments",2025-12-30,P+M,B,new,1,rest,
+659,2601.00978,From Perception to Symbolic Task Planning: Vision-Language Guided Human-Robot Collaborative Structured Assembly,2026-01-02,P+V,B,new,5,verification round,yes
+660,2601.01872,CausalNav: A Long-term Embodied Navigation System for Autonomous Mobile Robots in Dynamic Outdoor Scenarios,2026-01-05,P+M,B,new,4,rest,
+661,2601.02577,Orchestral AI: A Framework for Agent Orchestration,2026-01-05,M,B,new,9,rest,yes
+662,2601.02714,Time-Scaling Is What Agents Need Now,2026-01-06,P,B,new,1,rest,
+663,2601.02732,Agentic Memory Enhanced Recursive Reasoning for Root Cause Localization in Microservices,2026-01-06,M,B,new,10,rest,
+664,2601.04726,Memory Matters More: Event-Centric Memory as a Logic Map for Agent Searching and Reasoning,2026-01-08,M,B,new,17,rest,yes
+665,2601.06411,Structured Episodic Event Memory,2026-01-10,M,B,new,3,rest,
+666,2601.06490,Bi-Mem: Bidirectional Construction of Hierarchical Memory for Personalized LLMs via Inductive-Reflective Agents,2026-01-10,M,B,new,3,rest,
+667,2601.06502,DRAGON: LLM-Driven Decomposition and Reconstruction Agents for Large-Scale Combinatorial Optimization,2026-01-10,M,B,new,5,rest,yes
+668,2601.06636,MedEinst: Benchmarking the Einstellung Effect in Medical LLMs through Counterfactual Differential Diagnosis,2026-01-10,M,B,new,6,rest,yes
+669,2601.06652,Follow the Signs: Using Textual Cues and LLMs to Guide Efficient Robot Navigation,2026-01-10,P,B,new,2,rest,
+670,2601.07224,Consolidation or Adaptation? PRISM: Disentangling SFT and RL Data via Gradient Concentration,2026-01-12,M,B,new,2,rest,yes
+671,2601.08816,MemRec: Collaborative Memory-Augmented Agentic Recommender System,2026-01-13,M,B,new,20,rest,yes
+672,2601.09113,The AI Hippocampus: How Far are We From Human Memory?,2026-01-14,M,B,new,13,rest,
+673,2602.06051,CAST: Character-and-Scene Episodic Memory for Agents,2026-01-14,M,B,new,4,rest,
+674,2601.10865,Multi-Agent Taint Specification Extraction for Vulnerability Detection,2026-01-15,V,B,new,5,verification round,yes
+675,2601.11109,Vision-as-Inverse-Graphics Agent via Interleaved Multimodal Reasoning,2026-01-16,M,B,new,42,most cited,yes
+676,2601.11354,AstroAgentBench: Evaluating Agentic Planning on Space Mission Planning Tasks,2026-01-16,M,B,new,1,rest,
+677,2601.12291,OpenNavMap: Multi-Session Appearance-Based Topometric Mapping for Scalable Visual Navigation,2026-01-18,M,B,new,0,rest,
+678,2601.12979,The Bitter Lesson of Diffusion Language Models for Agentic Workflows: A Comprehensive Reality Check,2026-01-19,P+M,B,new,5,rest,yes
+679,2601.13096,LLM-VLM Fusion Framework for Autonomous Maritime Port Inspection using a Heterogeneous UAV-USV System,2026-01-19,P,B,new,2,rest,
+680,2601.13247,Aligning Agentic World Models via Knowledgeable Experience Learning,2026-01-19,P,B,new,3,rest,yes
+681,2601.14523,Large Language Model-Powered Evolutionary Code Optimization on a Phylogenetic Tree,2026-01-20,M,B,new,2,rest,yes
+682,2601.16238,"VibeTensor: System Software for Deep Learning, Fully Generated by AI Agents",2026-01-21,M,B,new,8,rest,yes
+683,2601.15709,AgentSM: Semantic Memory for Agentic Text-to-SQL,2026-01-22,M,B,new,14,rest,
+684,2601.18204,MemWeaver: Weaving Hybrid Memories for Traceable Long-Horizon Agentic Reasoning,2026-01-26,M,B,new,9,rest,
+685,2601.18595,A Balanced Neuro-Symbolic Approach for Commonsense Abductive Logic,2026-01-26,P,B,new,3,rest,
+686,2601.20539,PathWise: Planning through World Model for Automated Heuristic Design via Self-Evolving LLMs,2026-01-28,M,B,new,5,rest,yes
+687,2601.21714,E-mem: Multi-agent based Episodic Context Reconstruction for LLM Agent Memory,2026-01-29,M,B,new,7,rest,
+688,2602.00276,Localizing and Correcting Errors for LLM-based Planners,2026-01-30,P,B,new,1,rest,
+689,2602.00929,Learning Abstractions for Hierarchical Planning in Program-Synthesis Agents,2026-01-31,P,B,new,2,rest,yes
+690,2602.01644,From Perception to Action: Spatial AI Agents and World Models,2026-02-02,P+M,B,new,0,rest,yes
+691,2602.01662,PLanAR: Planning-Language-Grounded Agentic Reasoning for Robot Manipulation,2026-02-02,P,B,new,5,rest,
+692,2602.02137,DCoPilot: Generative AI-Empowered Policy Adaptation for Dynamic Data Center Operations,2026-02-02,V,B,new,1,verification round,yes
+693,2602.02430,3D Foundation Model-Based Loop Closing for Decentralized Collaborative SLAM,2026-02-02,M,B,new,3,rest,
+694,2602.03128,"Architectural Design, Not Only Model Intelligence, Governs Multi-Agent LLM Performance",2026-02-03,M,B,new,4,rest,
+695,2602.03542,Can Large Language Models Generalize Procedures Across Representations?,2026-02-03,P,B,new,2,rest,
+696,2602.04419,Integrated Exploration and Sequential Manipulation on Scene Graph with LLM-based Situated Replanning,2026-02-04,P,B,new,2,rest,
+697,2602.04557,Textual Planning with Explicit Latent Transitions,2026-02-04,P,B,new,0,rest,
+698,2602.04843,Fluid Reasoning Representations,2026-02-04,P,B,new,0,rest,
+699,2602.04926,Pruning Minimal Reasoning Graphs for Efficient Retrieval-Augmented Generation,2026-02-04,M,B,new,1,rest,
+700,2602.04935,ASA: Backbone-Training-Free Representation Engineering for Tool-Calling Agents,2026-02-04,M,B,new,6,rest,
+701,2603.00026,ActMem: Bridging the Gap Between Memory Retrieval and Reasoning in LLM Agents,2026-02-04,M,B,new,7,rest,
+702,2603.03290,AriadneMem: Threading the Maze of Lifelong Memory for LLM Agents,2026-02-05,M,B,new,3,rest,
+703,2603.03296,PlugMem: A Task-Agnostic Plugin Memory Module for LLM Agents,2026-02-06,M,B,new,30,most cited,yes
+704,2602.07398,AgentSys: Secure and Dynamic LLM Agents Through Explicit Hierarchical Memory Management,2026-02-07,M,B,new,13,rest,
+705,2602.07755,Learning to Continually Learn via Meta-learning Agentic Memory Designs,2026-02-08,M,B,new,16,rest,
+706,2603.02228,Neural Paging: Learning Context Management Policies for Turing-Complete Agents,2026-02-11,M,B,new,1,rest,
+707,2602.11583,"The Five Ws of Multi-Agent Communication: Who Talks to Whom, When, What, and Why -- A Survey from MARL to Emergent Language and LLMs",2026-02-12,P,B,new,9,rest,
+708,2602.11678,Beyond Pixels: A Vector-to-Graph Framework for Reliable Schematic Auditing,2026-02-12,V,B,new,1,verification round,yes
+709,2602.11749,AIR: Improving Agent Safety through Incident Response,2026-02-12,V,B,new,8,verification round,yes
+710,2602.11862,LAMP: Implicit Language Map for Robot Navigation,2026-02-12,M,B,new,1,rest,
+711,2602.13594,Hippocampus: An Efficient and Scalable Memory Module for Agentic AI,2026-02-14,M,B,new,3,rest,
+712,2605.04050,LCM: Lossless Context Management,2026-02-14,M,B,new,3,rest,
+713,2602.16891,OpenSage: Self-programming Agent Generation Engine,2026-02-18,M,B,new,3,rest,
+714,2602.17930,MIRA: Memory-Integrated Reinforcement Learning Agent with Limited LLM Guidance,2026-02-20,M,B,new,0,rest,
+715,2602.17931,Memory-Based Advantage Shaping for LLM-Guided Reinforcement Learning,2026-02-20,M,B,new,0,rest,yes
+716,2603.06617,Evo: Autoregressive-Diffusion Large Language Models with Evolving Balance,2026-02-20,P,B,new,0,rest,
+717,2602.19308,WildOS: Open-Vocabulary Object Search in the Wild,2026-02-22,M,B,new,3,rest,
+718,2602.20055,CoReLIN: Constraint-based Reasoning for Zero-shot Lifelong Interactive Navigation,2026-02-23,M,B,new,0,rest,
+719,2603.00142,Evaluating Theory of Mind and Internal Beliefs in LLM-Based Multi-Agent Systems,2026-02-24,P,B,new,7,rest,
+720,2604.09580,OOWM: Structuring Embodied Reasoning and Planning via Object-Oriented Programmatic World Modeling,2026-02-25,P,B,new,1,rest,
+721,2602.22769,AMA-Bench: Evaluating Long-Horizon Memory for Agentic Applications,2026-02-26,M,B,new,48,most cited,yes
+722,2602.23720,The Auton Agentic AI Framework,2026-02-27,M,B,new,1,rest,
+723,2603.01488,LLM-assisted Semantic Option Discovery for Facilitating Adaptive Deep Reinforcement Learning,2026-03-02,P,B,new,0,rest,
+724,2603.01813,SSMG-Nav: Enhancing Lifelong Object Navigation with Semantic Skeleton Memory Graph,2026-03-02,M,B,new,3,rest,yes
+725,2603.03704,Large-Language-Model-Guided State Estimation for Partially Observable Task and Motion Planning,2026-03-04,P,B,new,4,rest,
+726,2603.08755,Turn: A Language for Agentic Computation,2026-03-07,M,B,new,0,rest,yes
+727,2605.13848,GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration,2026-03-08,M,B,new,1,rest,
+728,2603.08007,ViSA-Enhanced Aerial VLN: A Visual-Spatial Reasoning Enhanced Framework for Aerial Vision-Language Navigation,2026-03-09,P,B,new,4,rest,
+729,2603.08993,Arbiter: Detecting Interference in LLM Agent System Prompts,2026-03-09,M,B,new,2,rest,yes
+730,2603.09151,Deep Tabular Research via Continual Experience-Driven Execution,2026-03-10,M,B,new,4,rest,yes
+731,2603.09297,TA-Mem: Tool-Augmented Autonomous Memory Retrieval for LLM in Long-Term Conversational QA,2026-03-10,M,B,new,8,rest,yes
+732,2603.10291,Hybrid Self-evolving Structured Memory for GUI Agents,2026-03-11,M,B,new,12,rest,
+733,2603.15799,Prose2Policy (P2P): A Practical LLM Pipeline for Translating Natural-Language Access Policies into Executable Rego,2026-03-16,V,B,new,4,verification round,yes
+734,2603.16496,AdaMem: Adaptive User-Centric Memory for Long-Horizon Dialogue Agents,2026-03-17,M,B,new,12,rest,
+735,2603.17198,Structural Abstraction as an Inductive Bias for Non-Stationary Language Model Training,2026-03-17,M,B,new,0,rest,
+736,2603.17244,Graph-Native Cognitive Memory for AI Agents: Formal Belief Revision Semantics for Versioned Memory Architectures,2026-03-18,M,B,new,10,rest,yes
+737,2603.17351,OmniVLN: Omnidirectional 3D Perception and Token-Efficient LLM Reasoning for Visual-Language Navigation across Air and Ground Platforms,2026-03-18,M,B,new,4,rest,
+738,2603.18271,SG-CoT: An Ambiguity-Aware Robotic Planning Framework using Scene Graph Representations,2026-03-18,P,B,new,0,rest,
+739,2603.19137,GSMem: 3D Gaussian Splatting as Persistent Spatial Memory for Zero-Shot Embodied Exploration and Reasoning,2026-03-19,M,B,new,3,rest,yes
+740,2603.20530,Memory Over Maps: 3D Object Localization Without Reconstruction,2026-03-20,M,B,new,1,rest,
+741,2603.21601,Riemannian Geometry Speaks Louder Than Words: From Graph Foundation Model to Next-Generation Graph Intelligence,2026-03-23,M,B,new,2,rest,
+742,2603.21887,IGV-RRT: Prior-Real-Time Observation Fusion for Active Object Search in Changing Environments,2026-03-23,P,B,new,1,rest,
+743,2603.22096,GSEM: Graph-based Self-Evolving Memory for Experience Augmented Clinical Reasoning,2026-03-23,M,B,new,5,rest,
+744,2603.22169,VersualRL: Closed-Loop Verbal Reinforcement Learning with Visual Execution Feedback for Task-Level Robot Planning,2026-03-23,P,B,new,0,rest,
+745,2603.22386,From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents,2026-03-23,M,B,new,29,most cited,yes
+746,2603.23160,UniDial-EvalKit: A Unified Toolkit for Evaluating Multi-Faceted Conversational Abilities,2026-03-24,M,B,new,2,rest,
+747,2603.23420,Bilevel Autoresearch: Meta-Autoresearching Itself,2026-03-24,M,B,new,6,rest,
+748,2603.24221,Environment-Grounded Multi-Agent Workflow for Autonomous Penetration Testing,2026-03-25,M,B,new,1,rest,
+749,2603.24382,MolEvolve: LLM-Guided Evolutionary Search for Interpretable Molecular Optimization,2026-03-25,P,B,new,6,rest,
+750,2603.25111,SEVerA: Verified Synthesis of Self-Evolving Agents,2026-03-26,V,B,new,6,verification round,yes
+751,2603.26845,GISclaw: A Comprehensive Open-Source LLM Agent System for Realistic Multi-Step Geospatial Analysis,2026-03-27,M,B,new,0,rest,
+752,2604.14178,Simulating Human Cognition: Heartbeat-Driven Autonomous Thinking Activity Scheduling for LLM-based AI systems,2026-03-28,P,B,new,0,rest,
+753,2603.28386,COvolve: Adversarial Co-Evolution of Large-Language-Model-Generated Policies and Environments via Two-Player Zero-Sum Game,2026-03-30,M,B,new,1,rest,
+754,2604.00280,Spec-Harness: Measuring and Improving Behavioral Adequacy of LLM-Synthesized Formal Specifications,2026-03-31,V,B,new,3,verification round,yes
+755,2604.00344,Agent Q-Mix: Selecting the Right Action for LLM Multi-Agent Systems through Reinforcement Learning,2026-04-01,M,B,new,3,rest,yes
+756,2604.00556,HabitatAgent: An End-to-End Multi-Agent System for Housing Consultation,2026-04-01,M,B,new,0,rest,
+757,2604.01483,Type-Checked Compliance: Deterministic Guardrails for Agentic Financial Systems Using Lean 4 Theorem Proving,2026-04-01,V,B,new,2,verification round,yes
+758,2604.01681,Bridging Large-Model Reasoning and Real-Time Control via Agentic Fast-Slow Planning,2026-04-02,P+M,B,new,2,rest,
+759,2604.01738,AeroTherm-GPT: A Verification-Centered LLM Framework for Thermal Protection System Engineering Workflows,2026-04-02,M,B,new,0,rest,yes
+760,2604.03955,Symbolic-Vector Attention Fusion for Collective Intelligence,2026-04-05,M,B,new,4,rest,
+761,2604.04514,"SuperLocalMemory V3.3: The Living Brain -- Biologically-Inspired Forgetting, Cognitive Quantization, and Multi-Channel Retrieval for Zero-LLM Agent Memory Systems",2026-04-06,M,B,new,1,rest,
+762,2604.05150,Compiled AI: Deterministic Code Generation for LLM-Based Workflow Automation,2026-04-06,P,B,new,3,rest,
+763,2604.06506,Guiding Symbolic Execution with Static Analysis and LLMs for Vulnerability Discovery,2026-04-07,M+V,B,new,4,verification round,yes
+764,2604.07236,How Much Heavy Lifting Can an Agent Harness Do?: Measuring the LLM's Residual Role in a Planning Agent,2026-04-08,P,B,new,0,rest,
+765,2604.07595,ROZA Graphs: Self-Improving Near-Deterministic RAG through Evidence-Centric Feedback,2026-04-08,M,B,new,0,rest,
+766,2604.19795,Prism: An Evolutionary Memory Substrate for Multi-Agent Open-Ended Discovery,2026-04-08,M,B,new,0,rest,yes
+767,2604.08256,HyperMem: Hypergraph Memory for Long-Term Conversations,2026-04-09,M,B,new,13,rest,
+768,2604.08712,Model Space Reasoning as Search in Feedback Space for Planning Domain Generation,2026-04-09,P,B,new,1,rest,
+769,2604.08987,PilotBench: A Benchmark for General Aviation Agents with Safety Constraints,2026-04-10,V,B,new,4,verification round,yes
+770,2604.11811,M$^\star$: Every Task Deserves Its Own Memory Harness,2026-04-10,M,B,new,8,rest,
+771,2604.10235,CodeComp: Structural KV Cache Compression for Agentic Coding,2026-04-11,M,B,new,1,rest,
+772,2604.10895,Teaching Robots to Interpret Social Interactions through Lexically-guided Dynamic Graph Learning,2026-04-13,M,B,new,0,rest,
+773,2604.11378,From Agent Loops to Structured Graphs:A Scheduler-Theoretic Framework for LLM Agent Execution,2026-04-13,V,B,new,2,verification round,yes
+774,2604.12048,ORBIT: Guided Agentic Orchestration for Autonomous C-to-Rust Transpilation,2026-04-13,M,B,new,2,rest,yes
+775,2604.14712,SGA-MCTS: Decoupling Planning from Execution via Training-Free Atomic Experience Retrieval,2026-04-16,P,B,new,1,rest,
+776,2607.18241,BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data,2026-04-17,M,B,new,0,rest,
+777,2604.16839,HeLa-Mem: Hebbian Learning and Associative Memory for LLM Agents,2026-04-18,M,B,new,6,rest,yes
+778,2604.17364,LLM-Guided Strategy Synthesis for Scalable Equality Saturation,2026-04-19,V,B,new,0,verification round,yes
+779,2604.17830,SYMBOLIZER: Symbolic Model-free Task Planning with VLMs,2026-04-20,P,B,new,0,rest,
+780,2604.18271,EmbodiedLGR: Integrating Lightweight Graph Representation and Retrieval for Semantic-Spatial Memory in Robotic Agents,2026-04-20,M,B,new,0,rest,
+781,2604.18658,Owner-Harm: A Missing Threat Model for AI Agent Safety,2026-04-20,V,B,new,1,verification round,yes
+782,2604.19856,ChipCraftBrain: Validation-First RTL Generation via Multi-Agent Orchestration,2026-04-21,V,B,new,0,verification round,yes
+783,2604.20117,To Know is to Construct: Schema-Constrained Generation for Agent Memory,2026-04-22,M,B,new,1,rest,yes
+784,2604.21363,A Deployable Embodied Vision-Language Navigation System with Hierarchical Cognition and Context-Aware Exploration,2026-04-23,M,B,new,1,rest,
+785,2604.23069,ContextWeaver: Selective and Dependency-Structured Memory Construction for LLM Agents,2026-04-24,M,B,new,4,rest,
+786,2604.23626,GraphPlanner: Graph Memory-Augmented Agentic Routing for Multi-Agent LLMs,2026-04-26,M,B,new,11,rest,yes
+787,2604.26988,Robot Planning and Situation Handling with Active Perception,2026-04-28,P+M,B,new,3,rest,
+788,2604.27283,Learning When to Remember: Risk-Sensitive Contextual Bandits for Abstention-Aware Memory Retrieval in LLM-Based Coding Agents,2026-04-30,M,B,new,3,rest,
+789,2604.27643,HAVEN: Hybrid Automated Verification ENgine for UVM Testbench Synthesis with LLMs,2026-04-30,V,B,new,1,verification round,yes
+790,2605.00528,SAGA: Workflow-Atomic Scheduling for AI Agent Inference on GPU Clusters,2026-05-01,M,B,new,9,rest,
+791,2605.00702,Learning How and What to Memorize: Cognition-Inspired Two-Stage Optimization for Evolving Memory,2026-05-01,M,B,new,2,rest,yes
+792,2605.01386,MemORAI: Memory Organization and Retrieval via Adaptive Graph Intelligence for LLM Conversational Agents,2026-05-02,M,B,new,10,rest,
+793,2605.01423,HepScript: A Dual-Use DSL for Human-AI Collaborative Data Analysis Workflows in High-Energy Physics,2026-05-02,V,B,new,3,verification round,yes
+794,2605.03804,ScrapMem: A Bio-inspired Framework for On-device Personalized Agent Memory via Optical Forgetting,2026-05-05,M,B,new,2,rest,
+795,2605.05248,Governed Metaprogramming for Intelligent Systems: Reclassifying Eval as a Governed Effect,2026-05-05,V,B,new,0,verification round,yes
+796,2605.05258,"PARNESS: A Paper Harness for End-to-End Automated Scientific Research with Dynamic Workflows, Full-Text Indexing, and Cross-Run Knowledge Accumulation",2026-05-06,V,B,new,3,verification round,yes
+797,2605.06365,From Agent Loops to Deterministic Graphs: Execution Lineage for Reproducible AI-Native Work,2026-05-07,M,B,new,3,rest,
+798,2605.06812,Towards Security-Auditable LLM Agents: A Unified Graph Representation,2026-05-07,M,B,new,5,rest,
+799,2605.06957,Learning and Reusing Policy Decompositions for Hierarchical Generalized Planning with LLM Agents,2026-05-07,P,B,new,1,rest,
+800,2605.07692,GASim: A Graph-Accelerated Hybrid Framework for Social Simulation,2026-05-08,M,B,new,2,rest,
+801,2605.08271,"Bridging Modalities, Spanning Time: Structured Memory for Ultra-Long Agentic Video Reasoning",2026-05-08,M,B,new,3,rest,
+802,2605.08330,Hierarchical Prompting with Dual LLM Modules for Robotic Task and Motion Planning,2026-05-08,P,B,new,0,rest,
+803,2605.08442,Injection-Execution Dissociation: A Mechanistic Evaluation of Persistent Memory Attacks and Defenses in Stateful LLM Agents,2026-05-08,M,B,new,3,rest,
+804,2605.16346,PropGuard: Safeguarding LLM-MAS via Propagation-Aware Exploration and Remediation,2026-05-08,M,B,new,3,rest,
+805,2605.09033,ShadowMerge: A Novel Poisoning Attack on Graph-Based Agent Memory via Relation-Channel Conflicts,2026-05-09,M,B,new,0,rest,
+806,2605.09278,EquiMem: Calibrating Shared Memory in Multi-Agent Debate via Game-Theoretic Equilibrium,2026-05-10,M,B,new,3,rest,
+807,2605.09387,NEXUS: Continual Learning of Symbolic Constraints for Safe and Robust Embodied Planning,2026-05-10,P+V,B,new,0,verification round,yes
+808,2605.09863,Nautilus Compass: Black-box Persona Drift Detection for Production LLM Agents,2026-05-11,M,B,new,1,rest,
+809,2605.09942,HAGE: Harnessing Agentic Memory via RL-Driven Weighted Graph Evolution,2026-05-11,M,B,new,5,rest,
+810,2605.10481,"Safe Multi-Agent Behavior Must Be Maintained, Not Merely Asserted: Constraint Drift in LLM-Based Multi-Agent Systems",2026-05-11,M,B,new,7,rest,
+811,2605.11671,Cochise: A Reference Harness for Autonomous Penetration Testing,2026-05-12,M,B,new,3,rest,
+812,2605.11738,OptArgus: A Multi-Agent System to Detect Hallucinations in LLM-based Optimization Modeling,2026-05-12,M,B,new,4,rest,
+813,2605.12039,SkillGraph: Skill-Augmented Reinforcement Learning for Agents via Evolving Skill Graphs,2026-05-12,M,B,new,14,rest,yes
+814,2605.12061,SAGE: A Self-Evolving Agentic Graph-Memory Engine for Structure-Aware Associative Memory,2026-05-12,M,B,new,2,rest,
+815,2605.12260,PRISM: Pareto-Efficient Retrieval over Intent-Aware Structured Memory for Long-Horizon Agents,2026-05-12,M,B,new,2,rest,
+816,2605.12978,Useful Memories Become Faulty When Continuously Updated by LLMs,2026-05-13,M,B,new,13,rest,
+817,2605.13167,GeoBuildBench: A Benchmark for Interactive and Executable Geometry Construction from Natural Language,2026-05-13,V,B,new,1,verification round,yes
+818,2605.14175,Grounded Continuation: A Linear-Time Runtime Verifier for LLM Conversations,2026-05-13,M,B,new,2,rest,
+819,2607.19351,OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks,2026-05-13,M,B,new,0,rest,
+820,2605.14498,GroupMemBench: Benchmarking LLM Agent Memory in Multi-Party Conversations,2026-05-14,M,B,new,13,rest,
+821,2605.15611,TopoEvo: A Topology-Aware Self-Evolving Multi-Agent Framework for Root Cause Analysis in Microservices,2026-05-15,M,B,new,1,rest,yes
+822,2605.15654,PCASim: Promptable Closed-loop Adversarial Simulation for Urban Traffic Environment,2026-05-15,V,B,new,0,verification round,yes
+823,2605.15759,DimMem: Dimensional Structuring for Efficient Long-Term Agent Memory,2026-05-15,M,B,new,2,rest,
+824,2607.16211,Accurate and Efficient Long-Term Memory for LLM Agents,2026-05-15,M,B,new,0,rest,
+825,2607.20458,CAMeR: Keyword-Gated Hybrid Activation for Adaptive Memory Retention in LLM Agents,2026-05-15,M,B,new,0,rest,yes
+826,2605.16821,"Multi-Paradigm Agent Interaction in Practice:A Systematic Analysis of Generator-Evaluator, ReAct Loop,and Adversarial Evaluation in the buddyMe Framework",2026-05-16,M,B,new,0,rest,
+827,2605.17348,"Taming ""Zombie'' Agents: A Markov State-Aware Framework for Resilient Multi-Agent Evolution",2026-05-17,M,B,new,1,rest,
+828,2605.17641,Causal Intervention-Based Memory Selection for Long-Horizon LLM Agents,2026-05-17,M,B,new,6,rest,
+829,2605.17721,EXG: Self-Evolving Agents with Experience Graphs,2026-05-18,M,B,new,1,rest,yes
+830,2605.17774,Internalizing Tool Knowledge in Small Language Models via QLoRA Fine-Tuning,2026-05-18,M,B,new,0,rest,yes
+831,2605.17790,STRIDE: A Self-Reflective Agent Framework for Reliable Automatic Equation Discovery,2026-05-18,M,B,new,4,rest,
+832,2605.21240,APEX: Autonomous Policy Exploration for Self-Evolving LLM Agents,2026-05-20,M,B,new,1,rest,
+833,2605.21312,Frontier: Towards Comprehensive and Accurate LLM Inference Simulation,2026-05-20,M,B,new,4,rest,
+834,2605.21902,Planning in the LLM Era: Building for Reliability and Efficiency,2026-05-21,P,B,new,1,rest,
+835,2605.21997,"The Log is the Agent: Event-Sourced Reactive Graphs for Auditable, Forkable Agentic Systems",2026-05-21,M,B,new,3,rest,
+836,2605.22140,Psy-Chronicle:A Structured Pipeline for Synthesizing Long-Horizon Campus Psychological Counseling Dialogues,2026-05-21,M,B,new,0,rest,
+837,2605.23723,MemAudit: Post-hoc Auditing of Poisoned Agent Memory via Causal Attribution and Structural Anomaly Detection,2026-05-22,M,B,new,8,rest,
+838,2606.07552,Symbolic Reasoning Frameworks Trigger Memory-Mediated Ecosystem Dynamics in Multi-Agent LLM Systems,2026-05-22,M,B,new,0,rest,
+839,2605.26017,Trustworthy Software Project Generation : a Case Study with an Interactive Theorem Prover,2026-05-25,V,B,new,1,verification round,yes
+840,2605.27703,Hierarchical Prompt-Domain Control and Learning for Resource-Constrained Agentic Language Models,2026-05-26,M,B,new,1,rest,
+841,2606.20625,AlphaMemo: Structured Search-Process Memory for Self-Evolving Alpha Mining Agents,2026-05-26,M,B,new,4,rest,
+842,2605.27864,FundaPod: A Multi-Persona Agent Pod Architecture with Knowledge Graph Memory for AI-Assisted Fundamental Investment Research,2026-05-27,M,B,new,1,rest,
+843,2605.28097,ICAN-Deploy: Identity-Stable Canary Deployment for Safety-Critical Embodied Agents,2026-05-27,V,B,new,1,verification round,yes
+844,2605.28224,When Does Memory Help Multi-Trajectory Inference for Tool-Use LLM Agents?,2026-05-27,M,B,new,1,rest,yes
+845,2605.28773,Rethinking Memory as Continuously Evolving Connectivity,2026-05-27,M,B,new,1,rest,yes
+846,2608.05170,DREAM: LLM-based Dynamic Role-playing via Event-Aware Memory Graph,2026-05-27,M,B,new,1,rest,yes
+847,2605.29262,Harmonizing Real-Time Constraints and Long-Horizon Reasoning: An Asynchronous Agentic Framework for Dynamic Scheduling,2026-05-28,V,B,new,0,verification round,yes
+848,2605.30571,Memory-Bound but Not Bandwidth-Limited: The Physical AI Inference Gap in Batch-1 LLM Decode,2026-05-28,M,B,new,4,rest,yes
+849,2605.30604,An Organization-Scoped LLM Agent Runtime Architecture for Regulated Cybersecurity Operations,2026-05-28,M,B,new,0,rest,yes
+850,2605.30880,PatchWorld: Gradient-Free Optimization of Executable World Models for Agent Environments,2026-05-29,P+M,B,new,3,rest,
+851,2605.31468,AutoSci: A Memory-Centric Agentic System for the Full Scientific Research Lifecycle,2026-05-29,M,B,new,3,rest,
+852,2605.31558,"Positional versus Symbolic Attention Heads: Learning Dynamics, RoPE Geometry, and Length Generalization",2026-05-29,P,B,new,1,rest,
+853,2606.00576,Dynamic Resilient Spatio-Semantic Memory with Hybrid Localization for Mobile Manipulation,2026-05-30,M,B,new,0,rest,yes
+854,2606.00756,CoMIC: Collaborative Memory and Insights Circulation for Long-Horizon LLM Agents in Cloud-Edge Systems,2026-05-30,P+M,B,new,2,rest,
+855,2606.01565,Hierarchical Semantic-Augmented Navigation: Optimal Transport and Graph-Driven Reasoning for Vision-Language Navigation,2026-06-01,P+M,B,new,24,rest,
+856,2606.01886,Absorbing Complexity: An Interaction-Native Knowledge Harness for Financial LLM Agents,2026-06-01,M,B,new,0,rest,
+857,2606.02438,LLM-Evolved Pattern Generators for Optimal Classical Planning,2026-06-01,P,B,new,0,rest,yes
+858,2607.19359,Profile-Graph Memory for LLM Agents: Implicit Cross-Entity Traversal through Narrative Profiles,2026-06-01,M,B,new,1,rest,yes
+859,2606.03685,A Close Look At World Model Recovery In Supervised Fine-Tuned LLM Planners,2026-06-02,P,B,new,0,rest,
+860,2606.03755,LAP: An Agent-to-Instrument Protocol for Autonomous Science,2026-06-02,V,B,new,2,verification round,yes
+861,2606.20638,RIZZ: Routing Interactions to Near Zero-Interference Zones for Continual Adaptation of Black-Box Agents,2026-06-02,M,B,new,0,rest,yes
+862,2606.04360,Deliberate Evolution: Agentic Reasoning for Sample-Efficient Symbolic Regression with LLMs,2026-06-03,M,B,new,5,rest,
+863,2606.04555,Temporal Order Matters for Agentic Memory: Segment Trees for Long-Horizon Agents,2026-06-03,M,B,new,2,rest,
+864,2606.04628,RAMPART: Registry-based Agentic Memory with Priority-Aware Runtime Transformation,2026-06-03,M,B,new,0,rest,
+865,2606.04780,PersonaTree: Structured Lifecycle Memory for Person Understanding in LLM Agents,2026-06-03,M,B,new,2,rest,
+866,2606.04990,From Agent Traces to Trust: A Survey of Evidence Tracing and Execution Provenance in LLM Agents,2026-06-03,M,B,new,33,most cited,yes
+867,2606.05050,Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin,2026-06-03,M,B,new,2,rest,
+868,2606.05250,Towards Persistent Case-Based Memory for Autonomous Data Science: A CBR-Augmented R&D-Agent with a Locally Deployable Small Language Model,2026-06-03,M,B,new,0,rest,
+869,2606.05975,T-FunS3D: Task-Driven Hierarchical Open-Vocabulary 3D Functionality Segmentation,2026-06-04,M,B,new,2,rest,
+870,2606.06076,Learning Visual Spatial Planning from Symbolic State via Modality-Gap-Aware Self-Distillation,2026-06-04,P,B,new,0,rest,
+871,2606.06240,TOKI: A Bitemporal Operator Algebra for Contradiction Resolution in LLM-Agent Persistent Memory,2026-06-04,M,B,new,8,rest,yes
+872,2606.06473,MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery,2026-06-04,M,B,new,19,rest,
+873,2606.06923,Declarative Skills for AI Agents in Knowledge-Grounded Tool-Use Workflows,2026-06-05,V,B,new,3,verification round,yes
+874,2606.07512,MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism,2026-06-05,M,B,new,5,rest,
+875,2606.11245,Position: Hippocampal Explicit Memory Is the Cornerstone for AGI,2026-06-05,P,B,new,0,rest,
+876,2606.08151,Decision-Aware Memory Cards: Counterfactual-Inspired Context Selection and Compression for Tool-Using LLM Agents,2026-06-06,M,B,new,1,rest,
+877,2606.08702,ConMem: Structured Memory-Guided Adaptation in Training-Free Multi-Agent Systems,2026-06-07,M,B,new,1,rest,
+878,2606.09483,Memory Beyond Recall: A Dual-Process Cognitive Memory System for Self-Evolving LLM Agents,2026-06-08,M,B,new,1,rest,
+879,2606.10921,Trace Only What You Need: Structure-Aware On-Demand Hypergraph Memory for Long-Document Question Answering,2026-06-09,M,B,new,0,rest,
+880,2606.12191,"Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application",2026-06-10,M,B,new,3,rest,yes
+881,2606.12780,ProPlay: Procedural World Models for Self-Evolving LLM Agents,2026-06-11,M,B,new,1,rest,yes
+882,2606.12852,WISE: A Long-Horizon Agent in Minecraft with Why-Which Reasoning,2026-06-11,M,B,new,0,rest,
+883,2606.14470,"GitOfThoughts: Version-Controlled Reasoning and Agent Memory You Can Replay, Diff, and Merge",2026-06-12,M,B,new,1,rest,yes
+884,2606.14574,SIMMER: Benchmarking Latent Failures in LLM Executable Planning with a World Model,2026-06-12,P,B,new,0,rest,
+885,2606.15877,Free Energy Heuristics: Fast-And-Frugal Cognition as Active Inference Under Uncertain Precision,2026-06-14,P,B,new,0,rest,
+886,2606.16070,Mind-Studio: Executable World Models with Lookahead Evaluation for Partially Observable Games,2026-06-14,P,B,new,0,rest,yes
+887,2606.16569,PROSE: Training-Free Egocentric Scene Registration with Vision-Language Models,2026-06-15,M,B,new,1,rest,yes
+888,2606.17182,Verified Detection and Prevention of Concurrency Anomalies in Multi-Agent Large Language Model Systems,2026-06-15,V,B,new,4,verification round,yes
+889,2606.17536,OmniDrive: An LLM-Choreographed Multi-Agent World Model with Unified Latent Co-Compression for Multi-View Driving Video Generation,2026-06-16,P,B,new,2,rest,
+890,2606.19135,A Technical Taxonomy of LLM Agent Communication Protocols,2026-06-17,M,B,new,1,rest,
+891,2606.19847,AtomMem: Building Simple and Effective Memory System for LLM Agents via Atomic Facts,2026-06-18,M,B,new,2,rest,yes
+892,2606.20164,"MedRLM: Recursive Multimodal Health Intelligence for Long-Context Clinical Reasoning, Sensor-Guided Screening, Evidence-Grounded Decision Support, and Community-to-Tertiary Referral Optimization",2026-06-18,M,B,new,0,rest,
+893,2606.20243,Phoenix: Safe GitHub Issue Resolution via Multi-Agent LLMs,2026-06-18,V,B,new,1,verification round,yes
+894,2606.20758,"A Topology-Aware, Memory-Centric Architecture that Separates Root-Cause Derivation from Root-Cause Explanation",2026-06-18,M,B,new,0,rest,yes
+895,2606.21445,AutoRAS: Learning Robust Agentic Systems with Primitive Representations,2026-06-19,V,B,new,2,verification round,yes
+896,2606.22488,SCOPE: Evolving Symbolic World for Planning in Open-Ended Environments,2026-06-21,P+M,B,new,0,rest,
+897,2606.23312,From Pixels to Concepts: Growing Rich 3D Semantic Scene Graph Forests utilizing Foundation Models,2026-06-22,P,B,new,0,rest,
+898,2606.23565,HoloAgent-0: A Unified Embodied Agent Framework with 3D Spatial Memory,2026-06-22,M,B,new,4,rest,
+899,2606.24937,The Hitchhiker's Guide to Agentic AI: From Foundations to Systems,2026-06-22,M,B,new,0,rest,yes
+900,2606.25497,SAGE-Nav: Leveraging LLM Planning and Alignment Fusion for Hierarchical Scene Graph-Guided Navigation,2026-06-24,P,B,new,2,rest,
+901,2606.27397,"SidConArena: An Environment Evaluating Agents in Open-Ended,Positive-Sum Bargaining Game",2026-06-24,P+M,B,new,0,rest,
+902,2607.09713,Closed-Loop Control with Rule-Aligned Small Language Models and Multi-Agent Self-Correction,2026-06-24,V,B,new,0,verification round,yes
+903,2606.26649,Autoformalization of Agent Instructions into Policy-as-Code,2026-06-25,V,B,new,0,verification round,yes
+904,2606.29778,Mandol: An Agglomerative Agent Memory System for Long-Term Conversations,2026-06-29,M,B,new,1,rest,yes
+905,2606.29824,Neural Procedural Memory: Empowering LLM Agents with Implicit Activation Steering,2026-06-29,M,B,new,3,rest,
+906,2606.29932,"SAGA: Scene-Aware, Goal-Evolving Agents for Long-Horizon Strategy Game Planning",2026-06-29,P+M,B,new,0,rest,yes
+907,2606.30986,The Organizational Behavior of Agentic AI: Collective Intelligence in Human-Agent Workflows,2026-06-29,M,B,new,0,rest,yes
+908,2606.31071,Hierarchical 3D Scene Graph Construction and Belief-based Planning for Semantic Navigation,2026-06-30,P+M,B,new,0,rest,yes
+909,2606.31200,Agentic RAG-VLM: Affordance-Aware Retrieval-Augmented Generation with Self-Reflective Planning for Robotic Grasping,2026-06-30,P,B,new,0,rest,
+910,2606.31635,A Tutorial on Autonomous Fault-Tolerant Control Using Knowledge-Grounded LLM Agents,2026-06-30,V,B,new,0,verification round,yes
+911,2607.01061,"Agentic generation of verifiable rules for deterministic, self-expanding reaction classification",2026-07-01,P,B,new,2,rest,yes
+912,2607.01224,AutoMem: Automated Learning of Memory as a Cognitive Skill,2026-07-01,M,B,new,2,rest,
+913,2608.20397,Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory,2026-07-01,M,B,new,0,rest,
+914,2607.01640,AgentFlow: Building Agent Dependency Graphs for Static Analysis of Agent Programs,2026-07-02,M,B,new,0,rest,
+915,2607.01709,COMFYCLAW: Self-Evolving Skill Harnesses for Image Generation Workflows,2026-07-02,M,B,new,7,rest,yes
+916,2607.01767,"Repair the Amplifier, Not the Symptom: Stable World-Model Correction for Agent Rollouts",2026-07-02,M,B,new,0,rest,yes
+917,2607.02846,Object-Centric Environment Modeling for Agentic Tasks,2026-07-03,P,B,new,0,rest,
+918,2607.02882,Diagnosis-Driven Automatic Repair for Agentic Workflow via Symbolic Inference,2026-07-03,V,B,new,0,verification round,yes
+919,2607.04426,ACE-Brain-0.5: A Unified Embodied Foundational Model for Physical Agentic AI,2026-07-05,M,B,new,6,rest,
+920,2607.05202,EvoAgentBench: Benchmarking Agent Self-Evolution via Ability Transfer,2026-07-06,M,B,new,7,rest,
+921,2607.06195,LogicHunter: Testing LLM Agent Frameworks with an Agentic Oracle,2026-07-07,M,B,new,1,rest,
+922,2607.06273,AgentTether: Graph-Guided Diagnosis and Runtime Intervention for Reliable LLM Agent Operation,2026-07-07,M,B,new,4,rest,
+923,2607.06447,Danus: Orchestrating Mathematical Reasoning Agents with Fact-Graph Memory,2026-07-07,M,B,new,20,rest,yes
+924,2607.08894,GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning,2026-07-09,P,B,new,0,rest,yes
+925,2607.08960,Eluna: An Agentic LLM System for Automating Warehouse Operations with Reasoning and Task Execution,2026-07-09,M,B,new,1,rest,
+926,2610.00010,Heavy-Tailed Memory Traces in Long-Horizon Language Agents,2026-07-09,M,B,new,0,rest,
+927,2607.09072,Agentic Proof and Property-Based Testing via Property-Templates in Data-Intensive Computing,2026-07-10,V,B,new,0,verification round,yes
+928,2607.09175,Scoped Verification for Reliable Long-Horizon Agentic Context Evolution under Distribution Shift,2026-07-10,M,B,new,1,rest,
+929,2607.09493,Shared Selective Persistent Memory for Agentic LLM Systems,2026-07-10,M,B,new,0,rest,yes
+930,2607.11138,A Formal Hierarchical Architecture for Agentic Orchestration with Stack-Based Execution and Lazy Discovery,2026-07-13,M,B,new,0,rest,
+931,2607.11338,AutoVSR: Automatic Visual-to-Symbolic Reasoning for Symbolic Expression Generation from Circuit Schematic,2026-07-13,P,B,new,0,rest,
+932,2607.26072,IFCMemoryBench: Evaluating Long-Term Memory of LLM-Based Agents in BIM Information Retrieval,2026-07-13,M,B,new,0,rest,yes
+933,2607.13245,Just-In-Time Scene Graph Growth: Combating Perceptual Saturation in Long-Horizon Robotics,2026-07-14,M,B,new,1,rest,
+934,2607.13591,Memory as a Controlled Process: Learned Adaptive Memory Management for LLM Agents,2026-07-15,M,B,new,4,rest,yes
+935,2607.13884,Experience Memory Graph: One-Shot Error Correction for Agents,2026-07-15,M,B,new,0,rest,
+936,2607.13978,Music-to-Dance Generation via Atomic Movements,2026-07-15,P,B,new,1,rest,
+937,2607.14169,When a Verified World Model Still Loses: Play-Adequacy vs Prediction-Accuracy in LLM-Synthesized Code World Models,2026-07-15,P,B,new,2,rest,yes
+938,2607.14275,AI Agents Do Not Fail Alone:The Context Fails First,2026-07-15,M,B,new,1,rest,
+939,2607.14512,RetroAgent: Harnessing LLMs to Search Over Structured Memory for Agentic Retrosynthesis Planning,2026-07-16,P+M,B,new,2,rest,yes
+940,2607.15257,SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration,2026-07-16,M,B,new,1,rest,
+941,2607.16465,Berkeley and Heiserman as an Unexhausted Architecture for Embodied Machine Intelligence,2026-07-17,M,B,new,0,rest,yes
+942,2607.17038,Reward-Driven LLM Agent Workflows: Synthesizing POMDP Routing and Self-Correction for Autonomous Decision-Making,2026-07-19,M,B,new,0,rest,
+943,2607.18886,TraceDev: A Traceability-Driven Multi-agent Framework for Requirement-to-Code Development,2026-07-21,M,B,new,0,rest,
+944,2607.19633,LENS: LLM-guided Environment Simplification for Planning and Control in Clutter,2026-07-22,P,B,new,0,rest,yes
+945,2607.20709,NVIDIA-labs OO Agents: Native Python Object-Oriented Agents,2026-07-22,M,B,new,2,rest,
+946,2607.21962,"Ground Truth First: A Longitudinal Evaluation Instrument for Agent Memory, and the Tenure Crossover in Memory-Architecture Rankings",2026-07-24,M,B,new,0,rest,
+947,2607.23933,SpecBox: Speculative Sandbox Scheduling for Efficient LLM Agent Serving,2026-07-27,M,B,new,1,rest,
+948,2607.26212,"Multi-Agent Debate Strategies: Survey, Taxonomy, and Challenges",2026-07-28,M,B,new,3,rest,yes
+949,2607.26598,Living-Harness Is an Interactive-Agent Evolver,2026-07-29,M,B,new,2,rest,yes
+950,2607.26724,UrbanDS: A Graph-Guided LLM Multi-Agent System for Data-Intensive Urban Tasks,2026-07-29,M,B,new,0,rest,
+951,2607.27415,Bridging Inference-Time Scaling and Episodic Memory with Action-Centric Graphs,2026-07-29,M,B,new,0,rest,yes
+952,2607.29167,Memory Provenance Laundering in LLM Agents: A Non-Amplification Firewall for Persistent Memory,2026-07-31,M,B,new,3,rest,
+953,2607.29377,Zero-Mem: Zero-Token Memory Operations for LLM Agents,2026-07-31,M,B,new,2,rest,yes
+954,2607.29600,HAM-VLN: Harnessing Hierarchical Agentic Memory for Zero-Shot Vision-and-Language Navigation,2026-07-31,M,B,new,1,rest,
+955,2608.06397,Agentic Planning for Symbolic Execution,2026-07-31,P,B,new,0,rest,
+956,2608.00558,AiFlow: Token-Native Reactive Orchestration with Bounded Backpressure for Streaming LLM Applications,2026-08-01,M,B,new,0,rest,
+957,2608.01708,PGMem: Tightly Coupled Persona-Memory Graph for Lifelong Personalized Agents,2026-08-03,M,B,new,1,rest,
+958,2608.01739,CoEvo-Mem: Co-Evolving Retrieval Policy and Memory Bank for LLM Agents,2026-08-03,M,B,new,3,rest,
+959,2608.01742,MemSIF: From Structured Interactions to Dual-Track Fact Memory for LLM Agents,2026-08-03,M,B,new,1,rest,
+960,2608.02358,ScrambleToolBench: Agents Search Exhaustively Even When Their Own Map Points to the Next Step,2026-08-03,M,B,new,1,rest,
+961,2608.02582,ACEM: A Cost Estimation Model for Agentic Software Engineering,2026-08-03,P+V,B,new,0,verification round,yes
+962,2608.04872,A-SR: Self-Evolving Agentic LLMs for Symbolic Regression via Hierarchical Coordination,2026-08-05,M,B,new,4,rest,
+963,2608.05784,Activity Frames: Deterministic Screen-Activity Compilation for Agent Memory and Replay,2026-08-06,M,B,new,0,rest,
+964,2608.05906,Causal Episodic Memory for Feedback-Driven Agent Repair,2026-08-06,M,B,new,0,rest,
+965,2608.06153,Learning Globally Reusable Skills for Coding Agents,2026-08-06,M,B,new,3,rest,
+966,2608.06651,CyberLLM: A Multi-Agent LLM Framework for Autonomous Detection and Guarded Response in Automotive Cybersecurity,2026-08-06,M,B,new,0,rest,
+967,2608.06909,Long-Horizon Agent Trajectory Attribution: A Unified Benchmark and Fine-Grained Annotation Framework,2026-08-07,M,B,new,4,rest,
+968,2608.08055,SodaMem: Evidence-Grounded Temporal Graph Memory for LLM Agents,2026-08-08,M,B,new,1,rest,
+969,2608.08131,Compositional Threat Analysis of Latent Compromise in LLM Agent Systems: The Order 66 Scenario,2026-08-08,M,B,new,0,rest,yes
+970,2608.08236,LatticeMind: A Conflict-Aware Memory Primitive for Multi-Agent Systems,2026-08-08,P+M,B,new,0,rest,
+971,2608.08264,OBLIVION: Workflow-Level Operational Skill Unlearning for Deployed Agents,2026-08-08,M,B,new,0,rest,
+972,2608.08443,Private Etymology: Designing Relational Reuse of Shared Symbols in Long-Term Human-AI Interaction,2026-08-09,M,B,new,2,rest,yes
+973,2608.09253,SkillSentry: Reliable Skill Execution for LLM Agents via Runtime Assurance,2026-08-10,V,B,new,1,verification round,yes
+974,2608.09696,Model Discovery Agent: LLM-assisted Bayesian experiment design for data-efficient discovery of mechanistic world models,2026-08-10,P,B,new,5,rest,
+975,2608.10494,GeoForge: Non-Parametric Self-Evolving Agents for Earth-Observation Reasoning,2026-08-11,M,B,new,0,rest,yes
+976,2608.10502,From Faulty Memories to Corrected Actions: Dependency-Guided Rollback Repair for Memory-Augmented Agents,2026-08-11,M,B,new,5,rest,
+977,2608.12123,Ready Cohorts: Bounding GPU Opportunity and Avoiding Host Round Trips in LLM-Agent Control,2026-08-12,M,B,new,0,rest,
+978,2608.13334,RippleMem: From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory,2026-08-13,M,B,new,2,rest,
+979,2608.14452,SheetCompass: Hierarchical Relation Graphs for Agentic Spreadsheet Reasoning,2026-08-14,M,B,new,0,rest,
+980,2608.14956,LLM-based Framework for Generating and Verifying Parallel DEVS Statecharts,2026-08-15,V,B,new,0,verification round,yes
+981,2608.15127,From LLM Inference to Agentic Workloads: Characterization and Implications for Serving Systems,2026-08-15,M,B,new,10,rest,yes
+982,2608.17911,CABLE: Extending the Reach of Memory Retrieval via Complementary Antecedent-Based Linking and Expansion,2026-08-18,M,B,new,1,rest,
+983,2608.17956,An Omitted Mode Is a Rare Rule: The Sampling-Verification Danger Law in Continuous Code World Models,2026-08-18,P,B,new,1,rest,
+984,2608.18704,MemFuse: Multi-Source Memory Fusion from Fragmented Observations,2026-08-19,M,B,new,0,rest,
+985,2608.19662,ReCache: Efficient KV Cache Reuse and Compression for Tool-Augmented LLM Agents,2026-08-20,M,B,new,3,rest,
+986,2608.20084,Evidence-Gated Task and Motion Planning with Vision-Language Models,2026-08-20,P,B,new,0,rest,
+987,2608.22310,HERO: Human-profile Enhanced Retrieval Optimization Framework for Long-term Agent Memory,2026-08-23,M,B,new,0,rest,yes
+988,2608.22896,SuperMap: A Spatio-Temporal SLAM System for Visual-Language Navigation,2026-08-24,M,B,new,4,rest,
+989,2608.23104,Molecular LLM Agents: From Architectural Design to Scientific Autonomy,2026-08-24,P,B,new,0,rest,
+990,2608.23670,Automata from Agent Traces: Failure and Next-Step Prediction,2026-08-24,V,B,new,1,verification round,yes
+991,2608.24048,"Don't Just Listen, Try Planning: Graph-based Retrieval-Generation Agent for Long-form Audio Meeting Understanding",2026-08-25,M,B,new,0,rest,yes
+992,2608.25500,CaSKG: Counterfactual-Causal Skill Graphs for Scalable Agent Skill Retrieval,2026-08-26,M,B,new,3,rest,
+993,2608.25570,Beyond Scaling: Self-Evolving LLM Agents for Hardware Kernel Optimization via an Experience-Driven Workflow and Experience Graph Memory,2026-08-26,M,B,new,0,rest,
+994,2608.25577,PolyMemDB: A Polyglot Database System for AI Memory Management,2026-08-26,M,B,new,0,rest,
+995,2608.25641,Leveraging Inter-object Affordances for Efficient Planning in Contact-rich Tasks,2026-08-26,P,B,new,0,rest,
+996,2608.26983,GraphMemix: Query-Aware Evidence Forests for Long-Term Multimodal Agent Memory,2026-08-27,M,B,new,1,rest,
+997,2608.27797,CEDAR: Automata as Verifiable Interfaces for Language-Guided Embodied Action,2026-08-28,V,B,new,0,verification round,yes
+998,2608.28075,Plan Along the Way: Event-Triggered Foundation-Model Planning for TAMP Execution in Partially Observable Manipulation,2026-08-28,P,B,new,1,rest,
+999,2608.29078,DREAM: Deployment-Time Demonstration Generation via Real-to-Sim for Scalable Policy Adaptation,2026-08-29,P,B,new,1,rest,
+1000,2608.29310,Super Library Agent: Joint Generation and Maintenance of Multiple Applications Beyond the Single Codebase,2026-08-29,M,B,new,0,rest,
+1001,2609.00434,"SAGE: State-Grounded, Abstention-Aware Evaluation of Task-Oriented Dialogue Agents",2026-08-31,V,B,new,0,verification round,yes
+1002,2609.01272,Making Prospective Memory SLM-Shaped: Typed Intention Stores for Small-Model Agents,2026-09-01,M,B,new,1,rest,
+1003,2609.02322,What Is Worth Representing? Representational Empowerment for Continual Model Construction,2026-09-02,P,B,new,0,rest,yes
+1004,2609.02402,A Physics-Consistent Benchmark for Contact-Rich Human-Robot Interaction in Assistive Care,2026-09-02,V,B,new,0,verification round,yes
+1005,2609.04875,Forgetting Without Restarting: Execution-State Unlearning for Stateful LLM Agents,2026-09-04,M,B,new,1,rest,
+1006,2609.05911,"Structurally Close, Temporally Distant: Measuring Security Exposure in Long-Horizon LLM Agents",2026-09-05,M,B,new,0,rest,
+1007,2609.06366,AutoKD: Autonomous Knowledge Discovery,2026-09-06,M,B,new,0,rest,yes
+1008,2609.07344,Staying on the Attack Path: Structured State for Long-Horizon Automated Penetration Testing,2026-09-07,M,B,new,0,rest,
+1009,2609.25054,MoM: Memory of Memory,2026-09-07,M,B,new,0,rest,
+1010,2609.08444,Safe Task Planning with Long-Term Graph Memory for Embodied Agents,2026-09-08,M,B,new,0,rest,yes
+1011,2609.08602,CLAMP: Constrained Decoding for Vision-Language Embodied Planning,2026-09-08,P+V,B,new,1,verification round,yes
+1012,2609.08673,BIDETA: Brain-Inspired Data-Efficient Tactile Adaptation for Unseen Sensors,2026-09-08,M,B,new,0,rest,yes
+1013,2609.09565,Multi-Agent Agentic Graph Learning via Structural Signatures,2026-09-09,M,B,new,1,rest,yes
+1014,2609.10871,A2ABreak: Systematic Security Analysis of the A2A Protocol,2026-09-09,V,B,new,1,verification round,yes
+1015,2609.12316,DATAFARM: Distribution-Aligned Task and Motion Planning for Fine-Tuning Vision-Language-Action Models,2026-09-11,P,B,new,1,rest,
+1016,2609.12354,CueMem: Cue-Guided Context Reconstruction for Long-Term Conversational Memory,2026-09-11,M,B,new,0,rest,yes
+1017,2609.16053,Retrieval-Driven Memory Reconsolidation for Long-Term LLM Agents,2026-09-13,M,B,new,2,rest,
+1018,2609.15195,HarnessVLN: Unifying Training-Free Embodied Navigation through an Agent Harness,2026-09-14,M,B,new,4,rest,
+1019,2609.16884,Bridging Learned Visual Perception and Symbolic Belief-Space Planning,2026-09-15,P,B,new,0,rest,
+1020,2609.17771,HINT-Plan: Human Intention-Aware Robot Task Planning in Context-Rich Environments using Vision Language Models,2026-09-15,P,B,new,0,rest,
+1021,2609.18182,WFM: Wiki Foundation Model for Complex Agentic Reasoning,2026-09-16,M,B,new,0,rest,
+1022,2609.18283,Where Should Agents Live? Energy-Memory Characterization of Agentic AI for the Edge-Cloud Continuum,2026-09-16,M,B,new,0,rest,
+1023,2609.19413,From Rollout to Reset: A Graph-Based Harness for Autonomous Long-Horizon Manipulation Evaluation,2026-09-16,P,B,new,0,rest,
+1024,2609.20396,Imagine-TAMP: Imagination-Guided Task and Motion Planning in Partial Observability,2026-09-17,P,B,new,0,rest,
+1025,2609.21940,AutoViewMem: Self-Configuring Orthogonal Views for Conversational Long-Term Memory,2026-09-18,M,B,new,0,rest,yes
+1026,2609.23113,"Search, Ground, Plan: Functional Sufficiency for Task and Motion Planning under Incomplete Scene Knowledge",2026-09-19,P,B,new,0,rest,
+1027,2609.23790,Total Cost of Agency: Exact Attribution of Memory Injection Cost in Multi-Agent LLM Workflows,2026-09-20,M,B,new,0,rest,
+1028,2609.23986,Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents,2026-09-21,M,B,new,9,rest,yes
+1029,2609.26360,Hierarchical Floorplan-Guided Vision-Language Exploration for Embodied Question Answering,2026-09-22,P,B,new,0,rest,
+1030,2609.28314,TANDEM: Task and Motion Planning with As-Needed Demonstrations for Efficient Vision-Language-Action Model Fine-tuning,2026-09-23,P,B,new,0,rest,
+1031,2609.30233,Coding Agents for Generalized Task and Motion Planning Problems,2026-09-24,P,B,new,1,rest,
+1032,2609.31939,BioDyad: Synchronize Biomedical Discovery and Machine Learning Engineering,2026-09-25,M,B,new,0,rest,
+1033,2609.31963,Symbolic Guidance for LLM Agents in Distributed Multiagent Coordination,2026-09-25,V,B,new,1,verification round,yes
+1034,2609.32049,EngramRAG: Dynamic Usage-Weighted Topology and Synaptic Consolidation for Multi-Hop Agentic Memory,2026-09-25,M,B,new,0,rest,
+1035,2609.32401,"Shared Worlds, Private Minds: Structured Memory for Long-Form Writing as World Creation",2026-09-26,M,B,new,0,rest,yes
+1036,2609.32584,EMIR$^2$: Evolution-Aware Memory with Intent-Guided Multi-Round Retrieval,2026-09-26,M,B,new,0,rest,
+1037,2609.32746,Self-Evolving Multi-Agent Symbolic Discovery for Financial Fundamental Analysis,2026-09-26,M,B,new,0,rest,

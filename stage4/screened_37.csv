@@ -1,0 +1,38 @@
+name,title,year_first_public
+SayPlan,SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning,2023
+Text2Motion,Text2Motion: From Natural Language Instructions to Feasible Plans,2023
+Plan-on-Graph (PoG),Plan-on-Graph: Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs,2024
+ISR-LLM,ISR-LLM: Iterative Self-Refined Large Language Model for Long-Horizon Sequential Task Planning,2023
+SayNav,SayNav: Grounding Large Language Models for Dynamic Planning to Navigation in New Environments,2023
+UniGoal,UniGoal: Towards Universal Zero-shot Goal-oriented Navigation,2025
+KG-RAG,KG-RAG: Bridging the Gap Between Knowledge and Creativity,2024
+COWP,Integrating Action Knowledge and LLMs for Task Planning and Situation Handling in Open Worlds,2023
+DoraemonGPT,DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models (Exemplified as A Video Agent),2024
+CoPAL,CoPAL: Corrective Planning of Robot Actions with Large Language Models,2023
+Parse-and-Solve,"Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks",2022
+DRIFT,DRIFT: Dynamic Rule-Based Defense with Injection Isolation for Securing LLM Agents,2025
+RoboGuard,Safety Guardrails for LLM-Enabled Robots,2025
+ViLaIn,Vision-Language Interpreter for Robot Task Planning,2023
+InterPreT,InterPreT: Interactive Predicate Learning from Language Feedback for Generalizable Task Planning,2024
+DovSG,Dynamic Open-Vocabulary 3D Scene Graphs for Long-term Language-Guided Mobile Manipulation,2024
+DELTA,DELTA: Decomposed Efficient Long-Term Robot Task Planning using Large Language Models,2024
+VisualPredicator,VisualPredicator: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning,2024
+Collaborative Memory,Collaborative Memory: Multi-User Memory Sharing in LLM Agents with Dynamic Access Control,2025
+LLM-guided optimal scene graph planning,Optimal Scene Graph Planning with Large Language Model Guidance,2023
+GraphEQA,GraphEQA: Using 3D Semantic Scene Graphs for Real-time Embodied Question Answering,2024
+KARMA,KARMA: Augmenting Embodied AI Agents with Long-and-short Term Memory Systems,2024
+AutoGPT+P,AutoGPT+P: Affordance-based Task Planning with Large Language Models,2024
+OSG Navigator,Open Scene Graphs for Open-World Object-Goal Navigation,2025
+Hindsight (TEMPR/CARA),"Hindsight is 20/20: Building Agent Memory that Retains, Recalls, and Reflects",2025
+BLADE,Learning Compositional Behaviors from Demonstration and Language,2025
+NL2Plan,NL2Plan: Robust LLM-Driven Planning from Minimal Text Descriptions,2024
+EmbodiedRAG,EmbodiedRAG: Dynamic 3D Scene Graph Retrieval for Efficient and Scalable Robot Task Planning,2024
+TTG,To the Globe (TTG): Towards Language-Driven Guaranteed Travel Planning,2024
+TPVQA,Grounding Classical Task Planners via Vision-Language Models,2023
+Planning in the Dark,Planning in the Dark: LLM-Symbolic Planning Pipeline without Experts,2024
+EffiQA,EffiQA: Efficient Question-Answering with Strategic Multi-Model Collaboration on Knowledge Graphs,2024
+Code World Models (CWM),Code World Models for General Game Playing,2025
+AEG (LLM-enhanced scene graph),LLM-enhanced Scene Graph Learning for Household Rearrangement,2024
+VeriSafe Agent,VeriSafe Agent: Safeguarding Mobile GUI Agent via Logic-based Action Verification,2025
+LASP,Language-Augmented Symbolic Planner for Open-World Task Planning,2024
+Consistent PDDL generation,Generating consistent PDDL domains with Large Language Models,2024

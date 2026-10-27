@@ -1,0 +1,1047 @@
+arxiv_id,title,published
+2201.05247,Multi-agent Motion Planning from Signal Temporal Logic Specifications,2022-01-13
+2201.10983,Online POI Recommendation: Learning Dynamic Geo-Human Interactions in Streams,2022-01-19
+2201.09616,Reasoning about Human-Friendly Strategies in Repeated Keyword Auctions,2022-01-24
+2201.09702,Correlated Equilibria and Fairness in Concurrent Stochastic Games,2022-01-24
+2201.12126,Leveraging class abstraction for commonsense reinforcement learning via residual policy gradient methods,2022-01-28
+2202.02404,Model-Free Reinforcement Learning for Symbolic Automata-encoded Objectives,2022-02-04
+2202.04611,Task Modifiers for HTN Planning and Acting,2022-02-09
+2202.09344,Towards the Combination of Model Checking and Runtime Verification on Multi-Agent Systems,2022-02-18
+2202.10381,Rule Mining over Knowledge Graphs via Reinforcement Learning,2022-02-21
+2203.04172,Distributed Control using Reinforcement Learning with Temporal-Logic-Based Reward Shaping,2022-03-08
+2204.03196,A Framework for Following Temporal Logic Instructions with Unknown Causal Dependencies,2022-04-07
+2204.10669,Risk Awareness in HTN Planning,2022-04-22
+2204.12036,Adaptive Pseudo-Siamese Policy Network for Temporal Knowledge Prediction,2022-04-26
+2205.12532,Skill Machines: Temporal Logic Skill Composition in Reinforcement Learning,2022-05-25
+2205.12787,Impartial Games: A Challenge for Reinforcement Learning,2022-05-25
+2206.00595,Logic-Based Ethical Planning,2022-06-01
+2206.01833,Leveraging Heterogeneous Capabilities in Multi-Agent Systems for Environmental Conflict Resolution,2022-06-03
+2206.10310,Modeling Big Data-based Systems through Ontological Trading,2022-06-06
+2206.09864,Towards Using Promises for Multi-Agent Cooperation in Goal Reasoning,2022-06-20
+2207.02637,On the Complexity of Rational Verification,2022-07-06
+2208.02685,Proceedings 38th International Conference on Logic Programming,2022-08-04
+2208.03091,On Model Reconciliation: How to Reconcile When Robot Does not Know Human's Model?,2022-08-05
+2208.05273,Integrating Formal Verification and Simulation-based Assertion Checking in a Corroborative V&V Process,2022-08-10
+2208.06393,Autonomous Intelligent Software Development,2022-08-12
+2208.07756,Time Minimization and Online Synchronization for Multi-agent Systems under Collaborative Temporal Tasks,2022-08-16
+2208.13266,JARVIS: A Neuro-Symbolic Commonsense Reasoning Framework for Conversational Embodied Agents,2022-08-28
+2209.05698,KSG: Knowledge and Skill Graph,2022-09-13
+2209.13737,Follow The Rules: Online Signal Temporal Logic Tree Search for Guided Imitation Learning in Stochastic Domains,2022-09-27
+2209.14036,Towards a Digital Highway Code using Formal Modelling and Verification of Timed Automata,2022-09-28
+2210.01162,Learning Minimally-Violating Continuous Control for Infeasible Linear Temporal Logic Specifications,2022-10-03
+2210.02377,Goal Recognition as a Deep Learning Task: the GRNet Approach,2022-10-05
+2210.05556,ViLPAct: A Benchmark for Compositional Generalization on Multimodal Human Activities,2022-10-11
+2210.08384,"Revisiting the Roles of ""Text"" in Text Games",2022-10-15
+2210.12485,DANLI: Deliberative Agent for Following Natural Language Instructions,2022-10-22
+2210.17330,Flexible categorization for auditing using formal concept analysis and Dempster-Shafer theory,2022-10-31
+2210.17366,Guided Conditional Diffusion for Controllable Traffic Simulation,2022-10-31
+2211.04591,Learning to Follow Instructions in Text-Based Games,2022-11-08
+2211.06141,Symbolic Verification and Strategy Synthesis for Turn-based Stochastic Games,2022-11-11
+2211.12164,OLGA : An Ontology and LSTM-based approach for generating Arithmetic Word Problems (AWPs) of transfer type,2022-11-22
+2211.15566,Neuro-Symbolic Spatio-Temporal Reasoning,2022-11-28
+2212.01022,STL-Based Synthesis of Feedback Controllers Using Reinforcement Learning,2022-12-02
+2212.01861,Online Shielding for Reinforcement Learning,2022-12-04
+2212.01739,KPT: Keyword-guided Pre-training for Grounded Dialog Generation,2022-12-04
+2212.02098,"A Machine with Short-Term, Episodic, and Semantic Memory Systems",2022-12-05
+2212.03041,Towards a more efficient computation of individual attribute and policy contribution for post-hoc explanation of cooperative multi-agent systems using Myerson values,2022-12-06
+2212.04576,Generalizing LTL Instructions via Future Dependent Options,2022-12-08
+2212.06129,Safe Reinforcement Learning with Probabilistic Guarantees Satisfying Temporal Logic Specifications in Continuous Action Spaces,2022-12-12
+2301.01219,Task-Guided IRL in POMDPs that Scales,2022-12-30
+2301.03094,A Divide-Align-Conquer Strategy for Program Synthesis,2023-01-08
+2301.03512,SCENE: Reasoning about Traffic Scenes using Heterogeneous Graph Neural Networks,2023-01-09
+2301.06054,Planning for Learning Object Properties,2023-01-15
+2301.06294,Neuro-Symbolic World Models for Adapting to Open World Novelty,2023-01-16
+2301.10107,Story Shaping: Teaching Agents Human-like Behavior with Stories,2023-01-24
+2302.09646,An Explainable Collaborative Dialogue System using a Theory of Mind,2023-02-19
+2303.01379,Planning and Control of Uncertain Cooperative Mobile Manipulator-Endowed Systems under Temporal-Logic Tasks,2023-03-02
+2303.04912,Embodied Active Learning of Relational State Abstractions for Bilevel Planning,2023-03-08
+2303.06691,"ALIST: Associative Logic for Inference, Storage and Transfer. A Lingua Franca for Inference on the Web",2023-03-12
+2303.08941,Automated Interactive Domain-Specific Conversational Agents that Understand Human Dialogs,2023-03-15
+2303.14286,Voice-Based Conversational Agents and Knowledge Graphs for Improving News Search in Assisted Living,2023-03-24
+2304.01022,Uncertainty-Based Knowing How Logic,2023-04-03
+2304.06281,Model-based Dynamic Shielding for Safe and Efficient Multi-Agent Reinforcement Learning,2023-04-13
+2304.12026,SocialDial: A Benchmark for Socially-Aware Dialogue Systems,2023-04-24
+2305.00561,Model-free Motion Planning of Autonomous Agents for Complex Tasks in Partially Observable Environments,2023-04-30
+2305.02364,PeaCoK: Persona Commonsense Knowledge for Consistent and Engaging Narratives,2023-05-03
+2305.04397,Multi-Objective Task Assignment and Multiagent Planning with Hybrid GPU-CPU Acceleration,2023-05-08
+2305.05091,Knowledge-enhanced Agents for Interactive Text Games,2023-05-08
+2305.08607,Depth-bounded epistemic logic,2023-05-15
+2305.12363,Instance-Level Semantic Maps for Vision Language Navigation,2023-05-21
+2305.13168,LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities,2023-05-22
+2305.14736,Optimal Control of Logically Constrained Partially Observable and Multi-Agent Markov Decision Processes,2023-05-24
+2305.15256,Discounting in Strategy Logic,2023-05-24
+2305.16203,Computing Universal Plans for Partially Observable Multi-Agent Routing Using Answer Set Programming,2023-05-25
+2305.17258,STL: Surprisingly Tricky Logic (for System Validation),2023-05-26
+2305.18795,The Alternating-Time μ-Calculus With Disjunctive Explicit Strategies,2023-05-30
+2306.04936,Combined Left and Right Temporal Robustness for Control under STL Specifications,2023-06-08
+2306.06272,A Domain-Independent Agent Architecture for Adaptive Operation in Evolving Open Worlds,2023-06-09
+2306.06808,Multi-Agent Reinforcement Learning Guided by Signal Temporal Logic Specifications,2023-06-11
+2306.08359,Hierarchical Task Network Planning for Facilitating Cooperative Multi-Agent Reinforcement Learning,2023-06-14
+2306.08680,Temporally Extended Goal Recognition in Fully Observable Non-Deterministic Domain Models,2023-06-14
+2306.13956,Pointwise-in-Time Explanation for Linear Temporal Logic Rules,2023-06-24
+2306.14325,The Neuro-Symbolic Inverse Planning Engine (NIPE): Modeling Probabilistic Social Inferences from Linguistic Inputs,2023-06-25
+2306.17514,A behaviouristic approach to representing processes and procedures in the OASIS 2 ontology,2023-06-30
+2306.17639,Point-Based Value Iteration for POMDPs with Neural Perception Mechanisms,2023-06-30
+2307.00928,Learning Differentiable Logic Programs for Abstract Visual Reasoning,2023-07-03
+2307.01548,Knowledge Graph for NLG in the context of conversational agents,2023-07-04
+2307.02689,Learning Symbolic Rules over Abstract Meaning Representations for Textual Reinforcement Learning,2023-07-05
+2307.05067,Exploiting Asymmetry in Logic Puzzles: Using ZDDs for Symbolic Model Checking Dynamic Epistemic Logic,2023-07-11
+2307.07448,Depth-bounded Epistemic Logic,2023-07-11
+2307.06758,Layered controller synthesis for dynamic multi-agent systems,2023-07-13
+2307.07697,Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph,2023-07-15
+2307.10885,Robust Alternating-Time Temporal Logic,2023-07-20
+2307.13549,A Planning Ontology to Represent and Exploit Planning Knowledge for Performance Efficiency,2023-07-25
+2307.16685,Anticipating Responsibility in Multiagent Planning,2023-07-31
+2308.05644,QTWTL: Quality Aware Time Window Temporal Logic for Performance Monitoring,2023-08-10
+2308.06391,Dynamic Planning with a LLM,2023-08-11
+2308.11373,Fast and Adaptive Multi-agent Planning under Collaborative Temporal Logic Tasks via Poset Products,2023-08-22
+2308.11730,Knowledge Graph Prompting for Multi-Document Question Answering,2023-08-22
+2308.15188,LTLf Best-Effort Synthesis in Nondeterministic Planning Domains,2023-08-29
+2309.02328,Neurosymbolic Meta-Reinforcement Lookahead Learning Achieves Safe Self-Driving in Non-Stationary Environments,2023-09-05
+2309.02722,Reinforcement Learning of Action and Query Policies with LTL Instructions under Uncertain Event Detector,2023-09-06
+2309.06604,Hybrid Algorithm Selection and Hyperparameter Tuning on Distributed Machine Learning Resources: A Hierarchical Agent-based Approach,2023-09-12
+2309.09919,Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents,2023-09-18
+2309.12562,Cognitive Approach to Hierarchical Task Selection for Human-Robot Interaction in Dynamic Environments,2023-09-22
+2309.13499,Controller Synthesis of Collaborative Signal Temporal Logic Tasks for Multi-Agent Systems via Assume-Guarantee Contracts,2023-09-23
+2309.15074,Natural Language based Context Modeling and Reasoning for Ubiquitous Computing with Large Language Models: A Tutorial,2023-09-24
+2309.14048,"Synchronous Agents, Verification, and Blame -- A Deontic View",2023-09-25
+2309.14841,Towards a Neuronally Consistent Ontology for Robotic Agents,2023-09-26
+2310.02356,ORTAC+ : A User Friendly Domain Specific Language for Multi-Agent Mission Planning,2023-10-03
+2310.10585,Temporally Robust Multi-Agent STL Motion Planning in Continuous Time,2023-10-16
+2310.10445,"MechGPT, a language-based strategy for mechanics and materials modeling that connects knowledge across scales, disciplines and modalities",2023-10-16
+2310.16421,Graph Agent: Explicit Reasoning Agent for Graphs,2023-10-25
+2310.17219,Scalable Verification of Strategy Logic through Three-valued Abstraction,2023-10-26
+2310.17240,Strategic Abilities of Forgetful Agents in Stochastic Environments,2023-10-26
+2310.19998,Generative retrieval-augmented ontologic graph and multi-agent strategies for interpretive large language model-based materials design,2023-10-30
+2310.20344,Multi-Valued Verification of Strategic Ability,2023-10-31
+2311.05084,Signal Temporal Logic-Guided Apprenticeship Learning,2023-11-09
+2311.07850,Bring Your Own KG: Self-Supervised Program Synthesis for Zero-Shot KGQA,2023-11-14
+2311.09780,Model Checking for Closed-Loop Robot Reactive Planning,2023-11-16
+2311.10863,Verified Compositional Neuro-Symbolic Control for Stochastic Systems with Temporal Logic Tasks,2023-11-17
+2311.15883,Characterising and Verifying the Core in Concurrent Multi-Player Mean-Payoff Games (Full Version),2023-11-27
+2312.00326,Agent-OM: Leveraging LLM Agents for Ontology Matching,2023-12-01
+2312.02706,Large Knowledge Model: Perspectives and Challenges,2023-12-05
+2312.11813,Urban Generative Intelligence (UGI): A Foundational Platform for Agents in Embodied City Environment,2023-12-19
+2312.12403,"On Alternating-Time Temporal Logic, Hyperproperties, and Strategy Sharing",2023-12-19
+2401.02500,On the Prospects of Incorporating Large Language Models (LLMs) in Automated Planning and Scheduling (APS),2024-01-04
+2401.12170,Natural Strategic Ability in Stochastic Multi-Agent Systems,2024-01-22
+2401.11841,Semantic Web Technology for Agent Communication Protocols,2024-01-22
+2401.13800,Multi-Object Navigation in real environments using hybrid policies,2024-01-24
+2401.14153,Agent-based Simulation with Netlogo to Evaluate AmI Scenarios,2024-01-25
+2401.15783,ARGOS: An Automaton Referencing Guided Overtake System for Head-to-Head Autonomous Racing,2024-01-28
+2402.03678,Logical Specifications-guided Dynamic Task Sampling for Reinforcement Learning Agents,2024-02-06
+2402.06861,UrbanKGent: A Unified Large Language Model Agent Framework for Urban Knowledge Graph Construction,2024-02-10
+2402.09021,Unified Opinion Dynamic Modeling as Concurrent Set Relations in Rewriting Logic,2024-02-14
+2402.11163,KG-Agent: An Efficient Autonomous Agent Framework for Complex Reasoning over Knowledge Graph,2024-02-17
+2402.15929,Certifying Knowledge Comprehension in LLMs,2024-02-24
+2402.17217,Temporal Logic Specification-Conditioned Decision Transformer for Offline Safe Reinforcement Learning,2024-02-27
+2402.18892,Aligning Knowledge Graph with Visual Perception for Object-goal Navigation,2024-02-29
+2403.03314,Collision Avoidance Verification of Multiagent Systems with Learned Policies,2024-03-05
+2403.10570,Symbiotic Game and Foundation Models for Cyber Deception Operations in Strategic Cyber Warfare,2024-03-14
+2403.10171,AUTONODE: A Neuro-Graphic Self-Learnable Engine for Cognitive GUI Automation,2024-03-15
+2403.12153,Routing and Scheduling in Answer Set Programming applied to Multi-Agent Path Finding: Preliminary Report,2024-03-18
+2403.11737,SMT-Based Dynamic Multi-Robot Task Allocation,2024-03-18
+2403.13741,Hyper Strategy Logic,2024-03-20
+2403.15826,Scaling Learning based Policy Optimization for Temporal Logic Tasks by Controller Network Dropout,2024-03-23
+2403.17246,TwoStep: Multi-agent Task Planning using Classical Planners and Large Language Models,2024-03-25
+2403.17704,Prioritize Team Actions: Multi-Agent Temporal Logic Task Planning with Ordering Constraints,2024-03-26
+2404.07456,WESE: Weak Exploration to Strong Exploitation for LLM Agents,2024-04-11
+2405.01392,LLMSat: A Large Language Model-Based Goal-Oriented Agent for Autonomous Space Exploration,2024-04-13
+2404.09077,CuriousLLM: Elevating Multi-Document Question Answering with LLM-Enhanced Knowledge Graph Reasoning,2024-04-13
+2404.09888,Flow-Based Synthesis of Reactive Tests for Discrete Decision-Making Systems with Temporal Logic Specifications,2024-04-15
+2404.14741,Generate-on-Graph: Treat LLM as both Agent and KG in Incomplete Knowledge Graph Question Answering,2024-04-23
+2404.16163,The Trembling-Hand Problem for LTLf Planning,2024-04-24
+2404.15923,KGValidator: A Framework for Automatic Validation of Knowledge Graph Construction,2024-04-24
+2404.17716,Airlift Challenge: A Competition for Optimizing Cargo Delivery,2024-04-26
+2405.12035,KG-RAG: Bridging the Gap Between Knowledge and Creativity,2024-05-20
+2405.13488,Non-Deterministic Planning for Hyperproperty Verification,2024-05-22
+2405.13873,FiDeLiS: Faithful Reasoning in Large Language Model for Knowledge Graph Question Answering,2024-05-22
+2405.20455,DepsRAG: Towards Agentic Reasoning and Planning for Software Dependency Management,2024-05-30
+2406.01422,Alibaba LingmaAgent: Improving Automated Issue Resolution via Comprehensive Repository Exploration,2024-06-03
+2406.01256,Augmented Commonsense Knowledge for Remote Object Grounding,2024-06-03
+2406.04907,A Modular Framework for Flexible Planning in Human-Robot Collaboration,2024-06-07
+2406.06469,"Husky: A Unified, Open-Source Language Agent for Multi-Step Reasoning",2024-06-10
+2406.07080,DARA: Decomposition-Alignment-Reasoning Autonomous Language Agent for Question Answering over Knowledge Graphs,2024-06-11
+2406.09661,Temporal Planning via Interval Logic Satisfiability for Autonomous Systems,2024-06-14
+2406.10449,Learning Temporal Logic Predicates from Data with Statistical Guarantees,2024-06-15
+2406.11132,RePrompt: Planning by Automatic Prompt Engineering for Large Language Models Agents,2024-06-17
+2406.16374,KEHRL: Learning Knowledge-Enhanced Language Representations with Hierarchical Reinforcement Learning,2024-06-24
+2406.17206,Model Checking of vGOAL,2024-06-25
+2406.19228,Tools Fail: Detecting Silent Errors in Faulty Tools,2024-06-27
+2407.00466,BioKGBench: A Knowledge Graph Checking Benchmark of AI Agent for Biomedical Science,2024-06-29
+2407.04363,AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents,2024-07-05
+2407.06447,Geospatial Trajectory Generation via Efficient Abduction: Deployment for Independent Testing,2024-07-08
+2407.09792,Language-Augmented Symbolic Planner for Open-World Task Planning,2024-07-13
+2408.00786,Whether to trust: the ML leap of faith,2024-07-17
+2408.01880,Walk Wisely on Graph: Knowledge Graph Reasoning with Dual Agents via Efficient Guidance-Exploration,2024-08-03
+2408.02535,Towards Coarse-grained Visual Language Navigation Task Planning Enhanced by Event Knowledge Graph,2024-08-05
+2408.03615,Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks,2024-08-07
+2408.04215,Comp-LTL: Temporal Logic Planning via Zero-Shot Policy Composition,2024-08-08
+2408.05795,A Meta-Engine Framework for Interleaved Task and Motion Planning using Topological Refinements,2024-08-11
+2408.05861,Temporal Knowledge-Graph Memory in a Partially Observable Environment,2024-08-11
+2408.07611,WeKnow-RAG: An Adaptive Approach for Retrieval-Augmented Generation Integrating Web Search and Knowledge Graphs,2024-08-14
+2408.08677,Neural Reward Machines,2024-08-16
+2408.09112,Training Verifiably Robust Agents Using Set-Based Reinforcement Learning,2024-08-17
+2408.10689,Genesis: Towards the Automation of Systems Biology Research,2024-08-20
+2408.12142,MDD-5k: A New Diagnostic Conversation Dataset for Mental Disorders Synthesized via Neuro-Symbolic LLM Agents,2024-08-22
+2408.13378,DrugAgent: Reliable Multi-Agent Integration of Conflicting Biomedical Evidence for Drug-Target Interaction Assessment,2024-08-23
+2409.03440,Rx Strategist: Prescription Verification using LLM Agents System,2024-09-05
+2409.04432,A Survey on Knowledge Organization Systems of Research Fields: Resources and Challenges,2024-09-06
+2409.05556,SciAgents: Automating scientific discovery through multi-agent intelligent graph reasoning,2024-09-09
+2409.09271,Python Symbolic Execution with LLM-powered Code Generation,2024-09-14
+2409.10165,Maneuver Decision-Making with Trajectory Streams Prediction for Autonomous Vehicles,2024-09-16
+2409.13537,ShizishanGPT: An Agricultural Large Language Model Integrating Tools and Resources,2024-09-20
+2409.19006,Towards Automated Patent Workflows: AI-Orchestrated Multi-Agent Framework for Intellectual Property Management and Analysis,2024-09-21
+2410.02823,DANA: Domain-Aware Neurosymbolic Agents for Consistency and Accuracy,2024-09-27
+2409.18924,Simulated patient systems powered by large language model-based AI agents offer potential for transforming medical education,2024-09-27
+2409.19471,SELP: Generating Safe and Efficient Task Plans for Robot Agents with Large Language Models,2024-09-28
+2409.20560,LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner,2024-09-30
+2410.00726,LTLf Synthesis on First-Order Agent Programs in Nondeterministic Environments,2024-10-01
+2410.13874,Chain-Oriented Objective Logic with Neural Network Feedback Control and Cascade Filtering for Dynamic Multi-DSL Regulation,2024-10-02
+2410.02721,"Domain-Specific Retrieval-Augmented Generation Using Vector Stores, Knowledge Graphs, and Tensor Factorization",2024-10-03
+2410.04660,KGARevion: An AI Agent for Knowledge-Intensive Biomedical QA,2024-10-07
+2410.07484,WALL-E: World Alignment by Rule Learning Improves World Model-based LLM Agents,2024-10-09
+2410.08022,Probabilistic Satisfaction of Temporal Logic Constraints in Reinforcement Learning via Adaptive Policy-Switching,2024-10-10
+2410.08475,GIVE: Structured Reasoning of Large Language Models with Knowledge Graph Inspired Veracity Extrapolation,2024-10-11
+2410.10011,Learning Interpretable Classifiers for PDDL Planning,2024-10-13
+2410.11906,Empowering Users in Digital Privacy Management through Interactive LLM-Based Agents,2024-10-15
+2410.11531,AGENTiGraph: An Interactive Knowledge Graph Platform for LLM-based Chatbots Utilizing Private Data,2024-10-15
+2410.11572,Temporal Hyperproperties for Population Protocols,2024-10-15
+2410.12375,PRefLexOR: Preference-based Recursive Language Modeling for Exploratory Optimization of Reasoning and Agentic Thinking,2024-10-16
+2410.13080,Graph-constrained Reasoning: Faithful Reasoning on Knowledge Graphs with Large Language Models,2024-10-16
+2410.13514,GraphSCENE: On-Demand Critical Scenario Generation for Autonomous Vehicles in Simulation,2024-10-17
+2410.14374,A Model Checker for Natural Strategic Ability,2024-10-18
+2410.16207,CoT-TL: Low-Resource Temporal Knowledge Representation of Planning Instructions Using Chain-of-Thought Reasoning,2024-10-21
+2410.19727,"FISHNET: Financial Intelligence from Sub-querying, Harmonizing, Neural-Conditioning, Expert Swarms, and Task Planning",2024-10-25
+2410.21067,CRAT: A Multi-Agent Framework for Causality-Enhanced Reflective and Retrieval-Augmented Translation with Large Language Models,2024-10-28
+2411.08041,GraphAide: Advanced Graph-Assisted Query and Reasoning System,2024-10-29
+2411.00028,Harnessing the Synergy between LLM Agents and Knowledge Graphs for Urban Socioeconomic Prediction,2024-10-29
+2410.23156,VisualPredicator: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning,2024-10-30
+2411.00887,Measuring Responsibility in Multi-Agent Systems,2024-10-31
+2411.05599,Expectation vs. Reality: Towards Verification of Psychological Games,2024-11-08
+2411.08449,Towards Evaluating Large Language Models for Graph Query Generation,2024-11-13
+2411.11532,CKGFuzzer: LLM-Based Fuzz Driver Generation Enhanced By Code Knowledge Graph,2024-11-18
+2412.00224,An AI-Driven Data Mesh Architecture Enhancing Decision-Making in Infrastructure Construction and Public Procurement,2024-11-29
+2412.05937,Accelerating Manufacturing Scale-Up from Material Discovery Using Agentic Web Navigation and Retrieval-Augmented AI for Process Engineering Schematics Design,2024-12-08
+2412.06162,Query-Efficient Planning with Language Models,2024-12-09
+2412.06706,"Asynchronous Agents with Perfect Recall: Model Reductions, Knowledge-Based Construction, and Model Checking for Coalitional Strategies",2024-12-09
+2412.06176,AlphaVerus: Bootstrapping Formally Verified Code Generation through Self-Improving Translation and Treefinement,2024-12-09
+2412.12513,Generating Move Smart Contracts based on Concepts,2024-12-17
+2412.12839,From An LLM Swarm To A PDDL-Empowered HIVE: Planning Self-Executed Instructions In A Multi-Modal Jungle,2024-12-17
+2412.12700,ParMod: A Parallel and Modular Framework for Learning Non-Markovian Tasks,2024-12-17
+2412.13114,Contract-based Design and Verification of Multi-Agent Systems with Quantitative Temporal Requirements,2024-12-17
+2412.13682,ChinaTravel: An Open-Ended Travel Planning Benchmark with Compositional Constraint Validation for Language Agents,2024-12-18
+2412.17029,GraphAgent: Agentic Graph Language Assistant,2024-12-22
+2412.16833,KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Medical Diagnosis,2024-12-22
+2412.18347,The Constitutional Filter: Bayesian Estimation of Compliant Agents,2024-12-24
+2501.01439,Probabilistic Mission Design for Neuro-Symbolic Unmanned Aircraft Systems,2024-12-25
+2412.19469,Knowledge Graph-Based Multi-Agent Path Planning in Dynamic Environments using WAITR,2024-12-27
+2412.20338,Exploiting Hybrid Policy in Reinforcement Learning for Interpretable Temporal Logic Manipulation,2024-12-29
+2501.03187,Turn-based Multi-Agent Reinforcement Learning Model Checking,2025-01-06
+2501.05639,Scaling Safe Multi-Agent Control for Signal Temporal Logic Specifications,2025-01-10
+2501.08897,Automated Retrosynthesis Planning of Macromolecules Using Large Language Models and Knowledge Graphs,2025-01-15
+2501.13956,Zep: A Temporal Knowledge Graph Architecture for Agent Memory,2025-01-20
+2501.16382,GraPPI: A Retrieve-Divide-Solve GraphRAG Framework for Large-scale Protein-protein Interaction Exploration,2025-01-24
+2501.15791,Harnessing Diverse Perspectives: A Multi-Agent Framework for Enhanced Error Detection in Knowledge Graphs,2025-01-27
+2501.18794,Survey and Improvement Strategies for Gene Prioritization with Large Language Models,2025-01-30
+2502.01630,TReMu: Towards Neuro-Symbolic Temporal Reasoning for LLM-Agents with Memory in Multi-Session Dialogues,2025-02-03
+2502.10420,Position: Stop Acting Like Language Model Agents Are Normal Agents,2025-02-04
+2502.02067,AdaptBot: Combining LLM with Knowledge Graphs and Human Input for Generic-to-Specific Task Decomposition and Knowledge Refinement,2025-02-04
+2503.04742,A Case for Specialisation in Non-Human Entities,2025-02-05
+2502.04644,Agentic Reasoning: A Streamlined Framework for Enhancing LLM Reasoning with Agentic Tools,2025-02-07
+2502.05110,ApplE: A Modular Ontology of Applied Ethics and Event Context for Ethical Decision Modeling,2025-02-07
+2502.05453,LLM-Powered Decentralized Generative Agents with Adaptive Hierarchical Knowledge Graph for Cooperative Planning,2025-02-08
+2502.06472,KARMA: Leveraging Multi-Agent LLMs for Automated Knowledge Graph Enrichment,2025-02-10
+2502.07223,Graph RAG-Tool Fusion,2025-02-11
+2502.09208,Autonomous Task Completion Based on Goal-directed Answer Set Programming,2025-02-13
+2502.09221,Pearce's Characterisation in an Epistemic Domain,2025-02-13
+2502.10177,STMA: A Spatio-Temporal Memory Agent for Long-Horizon Embodied Task Planning,2025-02-14
+2502.11269,Unlocking the Potential of Generative AI through Neuro-Symbolic Architectures: Benefits and Limitations,2025-02-16
+2502.11785,Changing the Rules of the Game: Reasoning about Dynamic Phenomena in Multi-Agent Systems,2025-02-17
+2502.13092,Text2World: Benchmarking Large Language Models for Symbolic World Model Generation,2025-02-18
+2502.12669,Perovskite-LLM: Knowledge-Enhanced Large Language Models for Perovskite Solar Cell Research,2025-02-18
+2502.13010,Agentic Medical Knowledge Graphs Enhance Medical Question Answering: Bridging the Gap Between LLMs and Evolving Medical Knowledge,2025-02-18
+2502.13025,Agentic Deep Graph Reasoning Yields Self-Organizing Knowledge Networks,2025-02-18
+2502.13621,Decentralized Planning Using Probabilistic Hyperproperties,2025-02-19
+2502.15005,A Socratic RAG Approach to Connect Natural Language Queries on Research Topics with Knowledge Organization Systems,2025-02-20
+2502.16531,Efficient Coordination and Synchronization of Multi-Robot Systems Under Recurring Linear Temporal Logic,2025-02-23
+2502.20364,"Bridging Legal Knowledge and AI: Retrieval-Augmented Generation with Vector Stores, Knowledge Graphs, and Hierarchical Non-negative Matrix Factorization",2025-02-27
+2502.21087,PASemiQA: Plan-Assisted Agent for Question Answering on Semi-Structured Data with Text and Relational Information,2025-02-28
+2504.06271,ER-RAG: Enhance RAG with ER-Based Unified Modeling of Heterogeneous Data Sources,2025-03-02
+2503.00870,NeSyC: A Neuro-symbolic Continual Learner For Complex Embodied Tasks In Open Domains,2025-03-02
+2503.02512,LTL Verification of Memoryful Neural Agents,2025-03-04
+2503.03215,COSINT-Agent: A Knowledge-Driven Multimodal Agent for Chinese Open Source Intelligence,2025-03-05
+2503.10241,SCOOP: A Framework for Proactive Collaboration and Social Continual Learning through Natural Language Interaction andCausal Reasoning,2025-03-13
+2503.13514,RAG-KG-IL: A Multi-Agent Hybrid Framework for Reducing Hallucinations and Enhancing LLM Reasoning through RAG and Incremental Knowledge Graph Learning Integration,2025-03-14
+2503.11346,AIstorian lets AI be a historian: A KG-powered multi-agent system for accurate biography generation,2025-03-14
+2503.12349,SPIN-Bench: How Well Do LLMs Plan Strategically and Reason Socially?,2025-03-16
+2503.12635,Hybrid Learners Do Not Forget: A Brain-Inspired Neuro-Symbolic Approach to Continual Learning,2025-03-16
+2503.13194,A representational framework for learning and encoding structurally enriched trajectories in complex agent environments,2025-03-17
+2503.17309,LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language,2025-03-21
+2503.17822,Metacognition in Content-Centric Computational Cognitive C4 Modeling,2025-03-22
+2503.18492,VeriSafe Agent: Safeguarding Mobile GUI Agent via Logic-based Action Verification,2025-03-24
+2503.20425,Perspective-Shifted Neuro-Symbolic World Models: A Framework for Socially-Aware Robot Navigation,2025-03-26
+2503.20950,DEMENTIA-PLAN: An Agent-Based Framework for Multi-Knowledge Graph Retrieval-Augmented Generation in Dementia Care,2025-03-26
+2504.02964,Distributionally Robust Predictive Runtime Verification under Spatio-Temporal Logic Specifications,2025-04-03
+2504.04615,Conformal Data-driven Control of Stochastic Multi-Agent Systems under Collaborative Signal Temporal Logic Specifications,2025-04-06
+2504.04717,Beyond Single-Turn: A Survey on Multi-Turn Interactions with Large Language Models,2025-04-07
+2504.06943,"Review of Case-Based Reasoning for LLM Agents: Theoretical Foundations, Architectural Components, and Cognitive Integration",2025-04-09
+2504.09283,Semantic Commit: Helping Users Update Intent Specifications for AI Memory at Scale,2025-04-12
+2504.13515,Large Language Models for Validating Network Protocol Parsers,2025-04-18
+2504.15418,"MRTA-Sim: A Modular Simulator for Multi-Robot Allocation, Planning, and Control in Open-World Environments",2025-04-21
+2504.15785,WALL-E 2.0: World Alignment by NeuroSymbolic Learning improves World Model-based LLM Agents,2025-04-22
+2504.18603,Toward Personalizing Quantum Computing Education: An Evolutionary LLM-Powered Approach,2025-04-24
+2504.17967,LLM Agent Swarm for Hypothesis-Driven Drug Discovery,2025-04-24
+2504.21029,PICO: Secure Transformers via Robust Prompt Isolation and Cybersecurity Oversight,2025-04-26
+2504.19565,Knowledge-Driven Agentic Scientific Corpus Distillation Framework for Biomedical Large Language Models Training,2025-04-28
+2505.00254,AVA: Towards Agentic Video Analytics with Vision Language Models,2025-05-01
+2505.04651,"Scientific Hypothesis Generation and Validation: Methods, Datasets, and Future Directions",2025-05-06
+2505.06328,A Grounded Memory System For Smart Personal Assistants,2025-05-09
+2505.07240,Continuous-Time Control Synthesis for Multiple Quadrotors under Signal Temporal Logic Specifications,2025-05-12
+2505.10143,GE-Chat: A Graph Enhanced RAG Framework for Evidential Response Generation of LLMs,2025-05-15
+2505.11661,Learning from Less: Guiding Deep Reinforcement Learning with Differentiable Symbolic Planning,2025-05-16
+2505.10936,Cochain: Balancing Insufficient and Excessive Collaboration in LLM Agent Workflows,2025-05-16
+2505.17058,DO-RAG: A Domain-Specific QA Framework Using Knowledge Graph-Enhanced Retrieval-Augmented Generation,2025-05-17
+2505.11942,LifelongAgentBench: Evaluating LLM Agents as Lifelong Learners,2025-05-17
+2505.13246,Agentic publications: redesigning scientific publishing in the age of thinking large language models,2025-05-19
+2505.12788,Mixture Policy based Multi-Hop Reasoning over N-tuple Temporal Knowledge Graphs,2025-05-19
+2505.13851,A Challenge to Build Neuro-Symbolic Video Agents,2025-05-20
+2505.13994,"Divide by Question, Conquer by Agent: SPLIT-RAG with Question-Driven Graph Partitioning",2025-05-20
+2505.17086,Advancing Multi-Agent RAG Systems with Minimalist Reinforcement Learning,2025-05-20
+2505.15108,A Risk Ontology for Evaluating AI-Powered Psychotherapy Virtual Agents,2025-05-21
+2505.15693,Average Reward Reinforcement Learning for Omega-Regular and Mean-Payoff Objectives,2025-05-21
+2505.16348,Embodied Agents Meet Personalization: Investigating Challenges and Solutions Through the Lens of Memory Utilization,2025-05-22
+2505.17464,HydraRAG: Structured Cross-Source Enhanced Large Language Model Reasoning,2025-05-23
+2505.19219,Where Paths Collide: A Comprehensive Survey of Classic and Learning-Based Multi-Agent Pathfinding,2025-05-25
+2505.23789,Conversational Exploration of Literature Landscape with LitChat,2025-05-25
+2505.19933,"Subtle Risks, Critical Failures: A Framework for Diagnosing Physical Safety of LLMs for Embodied Decision Making",2025-05-26
+2505.21291,Complex System Diagnostics Using a Knowledge Graph-Informed and Large Language Model-Enhanced Framework,2025-05-27
+2505.21969,DORAEMON: Decentralized Ontology-aware Reliable Agent with Enhanced Memory Oriented Navigation,2025-05-28
+2505.22846,RocqStar: Leveraging Similarity-driven Retrieval and Agentic Systems for Rocq generation,2025-05-28
+2505.23695,Data-to-Dashboard: Multi-Agent LLM Framework for Insightful Visualization in Enterprise Analytics,2025-05-29
+2506.01344,Follow the Flow: Fine-grained Flowchart Attribution with Neurosymbolic Agents,2025-06-02
+2506.03801,"From Theory to Practice: Real-World Use Cases on Trustworthy LLM-Driven Process Modeling, Prediction and Automation",2025-06-04
+2506.04571,OpenAg: Democratizing Agricultural Intelligence,2025-06-05
+2506.07332,Digital Twin-based Smart Manufacturing: Dynamic Line Reconfiguration for Disturbance Handling,2025-06-09
+2506.09046,Self-Evolving Multi-Agent Systems via Textual Backpropagation,2025-06-10
+2506.09499,"A Unified Theory of Compositionality, Modularity, and Interpretability in Markov Decision Processes",2025-06-11
+2506.09755,Intelligent Design 4.0: Paradigm Evolution Toward the Agentic AI Era,2025-06-11
+2506.11180,Beyond Formal Semantics for Capabilities and Skills: Model Context Protocol in Manufacturing,2025-06-12
+2506.13246,On Immutable Memory Systems for Artificial Agents: A Blockchain-Indexed Automata-Theoretic Framework Using ECDH-Keyed Merkle Chains,2025-06-16
+2506.15828,Context Matters! Relaxing Goals with LLMs for Feasible 3D Scene Planning,2025-06-18
+2506.17589,Taming the Untamed: Graph-Based Knowledge Retrieval and Reasoning for MLLMs to Conquer the Unknown,2025-06-21
+2506.20097,PSALM-V: Automating Symbolic Planning in Interactive Visual Environments with Large Language Models,2025-06-25
+2507.21091,The Value of Gen-AI Conversations: A bottom-up Framework for AI Value Alignment,2025-06-26
+2506.22365,Reinforcement Learning with Physics-Informed Symbolic Program Priors for Zero-Shot Wireless Indoor Navigation,2025-06-27
+2507.00951,Thinking Beyond Tokens: From Brain-Inspired Intelligence to Cognitive Foundations for Artificial General Intelligence and its Societal Impact,2025-07-01
+2507.05125,Automated Behaviour-Driven Acceptance Testing of Robotic Systems,2025-07-01
+2507.02253,Scaling LLM Planning: NL2FLOW for Parametric Problem Generation and Rigorous Evaluation,2025-07-03
+2507.02773,KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs,2025-07-03
+2507.03293,LogicGuard: Improving Embodied LLM agents through Temporal Logic based Critics,2025-07-04
+2507.04053,TopoMAS: Large Language Model Driven Topological Materials Multiagent System,2025-07-05
+2507.04127,BYOKG-RAG: Multi-Strategy Graph Retrieval for Knowledge Graph Question Answering,2025-07-05
+2507.07906,Agentic Retrieval of Topics and Insights from Earnings Calls,2025-07-10
+2507.09389,Knowledge Conceptualization Impacts RAG Efficacy,2025-07-12
+2507.10630,Enhancing the Capabilities of Large Language Models for API calls through Knowledge Graphs,2025-07-14
+2507.10644,From Multi-Agent Systems and the Semantic Web to Agentic AI: A Unified Narrative of the Web of Agents,2025-07-14
+2507.10741,Ground-Compose-Reinforce: Grounding Language in Agentic Behaviours using Limited Data,2025-07-14
+2507.15867,RDMA: Cost Effective Agent-Driven Rare Disease Mining from Electronic Health Records,2025-07-14
+2507.11352,"Foundation Models for Logistics: Toward Certifiable, Conversational Planning Interfaces",2025-07-15
+2507.14372,Text-to-SQL for Enterprise Data Analytics,2025-07-18
+2507.13966,Bottom-up Domain-specific Superintelligence: A Reliable Knowledge Graph is What We Need,2025-07-18
+2507.15147,STL-GO: Spatio-Temporal Logic with Graph Operators for Distributed Systems with Multiple Network Topologies,2025-07-20
+2507.15478,The Constitutional Controller: Doubt-Calibrated Steering of Compliant Agents,2025-07-21
+2507.16971,Text-to-SPARQL Goes Beyond English: Multilingual Question Answering Over Knowledge Graphs through Human-Inspired Reasoning,2025-07-22
+2507.16507,Agentic RAG with Knowledge Graphs for Complex Multi-Hop Reasoning in Real-World Applications,2025-07-22
+2507.17365,DynaSearcher: Dynamic Knowledge Graph Augmented Search Agent via Multi-Reward Reinforcement Learning,2025-07-23
+2507.17482,LTLZinc: a Benchmarking Framework for Continual Learning and Neuro-Symbolic Temporal Reasoning,2025-07-23
+2507.19942,Prometheus: Towards Long-Horizon Codebase Navigation for Repository-Level Problem Solving,2025-07-26
+2507.20280,SciToolAgent: A Knowledge Graph-Driven Scientific Agent for Multi-Tool Integration,2025-07-27
+2507.20370,Advancing Shared and Multi-Agent Autonomy in Underwater Missions: Integrating Knowledge Graphs and Retrieval-Augmented Generation,2025-07-27
+2507.20832,Hanging Around: Cognitive Inspired Reasoning for Reactive Robotics,2025-07-28
+2507.22281,CoEx -- Co-evolving World-model and Exploration,2025-07-29
+2508.05660,Open-Source Agentic Hybrid RAG Framework for Scientific Literature Review,2025-07-30
+2508.00106,Hyperproperty-Constrained Secure Reinforcement Learning,2025-07-31
+2508.05666,HySemRAG: A Hybrid Semantic Retrieval-Augmented Generation Framework for Automated Literature Synthesis and Methodological Gap Analysis,2025-08-01
+2508.00653,Putting Perspective into OWL [sic]: Complexity-Neutral Standpoint Reasoning for Ontology Languages via Monodic S5 over Counting Two-Variable First-Order Logic (Extended Version with Appendix),2025-08-01
+2508.01415,RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Interactive Environmental Learning in Physical Embodied Systems,2025-08-02
+2508.01285,"BioDisco: Multi-agent hypothesis generation with dual-mode evidence, iterative feedback and temporal evaluation",2025-08-02
+2508.01917,L3M+P: Lifelong Planning with Large Language Models,2025-08-03
+2508.01815,From Graph Retrieval to Schema Realization: Counterfactual Validation for Text-to-SPARQL over Heterogeneous Knowledge Graphs,2025-08-03
+2508.02999,"AGENTiGraph: A Multi-Agent Knowledge Graph Framework for Interactive, Domain-Specific LLM Chatbots",2025-08-05
+2508.03137,Long Story Generation via Knowledge Graph and Literary Theory,2025-08-05
+2508.03936,ASTRA: Autonomous Spatial-Temporal Red-teaming for AI Software Assistants,2025-08-05
+2508.04118,AgREE: Agentic Reasoning for Knowledge Graph Completion on Emerging Entities,2025-08-06
+2508.05311,A Novel Architecture for Symbolic Reasoning with Decision Trees and LLM Agents,2025-08-07
+2508.05888,Planning Agents on an Ego-Trip: Leveraging Hybrid Ego-Graph Ensembles for Improved Tool Retrieval in Enterprise Task Planning,2025-08-07
+2508.08997,Intrinsic Memory Agents: Heterogeneous Multi-Agent LLM Systems through Structured Contextual Memory,2025-08-12
+2508.08632,AgriGPT: a Large Language Model Ecosystem for Agriculture,2025-08-12
+2508.09893,RAGulating Compliance: A Multi-Agent Knowledge Graph for Regulatory QA,2025-08-13
+2508.11890,Integrating Symbolic RL Planning into a BDI-based Autonomous UAV Framework: System Integration and SIL Validation,2025-08-16
+2508.12257,Structuring the Unstructured: A Systematic Review of Text-to-Structure Generation for Agentic AI with a Universal Evaluation Framework,2025-08-17
+2508.12393,MedKGent: A Large Language Model Agent Framework for Constructing Temporally Evolving Medical Knowledge Graph,2025-08-17
+2508.13371,LOOP: A Plug-and-Play Neuro-Symbolic Framework for Enhancing Planning in Autonomous Systems,2025-08-18
+2509.20364,An Approach to Checking Correctness for Agentic Systems,2025-08-19
+2508.14880,MedResearcher-R1: Expert-Level Medical Deep Researcher via A Knowledge-Informed Trajectory Synthesis Framework,2025-08-20
+2508.15876,DeepMEL: A Multi-Agent Collaboration Framework for Multimodal Entity Linking,2025-08-21
+2508.16571,LLM-Based Agents for Competitive Landscape Mapping in Drug Asset Due Diligence,2025-08-22
+2508.18302,AI LLM Proof of Self-Consciousness and User-Specific Attractors,2025-08-22
+2508.18091,Teaching LLMs to Think Mathematically: A Critical Study of Decision-Making via Optimization,2025-08-25
+2508.19186,Real-Time Model Checking for Closed-Loop Robot Reactive Planning,2025-08-26
+2508.19429,An Iterative Approach for Heterogeneous Multi-Agent Route Planning with Resource Transportation Uncertainty and Temporal Logic Goals,2025-08-26
+2508.18722,VistaWise: Building Cost-Effective Agent with Cross-Modal Knowledge Graph for Minecraft,2025-08-26
+2508.18880,Challenges for Generative AI in Legal Reasoning,2025-08-26
+2508.21441,A General Framework of Epistemic Forgetting and its Instantiation by Ranking Functions,2025-08-29
+2509.00366,KG-RAG: Enhancing GUI Agent Decision-Making via Knowledge Graph-Driven Retrieval-Augmented Generation,2025-08-30
+2509.00710,On Verifiable Legal Reasoning: A Multi-Agent Framework with Formalized Knowledge Representations,2025-08-31
+2509.00870,Controller synthesis method for multi-agent system based on temporal logic specification,2025-08-31
+2509.01238,Towards Open-World Retrieval-Augmented Generation on Knowledge Graph: A Multi-Agent Collaboration Framework,2025-09-01
+2509.01304,Animer une base de connaissance: des ontologies aux mod{è}les d'I.A. g{é}n{é}rative,2025-09-01
+2509.01338,Conformal Predictive Monitoring for Multi-Modal Scenarios,2025-09-01
+2509.01459,Semantic Technologies in Practical Demand Response: An Informational Requirement-based Roadmap,2025-09-01
+2509.01479,An Information-Flow Perspective on Explainability Requirements: Specification and Verification,2025-09-01
+2509.01716,An LLM-enabled semantic-centric framework to consume privacy policies,2025-09-01
+2509.02276,Rewarding Explainability in Drug Repurposing with Knowledge Graphs,2025-09-02
+2509.02958,Lattice Annotated Temporal (LAT) Logic for Non-Markovian Reasoning,2025-09-03
+2509.04731,Generative World Models of Tasks: LLM-Driven Hierarchical Scaffolding for Embodied Agents,2025-09-05
+2509.06239,Proof2Silicon: Prompt Repair for Verified Code and Hardware Generation via Reinforcement Learning,2025-09-07
+2509.06269,REMI: A Novel Causal Schema Memory Architecture for Personalized Lifestyle Recommendation Agents,2025-09-08
+2509.10977,Statistical Model Checking of NetLogo Models,2025-09-13
+2509.11943,Agentic System with Modal Logic for Autonomous Diagnostics,2025-09-15
+2510.15906,FVDebug: An LLM-Driven Debugging Assistant for Automated Root Cause Analysis of Formal Verification Failures,2025-09-16
+2509.15238,Generating Plans for Belief-Desire-Intention (BDI) Agents Using Alternating-Time Temporal Logic (ATL),2025-09-17
+2509.14221,GEM-Bench: A Benchmark for Ad-Injected Response Generation within Generative Engine Marketing,2025-09-17
+2509.16330,Generalizability of Large Language Model-Based Agents: A Comprehensive Survey,2025-09-19
+2509.18063,ARK-V1: An LLM-Agent for Knowledge Graph Question Answering Requiring Commonsense Reasoning,2025-09-22
+2509.20182,Automated Multi-Agent Workflows for RTL Design,2025-09-24
+2509.21576,"Vision Language Models Cannot Plan, but Can They Formalize?",2025-09-25
+2510.01257,RJE: A Retrieval-Judgment-Exploration Framework for Efficient Knowledge Graph Question Answering with LLMs,2025-09-25
+2509.21035,CLAUSE: Agentic Neuro-Symbolic Knowledge Graph Reasoning via Dynamic Learnable Context Engineering,2025-09-25
+2509.21553,AutoClimDS: Climate Data Science Agentic AI -- A Knowledge Graph is All You Need,2025-09-25
+2509.22493,Ontological foundations for contrastive explanatory narration of robot plans,2025-09-26
+2509.21710,Think-on-Graph 3.0: Efficient and Adaptive LLM Reasoning on Heterogeneous Graphs via Multi-Agent Dual-Evolving Context Retrieval,2025-09-26
+2510.02328,AMANDA: Agentic Medical Knowledge Augmentation for Data-Efficient Medical Visual Question Answering,2025-09-26
+2509.22819,Hilbert: Recursively Building Formal Proofs with Informal Reasoning,2025-09-26
+2509.22434,"An Ontology for Unified Modeling of Tasks, Actions, Environments, and Capabilities in Personal Service Robotics",2025-09-26
+2509.25257,RANGER -- Repository-Level Agent for Graph-Enhanced Retrieval,2025-09-27
+2509.23675,PAT-Agent: Autoformalization for Model Checking,2025-09-28
+2509.23864,AgentGuard: Runtime Verification of AI Agents,2025-09-28
+2509.25299,ID-RAG: Identity Retrieval-Augmented Generation for Long-Horizon Persona Coherence in Generative Agents,2025-09-29
+2509.26383,Efficient and Transferable Agentic Knowledge Graph RAG via Reinforcement Learning,2025-09-30
+2510.01115,Exploring Network-Knowledge Graph Duality: A Case Study in Agentic Supply Chain Risk Analysis,2025-10-01
+2510.01409,OntoLogX: Ontology-Guided Knowledge Graph Extraction from Cybersecurity Logs with Large Language Models,2025-10-01
+2510.01483,Spatiotemporal Knowledge Graphs as Persistent Scene Memory for Embodied Question Answering,2025-10-01
+2510.00451,A Call to Action for a Secure-by-Design Generative AI Paradigm,2025-10-01
+2510.01293,Cyber Academia-Chemical Engineering (CA-ChemE): A Living Digital Town for Self-Directed Research Evolution and Emergent Scientific Discovery,2025-10-01
+2510.02044,Stream RAG: Instant and Accurate Spoken Dialogue Systems with Streaming Tool Usage,2025-10-02
+2510.01724,MetaboT: An LLM-based Multi-Agent Frameworkfor Interactive Analysis of Mass SpectrometryMetabolomics Knowledge Graphs,2025-10-02
+2510.05156,VeriGuard: Enhancing LLM Agent Safety via Verified Code Generation,2025-10-03
+2510.06240,Knowledge Graph-Guided Multi-Agent Distillation for Reliable Industrial Question Answering with Datasets,2025-10-03
+2510.07331,Truth-Aware Decoding: A Program-Logic Approach to Factual Language Generation,2025-10-03
+2510.05061,Automaton Constrained Q-Learning,2025-10-06
+2510.05445,AgentRouter: A Knowledge-Graph-Guided LLM Router for Collaborative Multi-Agent Question Answering,2025-10-06
+2510.06002,Deterministic Legal Agents: A Canonical Primitive API for Auditable Reasoning over Temporal Knowledge Graphs,2025-10-07
+2510.06042,Agent+P: Guiding UI Agents via Symbolic Planning,2025-10-07
+2510.05764,RareAgent: Self-Evolving Reasoning for Drug Repurposing in Rare Diseases,2025-10-07
+2510.06296,VeriEquivBench: An Equivalence Score for Ground-Truth-Free Evaluation of Formally Verifiable Code,2025-10-07
+2510.09011,TripScore: Aligning LLMs for Real-World Travel Planning via Expert-Calibrated Reward,2025-10-10
+2510.09721,A Comprehensive Survey on Benchmarks and Solutions in Software Engineering of LLM-Empowered Agentic System,2025-10-10
+2510.09720,Preference-Aware Memory Update for Long-Term LLM Agents,2025-10-10
+2510.15952,Executable Epistemology: The Structured Cognitive Loop as an Architecture of Intentional Understanding,2025-10-10
+2510.09854,NG-Router: Graph-Supervised Multi-Agent Collaboration for Nutrition Question Answering,2025-10-10
+2510.10325,KG-MAS: Knowledge Graph-Enhanced Multi-Agent Infrastructure for coupling physical and digital robotic environments,2025-10-11
+2510.15963,ESCA: Contextualizing Embodied Agents via Scene-Graph Generation,2025-10-11
+2510.11151,TypePilot: Leveraging the Scala Type System for Secure LLM-generated Code,2025-10-13
+2510.12985,SENTINEL: A Multi-Level Formal Framework for Safety Evaluation of Foundation Model-based Embodied Agents,2025-10-14
+2510.12224,MedKGEval: A Knowledge Graph-Based Multi-Turn Evaluation Framework for Open-Ended Patient Interactions with Clinical LLMs,2025-10-14
+2510.13363,D-SMART: Enhancing LLM Dialogue Consistency via Dynamic Structured Memory And Reasoning Tree,2025-10-15
+2510.14133,"Formalizing the Safety, Security, and Functional Properties of Agentic AI Systems",2025-10-15
+2510.23615,Logic-based Task Representation and Reward Shaping in Multiagent Reinforcement Learning,2025-10-16
+2510.15283,Exemplar-Guided Planing: Enhanced LLM Agent for KGQA,2025-10-17
+2510.15728,RLAF: Reinforcement Learning from Automaton Feedback,2025-10-17
+2510.16645,Unleashing Diverse Thinking Modes in LLMs through Multi-Agent Collaboration,2025-10-18
+2510.16381,ATA: A Neuro-Symbolic Approach to Implement Autonomous and Trustworthy Agents,2025-10-18
+2510.16402,Explainability Requirements as Hyperproperties,2025-10-18
+2510.17261,High-Level Multi-Robot Trajectory Planning And Spurious Behavior Detection,2025-10-20
+2510.17418,Diverse Planning with Simulators via Linear Temporal Logic,2025-10-20
+2510.17691,A Mimamsa Inspired Framework For Instruction Sequencing In AI Agents,2025-10-20
+2510.17064,BRAINCELL-AID: An Agentic AI Created Brain Cell Type Resource for Community Annotation,2025-10-20
+2510.17795,What Makes AI Research Replicable? Executable Knowledge Graphs as Scientific Knowledge Representations,2025-10-20
+2510.19429,NeSyPr: Neurosymbolic Proceduralization For Efficient Embodied Reasoning,2025-10-22
+2510.19438,AutoMT: A Multi-Agent LLM Framework for Automated Metamorphic Testing of Autonomous Driving Systems,2025-10-22
+2510.20258,Using Large Language Models for Abstraction of Planning Domains - Extended Version,2025-10-23
+2510.20345,LLM-empowered knowledge graph construction: A survey,2025-10-23
+2510.20505,RELOOP: Recursive Retrieval with Multi-Hop Reasoner and Planners for Heterogeneous QA,2025-10-23
+2510.21302,Towards Reliable Code-as-Policies: A Neuro-Symbolic Framework for Embodied Task Planning,2025-10-24
+2510.23487,"Are Agents Probabilistic Automata? A Trace-Based, Memory-Constrained Theory of Agentic AI",2025-10-27
+2510.24014,TEXT2DB: Integration-Aware Information Extraction with Large Language Model Agents,2025-10-28
+2510.25445,"Agentic AI: A Comprehensive Survey of Architectures, Applications, and Future Directions",2025-10-29
+2510.25518,Retrieval Augmented Generation (RAG) for Fintech: Agentic Design and Evaluation,2025-10-29
+2511.05540,Constructing the Umwelt: Cognitive Planning through Belief-Intent Co-Evolution,2025-10-30
+2511.07441,AudAgent: Automated Auditing of Privacy Policy Compliance in AI Agents,2025-11-03
+2511.02605,Adaptive GR(1) Specification Repair for Liveness-Preserving Shielding in Reinforcement Learning,2025-11-04
+2511.03217,"Hybrid Fact-Checking that Integrates Knowledge Graphs, Large Language Models, and Search-Based Retrieval Agents Improves Interpretable Claim Verification",2025-11-05
+2511.03179,Toward Autonomous Engineering Design: A Knowledge-Guided Multi-Agent Framework,2025-11-05
+2511.04646,DR. WELL: Dynamic Reasoning and Learning with Symbolic World Model for Embodied LLM-Based Multi-Agent Collaboration,2025-11-06
+2511.07568,Procedural Knowledge Improves Agentic LLM Workflows,2025-11-10
+2511.07587,Beyond Fact Retrieval: Episodic Memory for RAG with Generative Semantic Workspaces,2025-11-10
+2511.08181,MARC: Multimodal and Multi-Task Agentic Retrieval-Augmented Generation for Cold-Start Recommender System,2025-11-11
+2511.08274,Multi-Agent GraphRAG: A Text-to-Cypher Framework for Labeled Property Graphs,2025-11-11
+2511.09073,Good-for-MDP State Reduction for Stochastic LTL Planning,2025-11-12
+2511.09363,BarrierBench: Evaluating Large Language Models for Safety Verification in Dynamical Systems,2025-11-12
+2511.11751,Concept-RuleNet: Grounded Multi-Agent Neurosymbolic Reasoning in Vision Language Models,2025-11-13
+2511.11035,GraphMASAL: A Graph-based Multi-Agent System for Adaptive Learning,2025-11-14
+2511.11017,AI Agent-Driven Framework for Automated Product Knowledge Graph Construction in E-Commerce,2025-11-14
+2511.12208,Debate over Mixed-knowledge: A Robust Multi-Agent Reasoning Framework for Incomplete Knowledge Graph Question Answering,2025-11-15
+2511.12294,ProofWright: Towards Agentic Formal Verification of CUDA,2025-11-15
+2511.15370,The Empowerment of Science of Science by Large Language Models: New Tools and Methods,2025-11-19
+2511.17673,Bridging Symbolic Control and Neural Reasoning in LLM Agents -- The Structured Cognitive Loop,2025-11-21
+2511.17467,PersonaAgent with GraphRAG: Community-Aware Knowledge Graphs for Personalized LLM,2025-11-21
+2602.00007,PPoGA: Predictive Plan-on-Graph with Action for Knowledge Graph Question Answering,2025-11-22
+2511.18194,Agent-as-a-Graph: Knowledge Graph-Based Tool and Agent Retrieval for LLM Multi-Agent Systems,2025-11-22
+2511.18313,Path-Constrained Retrieval: A Structural Approach to Reliable LLM Agent Reasoning Through Graph-Scoped Semantic Search,2025-11-23
+2511.19780,NOEM$^{3}$A: a Neuro-symbolic Ontology-Enhanced Method for Multi-intent understanding in Mobile Agents,2025-11-24
+2602.19028,The Metaphysics We Train: A Heideggerian Reading of Machine Learning,2025-11-25
+2511.20940,Chatty-KG: A Multi-Agent AI System for On-Demand Conversational Question Answering over Knowledge Graphs,2025-11-26
+2511.21438,"Conversational No-code, Multi-agentic Disease Module Identification and Drug Repurposing Prediction with ChatDRex",2025-11-26
+2511.22572,Formal Verification of Probabilistic Multi-Agent Systems for Ballistic Rocket Flight Using Probabilistic Alternating-Time Temporal Logic,2025-11-27
+2511.23276,Auditable Context-Aware HFMD Forecasting with Structured LLM Agents,2025-11-28
+2512.00775,SAGAS: Semantic-Aware Graph-Assisted Stitching for Offline Temporal Logic Planning,2025-11-30
+2512.01878,Graph Distance as Surprise: Free Energy Minimization in Knowledge Graph Reasoning,2025-12-01
+2602.19040,Adaptive Multi-Agent Reasoning for Text-to-Video Retrieval,2025-12-02
+2512.03931,Autonomous Agents and Policy Compliance: A Framework for Reasoning About Penalties,2025-12-03
+2512.03445,Multi-Aspect Knowledge-Enhanced Medical Vision-Language Pretraining with Multi-Agent Data Generation,2025-12-03
+2512.03627,MemVerse: Multimodal Memory for Lifelong Learning Agents,2025-12-03
+2512.03639,Context-Triggered Contingency Games for Strategic Multi-Agent Interaction,2025-12-03
+2512.11835,A Monad-Based Clause Architecture for Artificial Age Score (AAS) in Large Language Models,2025-12-03
+2512.04405,Towards 6G Native-AI Edge Networks: A Semantic-Aware and Agentic Intelligence Paradigm,2025-12-04
+2512.04868,SEAL: Self-Evolving Agentic Learning for Conversational Question Answering over Knowledge Graphs,2025-12-04
+2512.04374,LangSAT: A Novel Framework Combining NLP and Reinforcement Learning for SAT Solving,2025-12-04
+2512.06046,"Beyond Prototyping: Autonomous, Enterprise-Grade Frontend Development from Pixel to Production via a Specialized Multi-Agent Framework",2025-12-05
+2512.07474,Living the Novel: A System for Generating Self-Training Timeline-Aware Conversational Agents from Novels,2025-12-08
+2512.07081,ClinNoteAgents: An LLM Multi-Agent System for Predicting and Interpreting Heart Failure 30-Day Readmission from Clinical Notes,2025-12-08
+2512.07407,Training Language Models to Use Prolog as a Tool,2025-12-08
+2512.09629,End-to-end PDDL Planning with Hardcoded and Dynamic Agents,2025-12-10
+2512.11907,Structured Personalization: Modeling Constraints as Matroids for Data-Minimal LLM Agents,2025-12-10
+2512.10441,Decoding Student Minds: Leveraging Conversational Agents for Psychological and Learning Analysis,2025-12-11
+2512.11620,Architecting Large Action Models for Human-in-the-Loop Intelligent Robots,2025-12-12
+2512.11506,EmeraldMind: A Knowledge Graph-Augmented Framework for Greenwashing Detection,2025-12-12
+2512.14744,VERAFI: Verified Agentic Financial Intelligence through Neurosymbolic Policy Generation,2025-12-12
+2512.11942,Hypergame Rationalisability: Solving Agent Misalignment In Strategic Play,2025-12-12
+2512.12686,Memoria: A Scalable Agentic Memory Framework for Personalized Conversational AI,2025-12-14
+2512.14766,GR-Agent: Adaptive Graph Reasoning Agent under Incomplete Knowledge,2025-12-16
+2601.03261,DeepResearch-Slice: Bridging the Retrieval-Utilization Gap via Explicit Text Slicing,2025-12-16
+2601.02378,Modeling the Mental World for Embodied AI: A Comprehensive Review,2025-12-17
+2512.15398,Mapis: A Knowledge-Graph Grounded Multi-Agent Framework for Evidence-Based PCOS Diagnosis,2025-12-17
+2512.18265,Intelligent Human-Machine Partnership for Manufacturing: Enhancing Warehouse Planning through Simulation-Driven Knowledge Graphs and LLM Collaboration,2025-12-20
+2512.18779,From Natural Language to Control Signals: A Conceptual Framework for Semantic Channel Finding in Complex Experimental Infrastructure,2025-12-21
+2512.20275,Graph-Symbolic Policy Enforcement and Control (G-SPEC): A Neuro-Symbolic Framework for Safe Agentic AI in 5G Autonomous Networks,2025-12-23
+2512.20136,M$^3$KG-RAG: Multi-hop Multimodal Knowledge Graph-enhanced Retrieval-Augmented Generation,2025-12-23
+2601.11560,DeepEvidence: Empowering Biomedical Discovery with Deep Knowledge Graph Research,2025-12-23
+2602.23371,Domain-Partitioned Hybrid RAG for Legal Reasoning: Toward Modular and Explainable Legal AI for India,2025-12-23
+2512.23738,Enforcing Temporal Constraints for LLM Agents,2025-12-25
+2512.22336,Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent Feedback,2025-12-26
+2512.23880,CASCADE: Cumulative Agentic Skill Creation through Autonomous Development and Evolution,2025-12-29
+2512.23132,Multi-Agent Framework for Threat Mitigation and Resilience in AI-Based Systems,2025-12-29
+2512.24796,LeanCat: A Benchmark Suite for Formal Category Theory in Lean (Part I: 1-Categories),2025-12-31
+2601.00219,"μACP: A Formal Calculus for Expressive, Resource-Constrained Agent Communication",2026-01-01
+2601.00743,An Agentic Framework for Neuro-Symbolic Programming,2026-01-02
+2601.01705,Explicit World Models for Reliable Human-Robot Collaboration,2026-01-05
+2601.01844,Clinical Knowledge Graph Construction and Evaluation with Multi-LLMs via Retrieval-Augmented Generation,2026-01-05
+2601.03624,Architecting Agentic Communities using Design Patterns,2026-01-07
+2601.04878,Higher-Order Knowledge Representations for Agentic Scientific Reasoning,2026-01-08
+2601.05539,LIDL: LLM Integration Defect Localization via Knowledge Graph-Enhanced Multi-Agent Analysis,2026-01-09
+2601.06733,Logic-Driven Semantic Communication for Resilient Multi-Agent Systems,2026-01-11
+2601.07690,On Angels and Demons: Strategic (De)Construction of Dynamic Models,2026-01-12
+2601.07964,Executable Ontologies in Game Development: From Algorithmic Control to Semantic World Modeling,2026-01-12
+2601.08196,Evaluating Implicit Regulatory Compliance in LLM Tool Invocation via Logic-Guided Synthesis,2026-01-13
+2601.10520,Breaking Up with Normatively Monolithic Agency with GRACE: A Reason-Based Neuro-Symbolic Architecture for Safe and Ethical AI Alignment,2026-01-15
+2601.12141,TIDE: A Trace-Informed Depth-First Exploration for Planning with Temporally Extended Goals,2026-01-17
+2601.11840,Imandra CodeLogician: Neuro-Symbolic Reasoning for Precise Analysis of Software Logic,2026-01-17
+2601.12580,Semantic Fusion: Verifiable Alignment in Decentralized Multi-Agent Systems,2026-01-18
+2603.06582,Agentic SPARQL: Evaluating SPARQL-MCP-powered Intelligent Agents on the Federated KGQA Benchmark,2026-01-20
+2601.13969,Autonomous Knowledge Graph Exploration with Adaptive Breadth-Depth Retrieval,2026-01-20
+2601.14427,Uma Prova de Conceito para a Verificação Formal de Contratos Inteligentes,2026-01-20
+2601.14615,SearchGym: Bootstrapping Real-World Search Agents via Cost-Effective and High-Fidelity Environment Simulation,2026-01-21
+2601.14662,Query-Efficient Agentic Graph Extraction Attacks on GraphRAG Systems,2026-01-21
+2601.15599,Autonomous Business System via Neuro-symbolic AI,2026-01-22
+2601.17755,HyperGraphPro: Progress-Aware Reinforcement Learning for Structure-Guided Hypergraph RAG,2026-01-25
+2601.18381,AI Agent for Reverse-Engineering Legacy Finite-Difference Code and Translating to Devito,2026-01-26
+2601.18747,The $\mathbf{P}$-Completeness of Inverted Index Traversal: On the Complexity of Evaluating Boolean Query DAGs,2026-01-26
+2601.20969,The Epistemic Planning Domain Definition Language: Official Guideline,2026-01-28
+2601.20975,DeepSearchQA: Bridging the Comprehensiveness Gap for Deep Research Agents,2026-01-28
+2603.29868,Spatiotemporal Robustness of Temporal Logic Tasks using Multi-Objective Reasoning,2026-01-28
+2601.21162,A2RAG: Adaptive Agentic Graph Retrieval for Cost-Aware and Reliable Reasoning,2026-01-29
+2601.21700,Toward Culturally Aligned LLMs through Ontology-Guided Multi-Agent Reasoning,2026-01-29
+2602.00325,Motion Planning with Metric Temporal Logic Using Reachability Analysis and Hybrid Zonotopes,2026-01-30
+2602.04892,Doc2Spec: Synthesizing Formal Programming Specifications from Natural Language via Grammar Induction,2026-01-30
+2601.22633,"MCP-Diag: A Deterministic, Protocol-Driven Architecture for AI-Native Network Diagnostics",2026-01-30
+2601.22997,TriCEGAR: A Trace-Driven Abstraction Mechanism for Agentic AI,2026-01-30
+2602.00675,Factored Reasoning with Inner Speech and Persistent Memory for Evidence-Grounded Human-Robot Interaction,2026-01-31
+2602.00951,R-HTN: Rebellious Online HTN Planning for Safety and Game AI,2026-02-01
+2602.01171,ASP-Bench: From Natural Language to Logic Programs,2026-02-01
+2602.02857,Latent Perspective-Taking via a Schrödinger Bridge in Influence-Augmented Local Models,2026-02-02
+2602.01995,Think Like a Doctor: Conversational Diagnosis through the Exploration of Diagnostic Knowledge Graphs,2026-02-02
+2602.03315,Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity,2026-02-03
+2602.16716,Contextual Information Allocation in Shared-State Cognitive Models: An Information-Theoretic Bound,2026-02-03
+2602.03439,Ontology-to-tools compilation for executable semantic constraint enforcement in LLM agents,2026-02-03
+2602.04129,KGLAMP: Knowledge Graph-guided Language model for Adaptive Multi-robot Planning and Replanning,2026-02-04
+2602.05048,MINT: Minimal Information Neuro-Symbolic Tree for Objective-Driven Knowledge-Gap Reasoning and Active Elicitation,2026-02-04
+2602.05004,CoWork-X: Experience-Optimized Co-Evolution for Multi-Agent Collaboration System,2026-02-04
+2602.05818,TKG-Thinker: Towards Dynamic Reasoning over Temporal Knowledge Graphs via Agentic Reinforcement Learning,2026-02-05
+2602.05636,Generative Ontology: When Structured Knowledge Learns to Create,2026-02-05
+2602.06746,Semantically Labelled Automata for Multi-Task Reinforcement Learning with LTL Instructions,2026-02-06
+2602.07491,GraphAgents: Knowledge Graph-Guided Agentic AI for Cross-Domain Materials Design,2026-02-07
+2602.07905,MedCoG: Maximizing LLM Inference Density in Medical Reasoning via Meta-Cognitive Regulation,2026-02-08
+2602.08373,Grounding Generative Planners in Verifiable Logic: A Hybrid Architecture for Trustworthy Embodied AI,2026-02-09
+2602.08543,GISA: A Benchmark for General Information-Seeking Assistant,2026-02-09
+2602.08400,SCOUT-RAG: Scalable and Cost-Efficient Unifying Traversal for Agentic Graph-RAG over Distributed Domains,2026-02-09
+2602.09163,FlyAOC: Evaluating Agentic Ontology Curation of Drosophila Scientific Knowledge Bases,2026-02-09
+2602.13319,Situation Graph Prediction for User Perspective Modeling,2026-02-10
+2602.10480,Neuro-Symbolic Synergy for World Modeling,2026-02-11
+2604.20848,MATRAG: Multi-Agent Transparent Retrieval-Augmented Generation for Explainable Recommendations,2026-02-11
+2602.11136,FormalJudge: A Neuro-Symbolic Paradigm for Agentic Oversight,2026-02-11
+2602.11666,PhyNiKCE: A Neurosymbolic Agentic Framework for Autonomous Computational Fluid Dynamics,2026-02-12
+2602.11886,LLM-based Triplet Extraction from Financial Reports,2026-02-12
+2602.12083,"Differentiable Modal Logic for Multi-Agent Diagnosis, Orchestration and Communication",2026-02-12
+2602.13405,Verification of Robust Multi-Agent Systems,2026-02-13
+2602.13594,Hippocampus: An Efficient and Scalable Memory Module for Agentic AI,2026-02-14
+2602.18494,On the Dynamics of Observation and Semantics,2026-02-14
+2602.13791,MechPert: Mechanistic Consensus as an Inductive Bias for Unseen Perturbation Prediction,2026-02-14
+2602.13800,Ontological grounding for sound and natural robot explanations via large language models,2026-02-14
+2602.13808,An end-to-end agentic pipeline for smart contract translation and quality evaluation,2026-02-14
+2602.14225,Text Before Vision: Staged Knowledge Injection Matters for Agentic RLVR in Ultra-High-Resolution Remote Sensing Understanding,2026-02-15
+2602.14322,Conformal Signal Temporal Logic for Robust Reinforcement Learning Control: A Case Study,2026-02-15
+2602.14344,Zero-Shot Instruction Following in RL via Structured LTL Representations,2026-02-15
+2603.02240,SuperLocalMemory: Privacy-Preserving Multi-Agent Memory with Bayesian Trust Defense Against Memory Poisoning,2026-02-17
+2602.16708,Formal Policy Enforcement for Real-World Agentic Systems,2026-02-18
+2602.17434,Multi-Agent Temporal Logic Planning via Penalty Functions and Block-Coordinate Optimization,2026-02-19
+2602.17999,Aurora: Neuro-Symbolic AI Driven Advising Agent,2026-02-20
+2602.18916,Adaptive Collaboration of Arena-Based Argumentative LLMs for Explainable and Contestable Legal Reasoning,2026-02-21
+2602.19948,Assessing Risks of Large Language Models in Mental Health Support: A Framework for Automated Clinical AI Red Teaming,2026-02-23
+2604.20855,Caesar: Deep Agentic Web Exploration for Creative Answer Synthesis,2026-02-24
+2602.21670,Hierarchical LLM-Based Multi-Agent Framework with Prompt Optimization for Multi-Robot Task Planning,2026-02-25
+2603.04448,"SkillNet: Create, Evaluate, and Connect AI Skills",2026-02-26
+2602.22923,WaterVideoQA: ASV-Centric Perception and Rule-Compliant Reasoning via Multi-Modal Agents,2026-02-26
+2602.23005,Managing Uncertainty in LLM-based Multi-Agent System Operation,2026-02-26
+2602.23997,"Foundation World Models for Agents that Learn, Verify, and Adapt Reliably Beyond Static Environments",2026-02-27
+2602.23647,SGAgent: Suggestion-Guided LLM-Based Multi-Agent Framework for Repository-Level Software Repair,2026-02-27
+2602.23937,Enhancing Vision-Language Navigation with Multimodal Event Knowledge from Real-World Indoor Tour Videos,2026-02-27
+2603.00267,"Multi-Sourced, Multi-Agent Evidence Retrieval for Fact-Checking",2026-02-27
+2603.00612,From Literature to Hypotheses: An AI Co-Scientist System for Biomarker-Guided Drug Combination Hypothesis Generation,2026-02-28
+2603.02274,Contextual Invertible World Models: A Neuro-Symbolic Agentic Framework for Colorectal Cancer Drug Response,2026-03-01
+2603.01410,GraphScout: Empowering Large Language Models with Intrinsic Exploration Ability for Agentic Graph Reasoning,2026-03-02
+2603.15642,CraniMem: Cranial Inspired Gated and Bounded Memory for Agentic Systems,2026-03-03
+2603.03175,Saarthi for AGI: Towards Domain-Specific General Intelligence for Formal Verification,2026-03-03
+2603.03686,AI4S-SDS: A Neuro-Symbolic Solvent Design System via Sparse MCTS and Differentiable Physics Alignment,2026-03-04
+2603.03911,From Threat Intelligence to Firewall Rules: Semantic Relations in Hybrid AI Agent and Expert System Architectures,2026-03-04
+2603.04390,A Dual-Helix Governance Approach Towards Reliable Agentic Artificial Intelligence for WebGIS Development,2026-03-04
+2603.04663,Neuro-Symbolic Financial Reasoning via Deterministic Fact Ledgers and Adversarial Low-Latency Hallucination Detector,2026-03-04
+2603.04740,Memory as Ontology: A Constitutional Memory Architecture for Persistent Digital Citizens,2026-03-05
+2603.04815,EchoGuard: An Agentic Framework with Knowledge-Graph Memory for Detecting Manipulative Communication in Longitudinal Dialogue,2026-03-05
+2603.05129,MedCoRAG: Interpretable Hepatology Diagnosis via Hybrid Evidence Retrieval and Multispecialty Consensus,2026-03-05
+2603.04735,Solving an Open Problem in Theoretical Physics using AI-Assisted Discovery,2026-03-05
+2603.13333,STL-SVPIO: Signal Temporal Logic guided Stein Variational Path Integral Optimization,2026-03-06
+2603.06064,Agentic LLM Planning via Step-Wise PDDL Simulation: An Empirical Characterisation,2026-03-06
+2603.06565,Boosting deep Reinforcement Learning using pretraining with Logical Options,2026-03-06
+2603.06290,The EpisTwin: A Knowledge Graph-Grounded Neuro-Symbolic Architecture for Personal AI,2026-03-06
+2603.07546,COOL-MC: Verifying and Explaining RL Policies for Multi-bridge Network Maintenance,2026-03-08
+2603.08599,Bilevel Planning with Learned Symbolic Abstractions from Interaction Data,2026-03-09
+2603.08814,Scale-Plan: Scalable Language-Enabled Task Planning for Heterogeneous Multi-Robot Teams,2026-03-09
+2603.07896,SMGI: A Structural Theory of General Artificial Intelligence,2026-03-09
+2603.08938,AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem,2026-03-09
+2603.09152,DataFactory: Collaborative Multi-Agent Framework for Advanced Table Question Answering,2026-03-10
+2603.09758,Beyond Fine-Tuning: Robust Food Entity Linking under Ontology Drift with FoodOntoRAG,2026-03-10
+2604.08552,Automated Standardization of Legacy Biomedical Metadata Using an Ontology-Constrained LLM Agent,2026-03-10
+2603.11351,Novelty Adaptation Through Hybrid Large Language Model (LLM)-Symbolic Planning and LLM-guided Reinforcement Learning,2026-03-11
+2603.10700,Structured Linked Data as a Memory Layer for Agent-Orchestrated Retrieval,2026-03-11
+2603.11093,A Survey of Reasoning in Autonomous Driving Systems: Open Challenges and Emerging Paradigms,2026-03-11
+2603.10940,STADA: Specification-based Testing for Autonomous Driving Agents,2026-03-11
+2604.16331,BrainMem: Brain-Inspired Evolving Memory for Embodied Agent Task Planning,2026-03-12
+2603.14147,An Alternative Trajectory for Generative AI,2026-03-14
+2603.14248,Why Do LLM-based Web Agents Fail? A Hierarchical Planning Perspective,2026-03-15
+2603.14597,D-MEM: Dopamine-Gated Agentic Memory via Reward Prediction Error Routing,2026-03-15
+2603.14805,Knowledge Activation: AI Skills as the Institutional Knowledge Primitive for Agentic Software Development,2026-03-16
+2603.15280,Advancing Multimodal Agent Reasoning with Long-Term Neuro-Symbolic Memory,2026-03-16
+2603.15080,"Open Biomedical Knowledge Graphs at Scale: Construction, Federation, and AI Agent Access with Samyama Graph Database",2026-03-16
+2603.15375,Formalizing and validating properties in Asmeta with Large Language Models (Extended Abstract),2026-03-16
+2603.17150,Intent Formalization: A Grand Challenge for Reliable Coding in the Age of AI Agents,2026-03-17
+2603.18633,An Onto-Relational-Sophic Framework for Governing Synthetic Minds,2026-03-19
+2603.18829,Agent Control Protocol: Admission Control for Agent Actions,2026-03-19
+2603.26730,Why Cognitive Robotics Matters: Lessons from OntoAgent and LLM Deployment in HARMONIC for Safety-Critical Robot Teaming,2026-03-20
+2603.20449,Solver-Aided Verification of Policy Compliance in Tool-Augmented LLM Agents,2026-03-20
+2603.20017,RouterKGQA: Specialized--General Model Routing for Constraint-Aware Knowledge Graph Question Answering,2026-03-20
+2603.20670,Towards Intelligent Geospatial Data Discovery: a knowledge graph-driven multi-agent framework powered by large language models,2026-03-21
+2603.21029,KLDrive: Fine-Grained 3D Scene Reasoning for Autonomous Driving based on Knowledge Graph,2026-03-22
+2603.21430,DomAgent: Leveraging Knowledge Graphs and Case-Based Reasoning for Domain-Specific Code Generation,2026-03-22
+2603.21149,Emergent Formal Verification: How an Autonomous AI Ecosystem Independently Discovered SMT-Based Safety Across Six Domains,2026-03-22
+2603.21427,Dynasto: Validity-Aware Dynamic-Static Parameter Optimization for Autonomous Driving Testing,2026-03-22
+2603.22528,GraphRAG for Engineering Diagrams: ChatP&ID Enables LLM Interaction with P&IDs,2026-03-23
+2604.14165,EviSearch: A Human in the Loop System for Extracting and Auditing Clinical Evidence for Systematic Reviews,2026-03-23
+2603.23113,Fault-Tolerant Design and Multi-Objective Model Checking for Real-Time Deep Reinforcement Learning Systems,2026-03-24
+2603.23909,DUPLEX: Agentic Dual-System Planning via LLM-Driven Information Extraction,2026-03-25
+2603.24402,AI-Supervisor: Autonomous AI Research Supervision via a Persistent Research World Model,2026-03-25
+2603.23840,VehicleMemBench: An Executable Benchmark for Multi-User Long-Term Memory in In-Vehicle Agents,2026-03-25
+2603.24747,Formal Semantics for Agentic Tool Protocols: A Process Calculus Approach,2026-03-25
+2603.24925,GraphER: An Efficient Graph-Based Enrichment and Reranking Method for Retrieval-Augmented Generation,2026-03-26
+2603.25097,ElephantBroker: A Knowledge-Grounded Cognitive Runtime for Trustworthy AI Agents,2026-03-26
+2603.25768,UCAgent: An End-to-End Agent for Block-Level Functional Verification,2026-03-26
+2603.26270,Knowdit: Agentic Smart Contract Vulnerability Detection with Auditing Knowledge Summarization,2026-03-27
+2603.27277,Codebase-Memory: Tree-Sitter-Based Knowledge Graphs for LLM Code Exploration via MCP,2026-03-28
+2603.27910,GAAMA: Graph Augmented Associative Memory for Agents,2026-03-29
+2603.28533,GraphWalker: Agentic Knowledge Graph Question Answering via Synthetic Trajectory Curriculum,2026-03-30
+2603.28952,World2Rules: A Neuro-Symbolic Framework for Learning World-Governing Safety Rules for Aviation,2026-03-30
+2603.29093,APEX-EM: Non-Parametric Online Learning for Autonomous Agents via Structured Procedural-Episodic Experience Replay,2026-03-31
+2603.29755,CausalPulse: An Industrial-Grade Neurosymbolic Multi-Agent Copilot for Causal Diagnostics in Smart Manufacturing,2026-03-31
+2603.29088,WybeCoder: Verified Imperative Code Generation,2026-03-31
+2604.01359,Semantic Modeling for World-Centered Architectures,2026-04-01
+2604.00555,Ontology-Constrained Neural Reasoning in Enterprise Agentic Systems: A Neurosymbolic Architecture for Domain-Grounded AI Agents,2026-04-01
+2604.01483,Type-Checked Compliance: Deterministic Guardrails for Agentic Financial Systems Using Lean 4 Theorem Proving,2026-04-01
+2604.02226,When to ASK: Uncertainty-Gated Language Assistance for Reinforcement Learning,2026-04-02
+2604.01599,ByteRover: Agent-Native Memory Through LLM-Curated Hierarchical Context,2026-04-02
+2604.01610,GraphWalk: Enabling Reasoning in Large Language Models through Tool-Based Graph Navigation,2026-04-02
+2604.02522,Opal: Private Memory for Personal AI,2026-04-02
+2604.02734,Aligning Progress and Feasibility: A Neuro-Symbolic Dual Memory Framework for Long-Horizon LLM Agents,2026-04-03
+2604.03789,Automated Conjecture Resolution with Formal Verification,2026-04-04
+2604.03588,Rashomon Memory: Towards Argumentation-Driven Retrieval for Multi-Perspective Agent Memory,2026-04-04
+2604.03656,Beyond Retrieval: Modeling Confidence Decay and Deterministic Agentic Platforms in Generative Engine Optimization,2026-04-04
+2604.04190,Schema-Aware Planning and Hybrid Knowledge Toolset for Reliable Knowledge Graph Triple Verification,2026-04-05
+2604.04225,Learning from Imperfect Demonstrations via Temporal Behavior Tree-Guided Trajectory Repair,2026-04-05
+2604.06170,Paper Circle: An Open-source Multi-agent Research Discovery and Analysis Framework,2026-04-07
+2604.05483,Can We Trust a Black-box LLM? LLM Untrustworthy Boundary Detection via Bias-Diffusion and Multi-Agent Reinforcement Learning,2026-04-07
+2607.15280,GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis,2026-04-08
+2604.07341,ReCodeAgent: A Multi-agent Workflow for Language-Agnostic Translation and Validation of Large-Scale Repositories,2026-04-08
+2605.27377,Enhancing LLM Medical Coding with Structured External Knowledge,2026-04-09
+2607.14093,Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue,2026-04-09
+2604.09251,"DRBENCHER: Can Your Agent Identify the Entity, Retrieve Its Properties and Do the Math?",2026-04-10
+2604.09155,CORA: Conformal Risk-Controlled Agents for Safeguarded Mobile GUI Automation,2026-04-10
+2604.11307,PaperScope: A Multi-Modal Multi-Document Benchmark for Agentic Deep Research Across Massive Scientific Papers,2026-04-13
+2604.11419,Beyond RAG for Cyber Threat Intelligence: A Systematic Evaluation of Graph-Based and Agentic Retrieval,2026-04-13
+2604.11544,Time is Not a Label: Continuous Phase Rotation for Temporal Knowledge Graphs and Agentic Memory,2026-04-13
+2604.11623,Context Kubernetes: Declarative Orchestration of Enterprise Knowledge for Agentic AI Systems,2026-04-13
+2604.12867,QuarkMedSearch: A Long-Horizon Deep Search Agent for Exploring Medical Intelligence,2026-04-14
+2604.12179,AgenticAI-DialogGen: Topic-Guided Conversation Generation for Fine-Tuning and Evaluating Short- and Long-Term Memories of LLMs,2026-04-14
+2604.14220,Knowledge Graph RAG: Agentic Crawling and Graph Construction in Enterprise Documents,2026-04-14
+2604.12177,Policy-Invisible Violations in LLM-Based Agents,2026-04-14
+2604.12955,Text2Model: Modeling Copilots for Text-to-Model Translation,2026-04-14
+2604.13242,On the Creativity of AI Agents,2026-04-14
+2604.13551,Debate to Align: Reliable Entity Alignment through Two-Stage Multi-Agent Debate,2026-04-15
+2605.18770,Agentic Graph Retrieval-Augmented Generation for Auditable Commercial Registry Analysis,2026-04-15
+2604.14362,APEX-MEM: Agentic Semi-Structured Memory with Temporal Reasoning for Long-Term Conversational AI,2026-04-15
+2604.13849,MCPThreatHive: Automated Threat Intelligence for Model Context Protocol Ecosystems,2026-04-15
+2604.18616,Ave: Guiding Agentic GPU Optimization Using Data-Flow Invariants,2026-04-16
+2604.14550,VeriGraphi: A Multi-Agent Framework of Hierarchical RTL Generation for Large Hardware Designs,2026-04-16
+2605.16297,Task-Level AI Readiness Assessment for Business Process Management:The T-IPO Model and LARA Matrix in Financial-Services IT Operations,2026-04-16
+2604.15951,"Integrating Graphs, Large Language Models, and Agents: Reasoning and Retrieval",2026-04-17
+2604.17142,Logic-Based Verification of Task Allocation for LLM-Enabled Multi-Agent Manufacturing Systems,2026-04-18
+2604.16950,AutoPKG: An Automated Framework for Dynamic E-commerce Product-Attribute Knowledge Graph Construction,2026-04-18
+2604.16871,GRAIL: Autonomous Concept Grounding for Neuro-Symbolic Reinforcement Learning,2026-04-18
+2604.17340,Neuro-Symbolic Resolution of Recommendation Conflicts in Multimorbidity Clinical Guidelines,2026-04-19
+2608.04011,Towards a New Grammar of Reasoning for Artificial Legal Intelligence and the Mecelle as Its Semantic Protocol,2026-04-20
+2604.18478,WorldDB: A Vector Graph-of-Worlds Memory Engine with Ontology-Aware Write-Time Reconciliation,2026-04-20
+2604.18652,From Craft to Kernel: A Governance-First Execution Architecture and Semantic ISA for Agentic Computers,2026-04-20
+2604.18228,Towards an Agentic LLM-based Approach to Requirement Formalization from Unstructured Specifications,2026-04-20
+2604.20795,"Automatic Ontology Construction Using LLMs as an External Layer of Memory, Verification, and Planning for Hybrid Intelligent Systems",2026-04-22
+2604.20136,IMPACT-CYCLE: A Contract-Based Multi-Agent System for Claim-Level Supervisory Correction of Long-Video Semantic Memory,2026-04-22
+2604.20598,"Self-Aware Vector Embeddings for Retrieval-Augmented Generation: A Neuroscience-Inspired Framework for Temporal, Confidence-Weighted, and Relational Knowledge",2026-04-22
+2604.22085,Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents,2026-04-23
+2604.21688,A-IC3: Learning-Guided Adaptive Inductive Generalization for Hardware Model Checking,2026-04-23
+2604.22256,A Probabilistic Framework for Hierarchical Goal Recognition,2026-04-24
+2604.23090,Towards Automated Ontology Generation from Unstructured Text: A Multi-Agent LLM Approach,2026-04-25
+2604.23100,From Language to Logic: Bridging LLMs & Formal Representations for RTL Assertion Generation,2026-04-25
+2604.23646,Structural Enforcement of Goal Integrity in AI Agents via Separation-of-Powers Architecture,2026-04-26
+2604.23802,EndoGov: A knowledge-governed multi-agent expert system for endometrial cancer risk stratification,2026-04-26
+2604.23970,LLM-Guided Agentic Floor Plan Parsing for Accessible Indoor Navigation of Blind and Low-Vision People,2026-04-27
+2604.24807,From Prototype to Classroom: An Intelligent Tutoring System for Quantum Education,2026-04-27
+2606.20571,Less is More: Lightweight Prompt Compression for Question Answering Applications on Edge Devices,2026-04-27
+2605.00034,Symbolic Execution Meets Multi-LLM Orchestration: Detecting Memory Vulnerabilities in Incomplete Rust CVE Snippets,2026-04-28
+2604.26522,AGEL-Comp: A Neuro-Symbolic Framework for Compositional Generalization in Interactive Agents,2026-04-29
+2604.27269,Unifying biomedical knowledge in a modern multimodal graph,2026-04-29
+2604.27699,Bridging Values and Behavior: A Hierarchical Framework for Proactive Embodied Agents,2026-04-30
+2604.27713,Knowledge Graph Representations for LLM-Based Policy Compliance Reasoning,2026-04-30
+2604.27820,ObjectGraph: From Document Injection to Knowledge Traversal -- A Native File Format for the Agentic Era,2026-04-30
+2605.00073,AgentReputation: A Decentralized Agentic AI Reputation Framework,2026-04-30
+2605.00943,ARIS: Agentic and Relationship Intelligence System for Social Robots,2026-05-01
+2605.01293,Lifting Traces to Logic: Programmatic Skill Induction with Neuro-Symbolic Learning for Long-Horizon Agentic Tasks,2026-05-02
+2605.01209,ClarifySTL: An Interactive LLM Agent Framework for STL Transformation through Requirements Clarification,2026-05-02
+2605.01489,SciResearcher: Scaling Deep Research Agents for Frontier Scientific Reasoning,2026-05-02
+2605.01562,Neuro-Symbolic Agents for Hallucination-Free Requirements Reuse,2026-05-02
+2605.16309,ANNEAL: Adapting LLM Agents via Governed Symbolic Patch Learning,2026-05-04
+2605.02868,EvoPoC: Automated Exploit Synthesis for DeFi Smart Contracts via Hierarchical Knowledge Graphs,2026-05-04
+2605.03476,CuraView: A Multi-Agent Framework for Medical Hallucination Detection with GraphRAG-Enhanced Knowledge Verification,2026-05-05
+2605.04003,"Physics-Grounded Multi-Agent Architecture for Traceable, Risk-Aware Human-AI Decision Support in Manufacturing",2026-05-05
+2605.05258,"PARNESS: A Paper Harness for End-to-End Automated Scientific Research with Dynamic Workflows, Full-Text Indexing, and Cross-Run Knowledge Accumulation",2026-05-06
+2605.06334,MANTRA: Synthesizing SMT-Validated Compliance Benchmarks for Tool-Using LLM Agents,2026-05-07
+2605.06434,"Knowledge Graphs, the Missing Link in Agentic AI-based Formal Verification",2026-05-07
+2606.00050,Grokers: Bottom-Up Inductive Comprehension and Write-Time Intelligence over Typed Knowledge Graphs,2026-05-07
+2605.05702,Knowledge-Graph Paths as Intermediate Supervision for Self-Evolving Search Agents,2026-05-07
+2605.05828,From Chat to Interview: Agentic Requirements Elicitation with an Experience Ontology,2026-05-07
+2605.07066,2.5-D Decomposition for LLM-Based Spatial Construction,2026-05-08
+2605.08538,Human-Inspired Memory Architecture for LLM Agents,2026-05-08
+2605.07737,Securing the Dark Matter: A Semantic-Enhanced Neuro-Symbolic Framework for Supply Chain Analysis of Opaque Industrial Software,2026-05-08
+2605.07782,CktFormalizer: Autoformalization of Natural Language into Circuit Representations,2026-05-08
+2605.09045,Containment Verification: AI Safety Guarantees Independent of Alignment,2026-05-09
+2605.10064,MAGE: Multi-Agent Self-Evolution with Co-Evolutionary Knowledge Graphs,2026-05-11
+2605.10488,DeepRefine: Agentic Knowledge Refinement via Reinforcement Learning,2026-05-11
+2605.10529,PrimeKG-CL: A Continual Graph Learning Benchmark on Evolving Biomedical Knowledge Graphs,2026-05-11
+2605.10039,Instruction Adherence in Coding Agent Configuration Files: A Factorial Study of Four File-Structure Variables,2026-05-11
+2605.10447,Statistical Model Checking of the Keynes+Schumpeter Model: A Transient Sensitivity Analysis of a Macroeconomic ABM,2026-05-11
+2605.11234,The Semantic Training Gap: Ontology-Grounded Tool Architectures for Industrial AI Agent Systems,2026-05-11
+2605.11259,Template-as-Ontology: Configurable Synthetic Data Infrastructure for Cross-Domain Manufacturing AI Validation,2026-05-11
+2605.11534,PRISM: : Planning and Reasoning with Intent in Simulated Embodied Environments,2026-05-12
+2605.12581,Ensuring Logic in the Fog: Sound POMDP Synthesis with LTL Objectives,2026-05-12
+2605.12294,Executable Agentic Memory for GUI Agent,2026-05-12
+2605.14665,Falkor-IRAC: Graph-Constrained Generation for Verified Legal Reasoning in Indian Judicial AI,2026-05-14
+2605.15109,Why Neighborhoods Matter: Traversal Context and Provenance in Agentic GraphRAG,2026-05-14
+2605.15963,PAGER: Bridging the Semantic-Execution Gap in Point-Precise Geometric GUI Control,2026-05-15
+2605.16598,GRASP: Graph Agentic Search over Propositions for Multi-hop Question Answering,2026-05-15
+2605.15701,H-Mem: A Novel Memory Mechanism for Evolving and Retrieving Agent Memory via a Hybrid Structure,2026-05-15
+2605.16714,GRID: Graph Representation of Intelligence Data for Security Text Knowledge Graph Construction,2026-05-15
+2605.16198,"Formal Methods Meet LLMs: Auditing, Monitoring, and Intervention for Compliance of Advanced AI Systems",2026-05-15
+2605.17072,RAGA: Reading-And-Graph-building-Agent for Autonomous Knowledge Graph Construction and Retrieval-Augmented Generation,2026-05-16
+2605.17596,"NeuSymMS: A Hybrid Neuro-Symbolic Memory System for Persistent, Self-Curating LLM Agents",2026-05-17
+2605.19186,Discoverable Agent Knowledge -- A Formal Framework for Agentic KG Affordances (Extended Version),2026-05-18
+2605.18918,"ESLD (External Surrogate Latent Defense): A Latent-Space Architecture for Faster, Stronger Prompt-Injection Defense",2026-05-18
+2605.17909,Ethical Hyper-Velocity (EHV): A Hardware-Rooted Zero-Trust Runtime Enforcement Architecture for Agentic AI Systems,2026-05-18
+2605.18025,TeleCom-Bench: How Far Are Large Language Models from Industrial Telecommunication Applications?,2026-05-18
+2605.19038,Guiding Neuro-Symbolic Scenario Generation with Spatio-Temporal Logic,2026-05-18
+2605.19180,Supporting System Testing with a Multi-Agent LLM-based Framework for Knowledge Graph Extraction: A Case Study with Ethernet Switch Systems,2026-05-18
+2605.20312,Pramana: A Protocol-Layer Treatment of Claim Verification in Autonomous Agent Networks,2026-05-19
+2605.24018,EvoSci: A Bio-Inspired Multi-Agent Framework for the Evolution of Scientific Discovery,2026-05-20
+2605.21434,Agentic Model Checking,2026-05-20
+2605.22142,Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability,2026-05-21
+2605.22734,ChronoMedKG: A Temporally-Grounded Biomedical Knowledge Graph and Benchmark for Clinical Reasoning,2026-05-21
+2605.23887,CHRONOS: Temporally-Aware Multi-Agent Coordination for Evolving Data Marketplaces,2026-05-22
+2605.23109,Inductive Deductive Synthesis: Enabling AI to Generate Formally Verified Systems,2026-05-22
+2605.26256,Personalizing Embodied Multimodal Large Language Model Agents over Long-term User Interactions,2026-05-25
+2605.26169,"ESBMC: A Survey of Its Evolution, Integration, and Future Directions in Formal Software Verification",2026-05-25
+2605.25489,"ATWL: A Formal Language for Representing, Comparing, and Reusing Visual Analytics Workflows",2026-05-25
+2605.26835,Helicase: Uncertainty-Guided Supply Chain Knowledge Graph Construction with Autonomous Multi-Agent LLMs,2026-05-26
+2605.26874,Knowledge Graphs as the Missing Data Layer for LLM-Based Industrial Asset Operations,2026-05-26
+2605.27071,Traceable Knowledge Graph Reasoning Enables LLM-Assisted Decision Support for Industrial VOCs in the Steel Industry,2026-05-26
+2605.26457,Verus-SpecGym: An Agentic Environment for Evaluating Specification Autoformalization,2026-05-26
+2605.27014,ReasonOps: A Unified Operational Paradigm for Trustworthy Verified LLM Reasoning,2026-05-26
+2605.27485,Automating Formal Verification with Agent-Guided Tree Search,2026-05-26
+2605.27864,FundaPod: A Multi-Persona Agent Pod Architecture with Knowledge Graph Memory for AI-Assisted Fundamental Investment Research,2026-05-27
+2605.28666,An LLM-Based Assistance System for Intuitive and Flexible Capability-Based Planning,2026-05-27
+2605.28120,LegalGraphRAG: Multi-Agent Graph Retrieval-Augmented Generation for Reliable Legal Reasoning,2026-05-27
+2605.28224,When Does Memory Help Multi-Trajectory Inference for Tool-Use LLM Agents?,2026-05-27
+2605.28097,ICAN-Deploy: Identity-Stable Canary Deployment for Safety-Critical Embodied Agents,2026-05-27
+2605.29534,UI-KOBE: Knowledge-Oriented Behavior Exploration for Lightweight Graph-Guided GUI Agents,2026-05-28
+2605.30144,AgentSchool: An LLM-Powered Multi-Agent Simulation for Education,2026-05-28
+2605.29675,From Prompts to Context: An Ontology-Driven Framework for Human-Generative AI Collaboration,2026-05-28
+2605.30169,Dissociative Identity: Language Model Agents Lack Grounding for Reputation Mechanisms,2026-05-28
+2605.29251,Provably Secure Agent Guardrail,2026-05-28
+2605.31370,HypoAgent: An Agentic Framework for Interactive Abductive Hypothesis Generation over Knowledge Graphs,2026-05-29
+2606.00270,Robust Shielding for Safe Reinforcement Learning,2026-05-29
+2606.00610,MemGraphRAG: Memory-based Multi-Agent System for Graph Retrieval-Augmented Generation,2026-05-30
+2606.01008,FVSpec: Real-World Property-Based Tests as Lean Challenges,2026-05-31
+2606.01613,TechRAG: Evidence-Gated Multimodal Agentic RAG for Technical Literature Reasoning,2026-06-01
+2607.19359,Profile-Graph Memory for LLM Agents: Implicit Cross-Entity Traversal through Narrative Profiles,2026-06-01
+2607.22571,SCAIR: Schema-Conditioned Agentic Iterative Reasoning for Enterprise Knowledge Graphs,2026-06-02
+2606.04037,Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification,2026-06-02
+2606.03374,eMEM: A Hybrid Spatio-Temporal Memory System For Embodied Agents,2026-06-02
+2606.03867,A Training-Free Mixture-of-Agents Framework for Multi-Document Summarization using LLMs and Knowledge Graphs,2026-06-02
+2606.04645,CYGNET: Cypher Gate for Neural Execution Triage and Cost Containment,2026-06-03
+2606.05395,VASO: Formally Verifiable Self-Evolving Skills for Physical AI Agents,2026-06-03
+2606.05275,Personal AI Agent for Camera Roll VQA,2026-06-03
+2606.05415,Executable Schema Contracts: From Automatic Ingestion to Multi-Source Retrieval,2026-06-03
+2606.04903,Provably Auditable and Safe LLM Agents from Human-Authored Ontologies,2026-06-03
+2606.06337,TokenMizer: Graph-Structured Session Memory for Long-Horizon LLM Context Management,2026-06-04
+2606.09900,"Less Context, More Accuracy: A Bi-Temporal Memory Engine for LLM Agents Where a Lean Retrieved Context Beats the Full History",2026-06-05
+2606.06823,PandaAI: A Practical Agent CQ2 for Neuro-symbolic Data Analysis And Integrated Decision-Making in Quantitative Finance,2026-06-05
+2606.08214,Agentic Neuro-Symbolic Planning and Commissioning for Human-in-the-Loop Industrial Robotics with Digital Twins,2026-06-06
+2606.08256,"Traxia: A Framework for Verifiable, Agent-Native Scientific Publishing",2026-06-06
+2606.14766,XMedFusion: A Knowledge-Guided Multimodal Perception and Reasoning Framework for Autonomous Medical Systems,2026-06-08
+2606.13706,"HierSVA: A Data Synthesis Pipeline, Dataset, and Benchmark for LLM-Driven Hierarchical Hardware Formal Verification",2026-06-09
+2606.11560,"LLMs+Graphs: Toward Graph-Native, Synergistic AI Systems",2026-06-10
+2607.22591,Lexical discovery in unknown environments orchestrated by Large Language Models,2026-06-10
+2606.11686,"Layer-Isolated Evaluation: Gating the Deterministic Scaffold of a Production LLM Agent with a No-LLM, Regression-Locked Test Harness",2026-06-10
+2606.12065,Automating Geometry-Intensive Compliance Checking in BIM: Graph-Based Semantic Reasoning Framework,2026-06-10
+2606.13669,Agents-K1: Towards Agent-native Knowledge Orchestration,2026-06-11
+2606.14805,Knowledge-Based Zero-Replay Debugging of Multi-Agent LLM Traces,2026-06-11
+2606.13405,Neuro-Symbolic Agents for Regulated Process Automation: Challenges and Research Agenda,2026-06-11
+2606.14130,Contract-Based Compositional Shielding for Safe Multi-Agent Reinforcement Learning,2026-06-12
+2606.15251,"Driving, Fast or Slow? Neuro-Symbolic Guidance for Motion Prediction in Multi-Modal Ground Mobility",2026-06-13
+2606.15931,DeepRoot: A KG-Coordinated Multi-Agent System for Therapeutic Reasoning over Historical Medical Texts,2026-06-14
+2606.15971,SAG: SQL-Retrieval Augmented Generation with Query-Time Dynamic Hyperedges,2026-06-14
+2606.15797,Unassigned Agents in Compilation-based Multi-agent Path Finding,2026-06-14
+2606.16458,RHO: Your Coding Agent is Secretly a Roboticist,2026-06-15
+2606.16707,User as Code: Executable Memory for Personalized Agents,2026-06-15
+2606.17203,Trust-Aware Multi-Agent Traceability: Confidence-Calibrated Knowledge Graphs for Consistent Software Artifact Management,2026-06-15
+2607.20498,AISE-Bench: A Full-Cycle Curated Benchmark for Information Seeking on Academic Knowledge Graphs,2026-06-16
+2606.18325,Agentra: A Supervisable Multi-Agent Framework for Enterprise Intrusion Response,2026-06-16
+2606.18068,Agentic AI-based Framework for Mitigating Premature Diagnostic Handoff and Silent Hallucination in Healthcare Applications,2026-06-16
+2606.19464,Deontic Policies for Runtime Governance of Agentic AI Systems,2026-06-17
+2606.19632,Formal Verification of Learned Multi-Agent Communication Policies via Decision Tree Distillation,2026-06-17
+2606.19821,TelcoAgent: A Scalable 5G Multi-KPM Forecasting With 3GPP-Grounded Explainability,2026-06-18
+2606.21740,Training the Orchestrator: A Supervised Approach to End-to-End PDDL Planning with LLM Agents,2026-06-19
+2606.21124,PulseCX: Breaking the Closed-World Assumption in Real-Time CX,2026-06-19
+2606.21151,Context-Aware Generative AI for Automated Telecom Test Script Generation,2026-06-19
+2606.21595,Per-Entity Bias Mapping for AI Visibility: Why Brand Mentions Require Entity-Specific Calibration,2026-06-19
+2606.21832,AgentCAT: Simulating Computerized Adaptive Testing via Multi-Agent Large Language Models,2026-06-20
+2606.22485,VADAOrchestra: Neurosymbolic Orchestration of Adaptive Reasoning Workflows,2026-06-21
+2606.22419,Knowledge-Graph Grounding Helps LLMs Only for Out-of-Training Knowledge: A Controlled Study on Clinical Question Answering,2026-06-21
+2606.22692,VISTA Architect: A graph database-oriented health AI system demonstrated in multidisciplinary tumor boards,2026-06-21
+2606.23866,Complex Autonomous UAV Task Execution and Decision-Making With s(CASP),2026-06-22
+2606.23075,"Safety in Self-Evolving LLM Agent Systems: Threats, Amplification, and Case Studies",2026-06-22
+2606.23768,Cryptographic certificates of validity for trustworthy AI,2026-06-22
+2606.24779,DeepBD: A Grounded Agentic Workflow for Variant Prioritization and Diagnosis of Genetic Birth Defects,2026-06-23
+2606.25656,Is GraphRAG Needed? From Basic RAG to Graph-/Agentic Solutions with Context Optimization,2026-06-24
+2606.26057,The Unfireable Safety Kernel: Execution-Time AI Alignment for AI Agents and Other Escapable AI Systems,2026-06-24
+2606.25532,Agentic evolution of physically constrained foundation models,2026-06-24
+2606.25622,Probabilistic Agents in Deterministic Audits: Evaluating Multi-Agent Systems for Automated Audits Based on the German IT-Grundschutz,2026-06-24
+2606.26205,Knowledge-augmented Agentic AI for Mental Health Medication Information Seeking,2026-06-24
+2606.26525,Theory-Scale Auto-Formalization of Logics for Computer Science,2026-06-25
+2607.22652,KG2Code: Bridging Knowledge Graphs and Large Language Models via Executable Code for Question Answering,2026-06-26
+2606.28841,LAMP: Lean-based Agentic framework with MCP and Proof Repair,2026-06-27
+2606.29399,LLM-Guided Planning for Multi-hop Reasoning over Multimodal Nuclear Regulatory Documents,2026-06-28
+2606.29776,Towards Generalizable and Evidential Nuclear Magnetic Resonance-Based Molecular Structure Elucidation via Large Language Model Agent,2026-06-29
+2606.29799,The CRISTAL Method: Neurosymbolic analysis from AI-synthesized world models,2026-06-29
+2606.30613,Sequential Planning via Anchored Robotic Keypoints,2026-06-29
+2606.29894,SABER-Math: Automated Benchmark for Information Retrieval Evaluation in Mathematics,2026-06-29
+2606.30247,Grounding LLM Reasoning under Incomplete Graph Evidence,2026-06-29
+2606.30966,HyPOLE: Hyperproperty-Guided Multi-Agent Reinforcement Learning under Partial Observation,2026-06-29
+2609.01617,"Hybrid Retrieval-Augmented Generation with Knowledge Graph Expansion, RRF Fusion, and Per-Chunk Grounded Evaluation for Enterprise Document Search",2026-06-30
+2607.01531,OPINE-World: Programmatic World Modeling with Ontology-error-Prioritized Interactive Exploration for ARC-AGI-3,2026-07-01
+2607.00442,Learning Gait-Aware Quadruped Locomotion with Temporal Logic Specifications,2026-07-01
+2607.02599,"AgentLTL: A Trace-Verification Framework for Measuring, Enforcing, and Training Procedural Compliance in Tool-Using LLM Agents",2026-07-01
+2607.01972,"Object Aligner: A Configurable JSON Schema Similarity Score for Graphs, Applied to LLM Prompt Optimization",2026-07-02
+2607.03233,"Agentic and Generative AI for Open-Source Intelligence and Cyber Investigations: Taxonomy, Evaluation, Challenges, and Future Directions",2026-07-03
+2607.03501,STRATOS: Bridging the Symbolic-to-Numeric Gap in Spatio-Temporal Text-to-SQL for Meteorological Data,2026-07-03
+2607.04391,Memory-Orchestrated Semantic System (MOSS): An Auditable Agentic Memory Architecture,2026-07-05
+2607.04096,Forethought: Verifiable Reasoning from Neurosymbolic Primitive Programming,2026-07-05
+2607.05577,Narrative World Model: Narratology-Grounded Writer Memory for Long-Form Fiction,2026-07-06
+2607.06341,Harnessing Code Agents for Automatic Software Verification,2026-07-07
+2607.06349,TopoBrick: Agentic Topology Sampling of Exogenous Variables for Zero-Shot Building IoT Forecasting,2026-07-07
+2607.07136,Learning Spatiotemporal Tubes for Full Class of Signal Temporal Logic Tasks for Control of Unknown Systems under Input Constraints,2026-07-08
+2607.08288,From Legacy Documentation to OSCAL: An MCP-Based Agent Pipeline for Threat-Informed Continuous Compliance in Critical Infrastructure,2026-07-09
+2607.09092,AgentKGV: Agentic LLM-RAG Framework with Two-Stage Training for the Fact Verification of Knowledge Graphs,2026-07-10
+2607.09101,Multi-Agent LLM Collaboration for Unit Test Generation via Human-Testing-Inspired Workflows,2026-07-10
+2607.11948,Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterprise Language Models: A Combined Proof-of-Mechanism and Negative-Results Method Study,2026-07-11
+2607.10621,WebDesignIter: Co-Evolving Design Knowledge for Repository-Level Front-End Code Generation,2026-07-12
+2607.10557,UNIBROWSE: A Data-to-Agent Framework for Multimodal BrowseComp,2026-07-12
+2607.11523,Vinci2: Providing Proactive Assistance in Continuous Egocentric Videos,2026-07-13
+2607.14149,Enhancing Small Language Models Reasoning through Knowledge Graph Grounding,2026-07-14
+2607.12924,Knowledge- and Gradient-Guided Reinforcement Learning for Parametrized Action Markov Decision Processes,2026-07-14
+2607.14561,MARS: Multi-hop Adaptive Retrieval and SPARQL Generation for KGQA,2026-07-16
+2607.17269,An Explicit World Model Based on Data-First Ontology: DaoQL Multimodal Storage Validation and Counterfactual Reasoning Evaluation,2026-07-19
+2607.17266,Debate-on-Graph: Reliable and Adaptive Reasoning of Large Language Model on Uncertain Knowledge Graph,2026-07-19
+2607.18356,"CODENS: Transforming Code Changes into Living, Accessible, and Queryable Documentation",2026-07-20
+2607.18029,Natural Language Access to Domain-Specific Metadata: A Reusable Framework for LLM Query Generation,2026-07-20
+2607.17940,The Aura in the Machine: Genealogy and the Status of the Work of Art in the Generative Era,2026-07-20
+2607.22713,SEGRA: A Structured Experience Guided Reasoning Agent for Property Graph Question Answering,2026-07-21
+2607.18970,Skillware: A Software Ontology and Engineering Lifecycle for Persistent Behavioral Artifacts,2026-07-21
+2607.20268,PoTRE: Test-Time Reasoning inspired by Cognitive Heterogeneity,2026-07-22
+2607.21412,Euclid-MCP: A Model Context Protocol Server for Deterministic Logical Reasoning via Prolog,2026-07-23
+2607.22319,Towards Trustworthy and Cost-Efficient Data Integration: From Naïve RAG to Agentic RAG,2026-07-24
+2607.21957,KaPilot: LLM-Assisted Generation of Kani Specifications for Unsafe Rust Verification,2026-07-24
+2607.22953,Share No More Than the Request Requires: Federated Disclosure for Perspective-Aware AI,2026-07-24
+2607.23278,Co-Evolving Graph and Text Memory for Training-Free Multi-Hop Question Answering,2026-07-25
+2607.24878,GraphRareBench: An Auditable Graph-Evidence Benchmark for Phenotype-Driven Rare-Disease Diagnosis,2026-07-27
+2607.24663,A corrective agentic hybrid RAG and an operations-grounded evaluation for a scientific facility,2026-07-27
+2607.24275,A Computational Ethical Framework for Financial Digital Phenotyping for Mental Health,2026-07-27
+2607.27249,OwlPath: Lossless Knowledge Compression for LLM Bug Repair,2026-07-28
+2607.25333,Specula: Scaling formal specifications for autonomous model checking of system code,2026-07-28
+2607.28679,Multi-Agent Planning with Spatio-Temporal and Topological Constraints using STL-GO,2026-07-29
+2607.27130,AgentMap: Joint Equivalence and Subsumption Discovery for Ontology Matching,2026-07-29
+2608.20402,LingShu: A Large-Scale Symptom-Centric Contextualized Knowledge Graph Bridging Traditional Chinese Medicine and Modern Biomedicine,2026-07-29
+2607.27259,CircuitProver: Agentic Lean 4 Theorem Proving with Reusable Circuit Proof Library for Hardware Verification,2026-07-29
+2607.27267,FAVA: Formal Authorization for Verified Agents with Evidence-Backed Permission Graphs,2026-07-29
+2607.27748,A Structured Knowledge Infrastructure for Domain-Specific Data Asset Discovery,2026-07-30
+2607.28692,SciToolAgent-Evo: An Ontology-Aware Self-Evolving Agent for Open-World Scientific Tool Acquisition,2026-07-30
+2607.28877,Open-Source LLM-Driven Formal Verification: A Multi-Agent Pipeline for RTL Repair,2026-07-30
+2607.28942,NeSyFS: A Neuro-symbolic Fast-Slow Thinking Framework for LLM Agent under Partial Observability,2026-07-31
+2608.26176,Knowledge Cards: Structured Knowledge for AI Systems,2026-07-31
+2608.11243,"The Off-Support Barrier: Why Semantic Safety Constraints Are Not Learning-Problem Invariants, and What Follows for Prior Design, Containment, and Verification",2026-08-01
+2608.04032,EDATracer: An Agentic Framework for Large-Scale EDA Artifact Analysis,2026-08-02
+2608.01499,Alternating-Time Temporal Logic with Mean-Payoff Guarantees,2026-08-02
+2608.00937,Neuro-Symbolic Participation Governance for Verifiable AI Agents in Open Digital Twin Ecosystems,2026-08-02
+2608.01388,Why Formal Monitors Fail: Attack Distribution Entropy as a Coverage Bound for LTL-Based LLM Agent Safety,2026-08-02
+2608.01904,CoEvoKG: Co-Evolving Knowledge Graphs with Self-Evolving Search Agents,2026-08-03
+2608.02993,Neurosymbolic Reasoning with Incremental Knowledge for Sample Efficient Hierarchical Reinforcement Learning,2026-08-04
+2608.03134,CLEAR: Causal Context-Based Agentic Reasoning for Vulnerability Detection,2026-08-04
+2608.03882,MultiGlobeQA: A Multilingual and Globally Diverse Benchmark for Geospatial Reasoning,2026-08-04
+2608.04933,Mimir: A Neuro-Symbolic Memory System with Dynamic Grounding for Embodied Agents in Interactive Environments,2026-08-05
+2608.05391,Adaptive Arena-based Contestable Argumentative Network-of-Experts for Open-Ended Care Plan Coordination,2026-08-05
+2608.06110,"ECHO: A Locally-Deployable Agentic Health Assistant with Temporal Memory, Safety Guardrails, and Speech Assessment",2026-08-06
+2608.06196,Comparative Approaches to Agent Retrieval over Large Skill Libraries,2026-08-06
+2608.05493,Learning Context-Free Grammars for Grammar-Constrained Decoding via Declarative Agentic Programming with Guarantees,2026-08-06
+2608.07700,Towards Researcher Agents for Knowledge-Graph Question Answering,2026-08-07
+2608.07955,Self-Evolving Neuro-Symbolic Skills for Tool-Augmented Spatial Reasoning,2026-08-08
+2608.07994,"VDGR-RAG: Vectors, Directories, Graphs, and Reflection Are All You Need for Unified Reasoning over Hierarchical Enterprise Knowledge",2026-08-08
+2608.07965,CyberAGENTS: Structured Autonomy for Agentic Gamified Learning in Cybersecurity,2026-08-08
+2608.08612,REVEAL: A Rubric-Guided Agent for Explicit Evidence Sufficiency Verificationin Long-Video Question Answering,2026-08-09
+2608.09748,Defining Decentralization: An Ontological Perspective,2026-08-10
+2608.11340,Self-evolving network verifiers,2026-08-11
+2608.11451,Herding End-to-End Autonomous Driving via Neuro-Symbolic Safety Guards,2026-08-11
+2608.28642,From Extraction to Governed Memory: Multi-Agent Knowledge Graph Construction with Domain-Expert Review,2026-08-12
+2608.12129,SAG: SQL-Retrieval Augmented Generation with Query-Time Dynamic Hyperedges,2026-08-12
+2608.12036,Mechanist: AI as a Scientific Instrument for Discovering the Mechanisms of Intelligence,2026-08-12
+2608.12888,When Your Agent Opens the Chat App: Agent-Controlled Search over Raw Chat Logs Rivals Structured Memory,2026-08-13
+2608.13662,Ontology-Grounded Project Memory for Coding Agents,2026-08-13
+2608.13486,Runtime Monitoring of Distributed Cyber-Physical Systems Without a Global Clock,2026-08-13
+2608.15193,Valhalla: A Layered Knowledge-State and Service-Governance Framework for Long-Term Scientific Knowledge Work,2026-08-15
+2608.15509,Temporal Logic Guided Universal Task Representations for Reinforcement Learning,2026-08-16
+2608.15834,Schema-Agnostic Graph Reasoning Agent for Hybrid Knowledge Graphs,2026-08-16
+2608.16637,PDDLCoder: Agentic PDDL Generation for LLM-Assisted Symbolic Planning,2026-08-17
+2608.16794,Neurosymbolic Embodied Agents,2026-08-17
+2608.16071,Skill2Query: Exploiting Skill Structure to Generate Pseudo-Queries for Agent Skill Retrieval,2026-08-17
+2608.16357,MELD: A Protocol for Merging Knowledge Across Distributed Agentic Memories,2026-08-17
+2608.16813,Quipu: A Governed Bitemporal Knowledge Graph Store,2026-08-17
+2608.17665,GraphWake: Group Polarization via Memory-Mediated Polarization Cascade in LLM-Agent Communities,2026-08-18
+2608.17318,"If, Then, Otherwise: Diagnosing Conditional Branching in Vision-Language Navigation",2026-08-18
+2608.17596,tinyDSM: A Framework for Skill Modeling and Development for Resource-Constrained Millirobots,2026-08-18
+2608.17718,Beyond Suspicious Steps: Ontological Trust in Long-Horizon Agents,2026-08-18
+2608.18613,CTIFoundry: An Agent-Native Corpus Scaffold for Cyber Threat Intelligence,2026-08-19
+2608.19875,A knowledge-guided agentic framework for mitigating patient-context ambiguity in health queries,2026-08-20
+2608.22149,Meta-Ctrl: Guaranteed Plan Generation by Decoupling Syntactic and Semantic Constraints,2026-08-23
+2608.22762,Compositional Chain-of-Relations for Faithful Knowledge Graph Question Answering with Large Language Models,2026-08-24
+2608.22974,Toward Effective and Reliable LLM Agents via Dynamic Ontology,2026-08-24
+2608.23263,Automated Construction of FAIR Digital Object Knowledge Graphs from Flat Cultural Heritage Records,2026-08-24
+2608.25952,Spatial-Knowledge-Graph-Grounded LLM Agents for Neighborhood Livability Evaluation,2026-08-26
+2608.27716,PCFBench: A Diagnostic Benchmark for Product Carbon Footprint Estimation,2026-08-27
+2608.27984,When Evidence Shapes Collaboration: Knowledge-Conditioned Topology Generation for Multi-Agent Systems,2026-08-28
+2608.28345,AGENT-O: A Semantic Agent Card Framework for Interoperable and Governed Healthcare AI Agents,2026-08-28
+2608.29016,Towards Fully Automated Medical Imaging Code Generation via Validation-based Context Engineering,2026-08-29
+2608.28978,Selective Forgetting: A Graph-Based Memory Framework for Long-Term LLM Agents,2026-08-29
+2608.29263,RACER: Reinforced Agent Collaboration for Explainable Reasoning on Knowledge Graphs,2026-08-29
+2608.29490,Generalizable Multi-Agent Planning from Signal Temporal Logic Specifications via Diffusion,2026-08-30
+2608.29606,Agent Zero Memory: Provenance-Aware Long-Term Memory for LLM Agents,2026-08-30
+2608.29617,Memory-First Fact-Checking: A Knowledge-Graph-Grounded Multi-Agent System for Misinformation Detection,2026-08-30
+2608.30803,Schwarz: Solver-Aware Agentic Program Verification,2026-08-31
+2609.01260,Dual Process Motion Planning,2026-09-01
+2609.01095,Reliable LLM-Generated Programs for High-Energy Physics Experiments through Graph-Grounded Software Knowledge,2026-09-01
+2609.02056,HyGRAIL: Cost-Aware and Evidence-Grounded Scientific Hypothesis Discovery over Knowledge Graphs,2026-09-02
+2609.03201,MemoryLACE: Memory Lifecycle-Aware Consolidation and Evidence Retrieval,2026-09-02
+2609.02364,Towards a Foundational Ontology for Identifying and Resolving Contradictions in Dialogue-based Human-Robot Interactions,2026-09-02
+2609.03834,Semantic Bayesian World Models,2026-09-03
+2609.22235,BizSage: A Self-Evolving Multi-Agent Framework for Business Research with Efficient Knowledge Retrieval,2026-09-03
+2609.05339,Does Your Agent's Memory Survive a Model Upgrade? A Controlled Study of Memory Portability,2026-09-04
+2609.05314,"Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness",2026-09-04
+2609.05692,Regret Dominates Surprise: Design-Time Requirements Engineering for Agentic-AI Safety,2026-09-04
+2609.09153,Procedural Graphs: Self-Evolving Execution Structures for LLM Agents,2026-09-08
+2609.10430,Glyph: A Multi-Strategy Agentic System for Column Description and Sensitivity-Ontology Tagging of Enterprise Data Catalogs,2026-09-09
+2609.11493,From Document Silos to Process Intelligence: A Multi-Layer Knowledge Graph for CMC Process Development,2026-09-10
+2609.11043,LTLDiff: Finite Linear Temporal Logic-Guided Data Generation and Diffusion Policies for Multi-agent Robotic Manipulation,2026-09-10
+2609.16056,Managing Action Preconditions in Neuro-Symbolic RL: Three Placement Strategies for Embodied Agents,2026-09-13
+2609.15113,Legislating World-Model-Based Planning with Legal Reasoning,2026-09-14
+2609.15009,CoMem: Collective-Individual Memory Synergy for Evolutionary Multi-Agent Systems,2026-09-14
+2609.15523,Automating Attack Graph Construction for Agentic Pentesting. Towards Neuro-Symbolic Vulnerability Hunting,2026-09-14
+2609.18461,Disentangling Long-Term Memory via Latent Neuro-Symbolic Reasoning,2026-09-16
+2609.18128,Symbolic Temporal Supervision of LLM Agents Using Contracts,2026-09-16
+2609.19391,MAGS: Multi-agent Auto-formalization Guarantees Safety for Agentic Outputs,2026-09-16
+2609.19961,Neuro-Symbolic Agentic AI for Networked Low-Altitude UAVs,2026-09-17
+2609.19569,Large Language Model Agents for Evidence Based Genetic Disease Severity Classification,2026-09-17
+2609.22375,Initial Evaluation of Potential Bias in Coverage of Humans in Wikidata,2026-09-17
+2609.21190,SWE-Proof: Can Language Models Resolve Real-World Issues with Machine-Checked Proofs?,2026-09-18
+2609.26124,MAC-RRG: Iterative Multi-Agent Collaboration for X-ray Radiology Report Generation,2026-09-20
+2609.24446,ActGov: Governing LLM Agent Actions via Policy-Constrained Validation,2026-09-21
+2609.24101,When More Evidence Hurts: Publication-Bias Drift and Principled Stopping for Biomedical Causal Search,2026-09-21
+2609.25766,Neurosymbolic Action Model Learning under Partial Observability,2026-09-22
+2609.26029,CQ4OE: A benchmark for assessing LLM-assisted ontology generation from competency questions,2026-09-22
+2609.26175,EADC: Evaluation of Advanced and Deep-level Compliance in Large Language Models,2026-09-22
+2609.27162,Agentic-IC3: Enabling Semantic Proof Search in IC3 Model Checking,2026-09-22
+2609.27257,UniDataAgent: An Ontology-Grounded Agent for Enterprise Question-to-Report Automation,2026-09-23
+2609.28396,Tractable Reinforcement Learning for Full Class of Signal Temporal Logic Specifications Using Spatiotemporal Tube Reward,2026-09-23
+2609.29474,CodeGraph: Open-Taxonomy Knowledge Graph for Source Code with Wikidata Grounding,2026-09-24

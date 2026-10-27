@@ -1,0 +1,38 @@
+name,title,year_first_public
+JARVIS,JARVIS: A Neuro-Symbolic Commonsense Reasoning Framework for Conversational Embodied Agents,2022
+Capability-based SMT planning,An LLM-Based Assistance System for Intuitive and Flexible Capability-Based Planning,2026
+PhyNiKCE,PhyNiKCE: A Neurosymbolic Agentic Framework for Autonomous Computational Fluid Dynamics,2026
+PyPDDLEngine,Agentic LLM Planning via Step-Wise PDDL Simulation: An Empirical Characterisation,2026
+WALL-E 2.0,WALL-E 2.0: World Alignment by NeuroSymbolic Learning improves World Model-based LLM Agents,2025
+OPINE-World,OPINE-World: Programmatic World Modeling with Ontology-error-Prioritized Interactive Exploration for ARC-AGI-3,2026
+EAM,Executable Agentic Memory for GUI Agent,2026
+CoEx,CoEx -- Co-evolving World-model and Exploration,2025
+EGP,Exemplar-Guided Planing: Enhanced LLM Agent for KGQA,2025
+SEAL,SEAL: Self-Evolving Agentic Learning for Conversational Question Answering over Knowledge Graphs,2025
+CoTPR,CoTPR: Chain-of-Thought-Enhanced Path Planning and Retrieval for Faithful Knowledge Graph Question Answering,2026
+Engram,"Less Context, More Accuracy: A Bi-Temporal Memory Engine for LLM Agents Where a Lean Retrieved Context Beats the Full History",2026
+MARS,MARS: Multi-hop Adaptive Retrieval and SPARQL Generation for KGQA,2026
+PortfoliQA,"PortfoliQA: An Agentic RAG Framework for Knowledge Graph Question Answering via Structured
+                     Evidence Portfolios",2026
+Researcher agent,Towards Researcher Agents for Knowledge-Graph Question Answering,2026
+SCAIR,SCAIR: Schema-Conditioned Agentic Iterative Reasoning for Enterprise Knowledge Graphs,2026
+TRiM-KG,TRiM-KG: A Temporal Memory Knowledge Graph for Network Management Reasoning in LLM Agents,2026
+Grounded memory,A Grounded Memory System For Smart Personal Assistants,2025
+Memoria,Memoria: A Scalable Agentic Memory Framework for Personalized Conversational AI,2025
+APEX-EM,APEX-EM: Non-Parametric Online Learning for Autonomous Agents via Structured Procedural-Episodic Experience Replay,2026
+ARIS,ARIS: Agentic and Relationship Intelligence System for Social Robots,2026
+Agent Zero Memory,Agent Zero Memory: Provenance-Aware Long-Term Memory for LLM Agents,2026
+CraniMem,CraniMem: Cranial Inspired Gated and Bounded Memory for Agentic Systems,2026
+EpisTwin,The EpisTwin: A Knowledge Graph-Grounded Neuro-Symbolic Architecture for Personal AI,2026
+NSI,Lifting Traces to Logic: Programmatic Skill Induction with Neuro-Symbolic Learning for Long-Horizon Agentic Tasks,2026
+OmegaClaw,OmegaClaw: A Continually Operating Agentic Architecture Under Bounded Resources,2026
+RoMem,Time is Not a Label: Continuous Phase Rotation for Temporal Knowledge Graphs and Agentic Memory,2026
+OASA-KGQA,OASA-KGQA: Ontology-Aware Semantic Agent for Knowledge Graph Question Answering,2026
+Agent-C,Enforcing Temporal Constraints for LLM Agents,2025
+AgentGuard,AgentGuard: Runtime Verification of AI Agents,2025
+PRISM-AI,PRISM-AI: A Dual-Stage Neuro-Symbolic Agentic Framework for Privacy Risk Mitigation in LLMs,2025
+Containment verification,Containment Verification: AI Safety Guarantees Independent of Alignment,2026
+ContrAgent,Symbolic Temporal Supervision of LLM Agents Using Contracts,2026
+OLDCARTS gate,Agentic AI-based Framework for Mitigating Premature Diagnostic Handoff and Silent Hallucination in Healthcare Applications,2026
+PEA,Structural Enforcement of Goal Integrity in AI Agents via Separation-of-Powers Architecture,2026
+TriCEGAR,TriCEGAR: A Trace-Driven Abstraction Mechanism for Agentic AI,2026

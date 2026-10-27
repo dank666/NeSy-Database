@@ -1,0 +1,104 @@
+no,arxiv_id,title,year_first_public,pillar,pattern,formalism,design_time_source,binding,provenance,synthesis_role,assurance,functions,shared_models,evaluation,planning_loop,fallback,human_override,env_validation,repair_loop,basis
+38,2405.17846,Safety Control of Service Robots with LLMs and Embodied Knowledge Graphs,2024,V,SN,KG,,E,A,none,D/K,V+Mw,V=Mw,out,na,,,,,F
+40,2405.19793,PDDLEGO: Iterative Planning in Textual Environments,2024,P,SN,LOG,,G,A+S,model,D/K,P+Mw,P=Mw,out,closed,,,,yes,F
+51,2407.06590,Revolutionizing Battery Disassembly: The Design and Implementation of a Battery Disassembly Autonomous Mobile Manipulator Robot(BEAM-1),2024,P,SN,LOG,,G+E,A,search,D/K,P,,out,closed,,,,,F
+57,2408.08188,Nl2Hltl2Plan: Scaling Up Natural Language Understanding for Multi-Robots Through Hierarchical Temporal Logic Task Representation,2024,P,SN,LOG,,G,S,model,D/K,P,,art-iso,single,,,,,F
+60,2409.09536,VernaCopter: Disambiguated Natural-Language-Driven Robot via Formal Specifications,2024,P,SN,LOG,,G,S,model,D/K,P,,out,single,,,,,F
+61,2409.10196,"NEUSIS: A Compositional Neuro-Symbolic Framework for Autonomous Perception, Reasoning, and Planning in Complex UAV Search Missions",2024,P,NS,LOG,,G,A+S,program,E,P+Mw,P=Mw,out,closed,,,,,F
+102,2503.00870,NeSyC: A Neuro-symbolic Continual Learner For Complex Embodied Tasks In Open Domains,2025,P,SN,LOG,,G+E,M+S,model,D/K,P+Ml,P=Ml,out,closed,,,yes,,F
+106,2503.03911,Safe LLM-Controlled Robots with Formal Guarantees via Reachability Analysis,2025,V,SN,LOG,,E,A+M,none,D/K,V,,out,na,,,,,F
+109,2503.07902,LTLCodeGen: Code Generation of Syntactically Correct Temporal Logic for Robot Task Planning,2025,P,SN,LOG,,G,S,model,D/K,P,,art-iso,single,,,,,F
+129,2505.13126,Iterative Formalization and Planning in Partially Observable Environments,2025,P,SN,LOG,,G,S,model,D/K,P+Mw,P=Mw,out,closed,,,yes,yes,F
+142,2506.03270,Grounded Vision-Language Interpreter for Long-Horizon Bimanual Task and Motion Planning,2025,P,SN,LOG,,G,A+S,model,D/K,P,,out,single,,,,yes,F
+157,2507.11352,"Foundation Models for Logistics: Toward Certifiable, Conversational Planning Interfaces",2025,P,NS,LOG,,G,S,model,E,P,,art-iso,single,,,,,F
+159,2507.19942,Prometheus: Towards Long-Horizon Codebase Navigation for Repository-Level Problem Solving,2025,M,NS,KG,,G,M,none,E,Mk,,out,na,,,,,F
+161,2507.21545,UniDomain: Pretraining a Unified PDDL Domain from Real-World Demonstrations for Generalizable Robot Task Planning,2025,P,SN,LOG,,G,S,model,D/K,P,,out,single,,,,yes,F
+164,2508.01917,L3M+P: Lifelong Planning with Large Language Models,2025,P,SN,HYB,,G,A+S,model,D/K,P+Ml,P=Ml,out,closed,,,,,F
+167,2508.13371,LOOP: A Plug-and-Play Neuro-Symbolic Framework for Enhancing Planning in Autonomous Systems,2025,P,SN,LOG,,G,S,model,D/K,P+Ml,,out,single,,,,yes,F
+174,2509.01728,Constrained Decoding for Safe Robot Navigation Foundation Models,2025,V,SN,LOG,,G,A,none,D/K,V,,out,na,,,,,F
+181,2509.18384,LAD-VF: LLM-Automatic Differentiation Enables Fine-Tuning-Free Robot Planning from Formal Methods Feedback,2025,P,NS,LOG,,G,A,none,E,P,,out,single,,,,,F
+183,2509.25299,ID-RAG: Identity Retrieval-Augmented Generation for Long-Horizon Persona Coherence in Generative Agents,2025,M,NS,KG,,G,A,none,E,Mk,,out,na,,,,,F
+204,2510.22784,PIP-LLM: Integrating PDDL-Integer Programming with LLMs for Coordinating Multi-Robot Teams Using Natural Language,2025,P,SN,LOG,,G,A+S,model,D/K,P,,out,single,,,,yes,F
+206,2511.07441,AudAgent: Automated Auditing of Privacy Policy Compliance in AI Agents,2025,V,SN,HYB,,E,S,model,D/K,V,,out,na,,,,,F
+220,2512.11620,Architecting Large Action Models for Human-in-the-Loop Intelligent Robots,2025,P,SN,LOG,,G,A+S,model,D/K,P,,out,single,,,,,F
+240,2602.05004,CoWork-X: Experience-Optimized Co-Evolution for Multi-Agent Collaboration System,2026,P,NS,LOG,,G+E,A+S,program,E,P+Ml,P=Ml,out,closed,,,,,F
+245,2602.09472,LLM-Grounded Dynamic Task Planning with Hierarchical Temporal Logic for Human-Aware Multi-Robot Handover,2026,P,SN,LOG,,G+E,S,model,D/K,P,,out,closed,,,,,F
+246,2602.10480,Neuro-Symbolic Synergy for World Modeling,2026,P,NS,LOG,,G,M+S,model,E,P,,art-iso,closed,,,yes,,F
+261,2603.08814,Scale-Plan: Scalable Language-Enabled Task Planning for Heterogeneous Multi-Robot Teams,2026,P,NS,LOG,,G,A,none,E,P,,out,single,,,,,F
+263,2603.09481,GenePlan: Evolving Better Generalized PDDL Plans using Large Language Models,2026,P,NS,LOG,,G,S,program,E,P,,out,single,,,,,F
+272,2603.17969,Specification-Aware Distribution Shaping for Robotics Foundation Models,2026,V,SN,LOG,,G,A,none,D/K,V,,out,na,,,,,F
+281,2603.26412,Generalizable task-oriented object grasping through LLM-guided ontology and similarity-based planning,2026,P,NS,KG,,G,A+S,content,E,P+Mk,P=Mk,out,single,,,,,F
+283,2603.27910,GAAMA: Graph Augmented Associative Memory for Agents,2026,M,NS,KG,,G,S,content,E,Ml,,out,na,,,,,F
+285,2604.00628,StretchBot: A Neuro-Symbolic Framework for Adaptive Guidance with Assistive Robots,2026,P,NS,KG,,G,A,none,E,P+Mk,,out,closed,,,,,F
+287,2604.02812,Learning Structured Robot Policies from Vision-Language Models via Synthetic Neuro-Symbolic Supervision,2026,P,NS,LOG,,G+E,A+S,program,E,P,,art-iso,closed,,,,,F
+291,2604.05427,Pre-Execution Safety Gate & Task Safety Contracts for LLM-Controlled Robot Systems,2026,V,SN,LOG,,G+E,A,none,D/K,V,,out,na,,yes,,,F
+299,2604.17142,Logic-Based Verification of Task Allocation for LLM-Enabled Multi-Agent Manufacturing Systems,2026,V,HL,LOG,,G,A+S,model,D/K,V,,out,na,,,,,F
+302,2604.18652,From Craft to Kernel: A Governance-First Execution Architecture and Semantic ISA for Agentic Computers,2026,V,HL,LOG,,E,A,none,D/W,V+X+Mw,V=Mw,out,na,,,,,F
+310,2604.27699,Bridging Values and Behavior: A Hierarchical Framework for Proactive Embodied Agents,2026,P,SN,LOG,,G,A+S,model,D/K,P,,out,closed,,,,,F
+315,2605.02765,U-Define: Designing User Workflows for Hard and Soft Constraints in LLM-Based Planning,2026,V,HL,LOG,,G,A+S,model,D/K,V,,out,na,,,,,F
+323,2605.10488,DeepRefine: Agentic Knowledge Refinement via Reinforcement Learning,2026,M,NS,KG,,G,S,content,E,Mk,,out,na,,,,,F
+327,2605.15701,H-Mem: A Novel Memory Mechanism for Evolving and Retrieving Agent Memory via a Hybrid Structure,2026,M,NS,KG,,G,S,content,E,Ml,,out,na,,,,,F
+334,2605.26256,Personalizing Embodied Multimodal Large Language Model Agents over Long-term User Interactions,2026,M,NS,KG,,G,S,content,E,P+Ml,P=Ml,out,na,,,,,F
+344,2606.05395,VASO: Formally Verifiable Self-Evolving Skills for Physical AI Agents,2026,P,NS,LOG,,G,A+S,model,E,P+Ml,,out,single,,,,,F
+348,2606.12910,Bounding Boxes as Goals: Language-Conditioned Grasping via Neuro-Symbolic Planning,2026,P,SN,LOG,,G,A+S,model,D/K,P,,out,single,,,,,F
+351,2606.15654,PO-PDDL: Learning Symbolic POMDPs from Visual Demonstrations for Robot Planning Under Uncertainty,2026,P,SN,LOG,,G+E,M+S,model,D/K,P,,out,closed,,,,,F
+357,2606.23754,Verifiable Foundation Models for Robot Safety,2026,V,SN,LOG,,D+E,A,none,D/W,V,,out,na,,,,,F
+364,2606.30696,ViTL: Temporal Logic-Guided Zero-Shot Natural Language Navigation via Vision-Language Models,2026,P,SN,LOG,,G+E,S,model,D/K,P,,art-iso,closed,,,,,F
+367,2607.06724,EvoPlan: Evolutionary Neuro-Symbolic Robot Planning with Spatio-Temporal Guarantees,2026,P,HL,LOG,,G+E,A+M+S,model,D/K,P+V,,out,closed,,,,,F
+371,2607.15674,A Generative Partially Specified Finite State Machine Approach to Complex Behaviour Planning,2026,P,NS,LOG,,G+E,S,program,E,P,,out,closed,,,,,F
+377,2607.27267,FAVA: Formal Authorization for Verified Agents with Evidence-Backed Permission Graphs,2026,V,SN,LOG,,G+E,A+S,model,D/K,V,,out,na,,,,,F
+386,2608.17146,PDDL-ART: Autonomous Symbolic Abstraction From Demonstration For Long-Horizon Robotic Manipulation Using Vision-Language Models,2026,P,SN,LOG,,G,S,model,D/K,P,,out,closed,,,yes,yes,F
+396,2608.29263,RACER: Reinforced Agent Collaboration for Explainable Reasoning on Knowledge Graphs,2026,M,NS,KG,,G,A,none,E,Mk+Ml,,out,na,,,,,F
+402,2609.09153,Procedural Graphs: Self-Evolving Execution Structures for LLM Agents,2026,P,NS,KG,,G,A+S,content,E,P+Ml,P=Ml,out,closed,,,,,F
+411,2609.24446,ActGov: Governing LLM Agent Actions via Policy-Constrained Validation,2026,V,SN,LOG,,D+E,A+S,model,D/K,V,,out,na,,,,,F
+413,2609.32803,Nutri-ATLAS: Embodied Agent for Tabulated Lookup and Assistance for Smarter nutrition,2026,M,NS,KG,,G,A,none,E,Mk+Mw,,out,na,,,,,F
+426,2306.01295,Egocentric Planning for Scalable Embodied Task Achievement,2023,P,SN,LOG,,G+E,A,none,D/K,P+Mw,P=Mw,out,closed,,,,,F
+481,2410.06384,Validation of the Scientific Literature via Chemputation Augmented by Large Language Models,2024,P,NS,LOG,,G,S,program,E,P,,art-iso,single,,,,yes,F
+485,2410.14865,Joint Verification and Refinement of Language Models for Safety-Constrained Planning,2024,V,HL,LOG,,G,A,none,D/K,V,,out,na,,,,,F
+533,2505.03725,Meta-Optimization and Program Search using Language Models for Task and Motion Planning,2025,P,NS,LOG,,G,S,program,E,P,,out,single,,,,,F
+548,2505.24157,Experience-based Knowledge Correction for Robust Planning in Minecraft,2025,P,SN,KG,,G+E,M+S,model,D/K,P+Ml,P=Ml,art-run,closed,,,yes,,F
+550,2506.01174,GraphPad: Inference-Time 3D Scene Graph Updates for Embodied Question Answering,2025,M,NS,KG,,G,M+S,content,E,Mw,,out,na,,,,,F
+562,2506.19592,Adaptive Domain Modeling with Language Models: A Multi-Agent Approach to Task Planning,2025,P,SN,LOG,,G,S,model,D/K,P,,out,closed,,,,yes,F
+565,2507.05607,Structured Task Solving via Modular Embodied Intelligence: A Case Study on Rubik's Cube,2025,P,SN,LOG,,G,A,none,D/K,P,,out,single,,,,,F
+585,2508.11425,Tapas Are Free! Training-Free Adaptation of Programmatic Agents via LLM-Guided Program Synthesis in Dynamic Environments,2025,P,NS,LOG,,G,M+S,program,E,P,,out,closed,,,,,F
+603,2509.24219,ViReSkill: Vision-Grounded Replanning with Skill Memory for LLM-Based Planning in Lifelong Robot Learning,2025,M,NS,LOG,,G+E,S,program,E,P+Ml,P=Ml,out,na,,,yes,,F
+612,2510.10865,GRIP: A Unified Framework for Grid-Based Relay and Co-Occurrence-Aware Planning in Dynamic Environments,2025,P,NS,KG,,G+E,M+S,content,E,P+Mw,P=Mw,out,closed,,,,,F
+621,2510.25548,Using VLM Reasoning to Constrain Task and Motion Planning,2025,P,SN,LOG,,G,A+S,model,D/K,P,,out,single,,,,,F
+643,2512.08536,Principles2Plan: LLM-Guided System for Operationalising Ethical Principles into Plans,2025,P,SN,LOG,,G,A+S,model,D/K,P,,out,single,,,,,F
+659,2601.00978,From Perception to Symbolic Task Planning: Vision-Language Guided Human-Robot Collaborative Structured Assembly,2026,P,SN,LOG,,E,A,none,D/K,P,,out,closed,,,,,F
+664,2601.04726,Memory Matters More: Event-Centric Memory as a Logic Map for Agent Searching and Reasoning,2026,M,NS,KG,,G,S,content,E,Ml,,out,na,,,,,F
+689,2602.00929,Learning Abstractions for Hierarchical Planning in Program-Synthesis Agents,2026,P,SN,LOG,,G,S,model,D/K,P,,out,closed,,,yes,,F
+709,2602.11749,AIR: Improving Agent Safety through Incident Response,2026,V,NS,LOG,,H,A,none,E,V,,out,na,,,,,F
+736,2603.17244,Graph-Native Cognitive Memory for AI Agents: Formal Belief Revision Semantics for Versioned Memory Architectures,2026,M,SN,KG,,G,S,content,D/K,Mw+Ml,,out,na,,,,,F
+750,2603.25111,SEVerA: Verified Synthesis of Self-Evolving Agents,2026,V,SN,LOG,,G+E,A,none,D/W,V,,out,na,,,,,F
+766,2604.19795,Prism: An Evolutionary Memory Substrate for Multi-Agent Open-Ended Discovery,2026,M,NS,KG,,G,S,content,E,Ml,,out,na,,,,,F
+783,2604.20117,To Know is to Construct: Schema-Constrained Generation for Agent Memory,2026,M,SN,KG,,G,S,content,D/K-st,Ml,,out,na,,,,,F
+807,2605.09387,NEXUS: Continual Learning of Symbolic Constraints for Safe and Robust Embodied Planning,2026,P,SN,LOG,,G,A+S,model,D/K,P+Ml,P=Ml,out,closed,,,yes,,F
+813,2605.12039,SkillGraph: Skill-Augmented Reinforcement Learning for Agents via Evolving Skill Graphs,2026,M,NS,KG,,G,S,content,E,P+Ml,P=Ml,out,na,,,,,F
+829,2605.17721,EXG: Self-Evolving Agents with Experience Graphs,2026,M,NS,KG,,G,S,content,E,Ml,,out,na,,,,,F
+846,2608.05170,DREAM: LLM-based Dynamic Role-playing via Event-Aware Memory Graph,2026,M,NS,KG,,G,S,content,E,Ml,,out,na,,,,,F
+847,2605.29262,Harmonizing Real-Time Constraints and Long-Horizon Reasoning: An Asynchronous Agentic Framework for Dynamic Scheduling,2026,P,NS,LOG,,E,S,program,E,P+Ml,,out,closed,,,,,F
+857,2606.02438,LLM-Evolved Pattern Generators for Optimal Classical Planning,2026,P,SN,LOG,,D+G,A,search,D/K,P,,out,single,,,,,F
+871,2606.06240,TOKI: A Bitemporal Operator Algebra for Contradiction Resolution in LLM-Agent Persistent Memory,2026,M,SN,KG,,G,S,content,D/K,Ml,,out,na,,,,,F
+881,2606.12780,ProPlay: Procedural World Models for Self-Evolving LLM Agents,2026,P,NS,KG,,G,M+S,content,E,P+Ml,P=Ml,out,closed,,,,,F
+886,2606.16070,Mind-Studio: Executable World Models with Lookahead Evaluation for Partially Observable Games,2026,P,NS,LOG,,G,S,model,E,P,,art-run,closed,,,,,F
+888,2606.17182,Verified Detection and Prevention of Concurrency Anomalies in Multi-Agent Large Language Model Systems,2026,M,HL,LOG,,E,A,none,D/W,Mw,,out,na,,,,,F
+902,2607.09713,Closed-Loop Control with Rule-Aligned Small Language Models and Multi-Agent Self-Correction,2026,V,HL,LOG,,E,A,none,D/W,V,,out,na,,,,,F
+903,2606.26649,Autoformalization of Agent Instructions into Policy-as-Code,2026,V,SN,LOG,,E,S,model,D/W,V,,out,na,,,,yes,F
+904,2606.29778,Mandol: An Agglomerative Agent Memory System for Long-Term Conversations,2026,M,NS,KG,,G,S,content,E,Ml,,out,na,,,,,F
+906,2606.29932,"SAGA: Scene-Aware, Goal-Evolving Agents for Long-Horizon Strategy Game Planning",2026,P,NS,KG,,G,M,none,E,P+Mw,P=Mw,out,closed,,,,,F
+908,2606.31071,Hierarchical 3D Scene Graph Construction and Belief-based Planning for Semantic Navigation,2026,P,SN,KG,,G+E,M+S,model,D/K,P+Mw,P=Mw,out,closed,,,,,F
+915,2607.01709,COMFYCLAW: Self-Evolving Skill Harnesses for Image Generation Workflows,2026,P,NS,LOG,,G,A+S,program,E,P+X+Ml,,out,closed,,,,yes,F
+916,2607.01767,"Repair the Amplifier, Not the Symptom: Stable World-Model Correction for Agent Rollouts",2026,P,NS,LOG,,G,S,model,E,P,,art-iso,closed,,,,,F
+924,2607.08894,GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning,2026,P,SN,LOG,,G,M+S,model,D/K,P+Ml,P=Ml,out,closed,,,,,F
+939,2607.14512,RetroAgent: Harnessing LLMs to Search Over Structured Memory for Agentic Retrosynthesis Planning,2026,P,SN,LOG,,G,M,search,D/K,P+Mw,P=Mw,out,closed,,,,,F
+944,2607.19633,LENS: LLM-guided Environment Simplification for Planning and Control in Clutter,2026,P,SN,LOG,,G,A+S,model,D/K,P,,out,closed,,,yes,yes,F
+949,2607.26598,Living-Harness Is an Interactive-Agent Evolver,2026,M,NS,KG,,G,S,content,E,Ml,,out,na,,,,,F
+951,2607.27415,Bridging Inference-Time Scaling and Episodic Memory with Action-Centric Graphs,2026,M,NS,KG,,G,M,none,E,Ml,,out,na,,,,,F
+973,2608.09253,SkillSentry: Reliable Skill Execution for LLM Agents via Runtime Assurance,2026,V,NS,LOG,,E,S,model,E,V+Ml,V=Ml,out,na,,,,,F
+975,2608.10494,GeoForge: Non-Parametric Self-Evolving Agents for Earth-Observation Reasoning,2026,P,NS,KG,,G,S,content,E,P+Ml,P=Ml,out,closed,,,,,F
+997,2608.27797,CEDAR: Automata as Verifiable Interfaces for Language-Guided Embodied Action,2026,V,SN,LOG,,E,M+S,model,D/K,V,,out,na,,,,,F
+1003,2609.02322,What Is Worth Representing? Representational Empowerment for Continual Model Construction,2026,P,SN,LOG,,G,M+S,model,D/K,P+Ml,P=Ml,art-iso,closed,,,,,F
+1010,2609.08444,Safe Task Planning with Long-Term Graph Memory for Embodied Agents,2026,V,NS,KG,,G,M+S,content,E,P+V+Ml,V=Ml,out,na,,,,,F
+1011,2609.08602,CLAMP: Constrained Decoding for Vision-Language Embodied Planning,2026,P,NS,LOG,,G,A+S,model,E,P,,out,single,,,,,F
+1028,2609.23986,Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents,2026,M,NS,KG,,G,S,content,E,Ml,,out,na,,,,,F
