@@ -1,18 +1,18 @@
 no,stage,pillar,name,title,year_first_public,pattern,formalism,design_time_source,language,binding,provenance,synthesis_role,assurance,functions,shared_models,evaluation,planning_loop,fallback,human_override,env_validation,repair_loop,basis
 1,3,P,JARVIS,JARVIS: A Neuro-Symbolic Commonsense Reasoning Framework for Conversational Embodied Agents,2022,SN,LOG,,Logic predicates / procedural rules,E,A+S,model,E,P+Mw+X,P=Mw=X,out,closed,yes,,yes,,F
-2,1,P,Conformal TL planning,Conformal Temporal Logic Planning Using Large Language Models,2023,SN,LOG,,LTL,G+E,A,none,P/W,P,,out,closed,,yes,,,F
+2,1,P,Wang et al.,Conformal Temporal Logic Planning Using Large Language Models,2023,SN,LOG,,LTL,G+E,A,none,P/W,P,,out,closed,,yes,,,F
 3,1,P,LLM+P,LLM+P: Empowering Large Language Models with Optimal Planning Proficiency,2023,SN,LOG,,PDDL,G,A+S,model,D/K,P,,out,single,,,,,F
 4,1,P,LLM-DP,Dynamic Planning with a LLM,2023,SN,LOG,,PDDL,G+E,A+S,model,D/K,P+Mw,P=Mw,art-run,closed,unk,,,,F
 5,1,P,Anticipate&Act,Anticipate & Act: Integrating LLMs and Classical Planning for Efficient Task Execution in Household Environments,2024,SN,LOG,,PDDL,G,A+S,model,D/K,P,,art-iso,closed,,,,,F
 6,1,P,Formal-LLM,Formal-LLM: Integrating Formal Language and Natural Language for Controllable LLM-based Agents,2024,SN,LOG,,automaton+CFG,G,A,none,D/K,P,,out,single,,,,,F
 7,1,P,Teriyaki,A Framework for Neurosymbolic Robot Action Planning Using Large Language Models,2023,NS,LOG,,PDDL,G+E,A,none,E,P+Mw+X,P=Mw=X,out,closed,,,,,F
 8,1,P,TwoStep,TwoStep: Multi-agent Task Planning Using Classical Planners and Large Language Models,2024,SN,LOG,,PDDL,G,A,search,D/K,P,,out,single,,,,,F
-9,1,P,LLM heuristics,Classical Planning with LLM-Generated Heuristics: Challenging the State of the Art with Python Code,2025,SN,LOG,,PDDL,G,A,search,D/K,P,,out,single,,,,,F
+9,1,P,Corrêa et al.,Classical Planning with LLM-Generated Heuristics: Challenging the State of the Art with Python Code,2025,SN,LOG,,PDDL,G,A,search,D/K,P,,out,single,,,,,F
 10,1,P,LaMMA-P,LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner,2024,NS,LOG,,PDDL,G,A+S,model,E,P,,out,single,yes,,,,F
 11,1,P,MDPs via logic programs,Automated Generation of MDPs Using Logic Programming and LLMs,2025,SN,LOG,,Prolog+PRISM,D,A+S,model,P/K,P,,art-run,closed,,,,,F
 12,1,P,Multi-level decomposition,Fast and Accurate Task Planning Using Neuro-Symbolic Language Models and Multi-level Goal Decomposition,2024,SN,LOG,,PDDL,G,A,search,D/K,P,,out,single,unk,,,,F
 13,1,V,Plan-to-Kripke check,Bridging LLM Planning Agents and Formal Methods: A Case Study in Plan Verification,2025,NS,LOG,,LTL+NuSMV,G,S,program,E,V,,out,na,,,,,F
-14,1,P,SMT travel planning,Large Language Models Can Solve Real-World Planning Rigorously with Formal Verification Tools,2024,SN,LOG,,SMT,G,A+S,model,D/K,P,,out,single,,,,yes,F
+14,1,P,Hao et al.,Large Language Models Can Solve Real-World Planning Rigorously with Formal Verification Tools,2024,SN,LOG,,SMT,G,A+S,model,D/K,P,,out,single,,,,yes,F
 15,2,P,ANNEAL,ANNEAL: Adapting LLM Agents via Governed Symbolic Patch Learning,2026,SN,LOG,,HTN,G+E,A+S,model,E,P+Mw+Ml+X,P=Ml=X;Mw=X,out,closed,yes,,yes,,F
 16,3,P,Capability-based SMT planning,An LLM-Based Assistance System for Intuitive and Flexible Capability-Based Planning,2026,SN,LOG,ONT,SMT,G+E,A+S,model,D/K,P+Mk+Ml,P=Mk=Ml,out,closed,,,,yes,F
 17,1,P,Evolved heuristics,LLM-Evolved Domain-Independent Heuristics for Symbolic AI Planning,2026,SN,LOG,,PDDL,G,A,search,D/K,P,,out,single,,,,yes,F
@@ -23,15 +23,15 @@ no,stage,pillar,name,title,year_first_public,pattern,formalism,design_time_sourc
 22,3,P,PhyNiKCE,PhyNiKCE: A Neurosymbolic Agentic Framework for Autonomous Computational Fluid Dynamics,2026,NS,KG,,,G+E,A+S,program,E,P+Mk,P=Mk,out,closed,,,,yes,F
 23,3,P,PyPDDLEngine,Agentic LLM Planning via Step-Wise PDDL Simulation: An Empirical Characterisation,2026,HL,LOG,,PDDL,G,A,none,D/K,P+Mw,P=Mw,out,single,,,,,F
 24,1,V,SCLPlan,Constrained Natural Language Action Planning for Resilient Embodied Systems,2025,SN,LOG,,PDDL,E,A,none,D/K,P+Mw+X,P=Mw=X,art-iso,na,unk,,,,F
-25,1,P,Code-as-Symbolic-Planner,Code-as-Symbolic-Planner: Foundation Model-Based Robot Planning via Symbolic Code Generation,2025,NS,LOG,,Python,G+E,S,program,E,P,,out,closed,,,,yes,F
+25,1,P,Chen et al.,Code-as-Symbolic-Planner: Foundation Model-Based Robot Planning via Symbolic Code Generation,2025,NS,LOG,,Python,G+E,S,program,E,P,,out,closed,,,,yes,F
 26,1,P,Gideon,Achieving Scalable Robot Autonomy via Neurosymbolic Planning Using Lightweight Local LLM,2025,NS,LOG,,PDDL,G,A,none,E,P,,out,single,,,,,F
-27,1,P,PDDL-INSTRUCT,Teaching LLMs to Plan: Logical Chain-of-Thought Instruction Tuning for Symbolic Planning,2025,NS,LOG,,PDDL,G,A,none,E,P,,out,single,,,,,F
+27,1,P,PDDL-Instruct,Teaching LLMs to Plan: Logical Chain-of-Thought Instruction Tuning for Symbolic Planning,2025,NS,LOG,,PDDL,G,A,none,E,P,,out,single,,,,,F
 28,1,P,NeSyFS,NeSyFS: A Neuro-symbolic Fast-Slow Thinking Framework under Partial Observability,2026,NS,KG,,,G+E,S,content,E,P+Mw,P=Mw,out,closed,,,,,F
 29,1,P,SymPlan,"Plan Right, Then Plan Tight: Symbolic RL for Efficient Embodied Reasoning",2026,NS,LOG,,BDDL,G,A+S,model,E,P,,art-iso,single,,,,,F
-30,1,P,LLM-built world models,Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning,2023,SN,LOG,,PDDL,G,A+S,model,D/K,P,,art-iso,single,,,,yes,F
+30,1,P,Guan et al.,Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning,2023,SN,LOG,,PDDL,G,A+S,model,D/K,P,,art-iso,single,,,,yes,F
 31,1,P,Ada,Learning Adaptive Planning Representations with Natural Language Guidance,2023,SN,LOG,,PDDL,G+E,A+S,model,D/K,P+Ml,P=Ml,art-run,closed,,,yes,,F
 32,1,P,AutoTAMP,AutoTAMP: Autoregressive Task and Motion Planning with LLMs as Translators and Checkers,2023,SN,LOG,,STL,G,A+S,model,D/K,P,,out,single,,,,yes,F
-33,1,P,Generalized planning,Generalized Planning in PDDL Domains with Pretrained Large Language Models,2023,NS,LOG,,PDDL+Python,G,A+S,program,E,P,,out,single,,,,yes,F
+33,1,P,Silver et al.,Generalized Planning in PDDL Domains with Pretrained Large Language Models,2023,NS,LOG,,PDDL+Python,G,A+S,program,E,P,,out,single,,,,yes,F
 34,1,V,Recover,Recover: A Neuro-Symbolic Framework for Failure Detection and Recovery,2024,SN,ONT,,OWL+SPARQL,E+H,A,none,D/K,P+Mw+V,P=Mw=V,out,na,,,,,F
 35,1,P,Agent2World,Agent2World: Learning to Generate Symbolic World Models via Adaptive Multi-Agent Feedback,2025,NS,LOG,,PDDL+Python,D,S,model,E,P,,art-iso,single,,,,yes,F
 36,1,P,End-to-end PDDL,End-to-end PDDL Planning with Hardcoded and Dynamic Agents,2025,SN,LOG,,PDDL,G,S,model,D/K,P,,out,single,unk,,,yes,F
@@ -46,7 +46,7 @@ no,stage,pillar,name,title,year_first_public,pattern,formalism,design_time_sourc
 45,1,P,DUPLEX,DUPLEX: Agentic Dual-System Planning via LLM-Driven Information Extraction,2026,SN,LOG,,PDDL,G,A+S,model,D/K,P,,out,single,,,,yes,F
 46,1,P,GraphThink,GraphThink: Graph-Enhanced LLM Thinking for Long-Horizon Embodied Task Planning,2026,HL,KG,,,G+E,A+S,model,E,P+Mw,P=Mw,out,closed,yes,,,,F
 47,1,P,Hierarchical multi-robot planner,Hierarchical LLM-Based Multi-Agent Framework with Prompt Optimization for Multi-Robot Task Planning,2026,NS,LOG,,PDDL,G+E,A+S,model,E,P,,out,closed,,,,yes,F
-48,1,P,Industrial DT planning,Agentic Neuro-Symbolic Planning and Commissioning for Industrial Robotics with Digital Twins,2026,HL,LOG,,,G+E,A,none,D/K,P+V,P=V,out,closed,,,,,F
+48,1,P,Industrial DT,Agentic Neuro-Symbolic Planning and Commissioning for Industrial Robotics with Digital Twins,2026,HL,LOG,,,G+E,A,none,D/K,P+V,P=V,out,closed,,,,,F
 49,1,P,LLM-Flax,LLM-Flax: Generalizable Robotic Task Planning via Neuro-Symbolic Approaches,2026,SN,LOG,,PDDL,G,A,search,D/K,P,,art-run,single,,,,yes,F
 50,1,P,NS hierarchical learning,Neuro-symbolic Hierarchical Learning for Long-Horizon Robotic Tasks,2026,HL,LOG,,PDDL+SMT,G+E,A+S,model,D/K,P+Ml,,out,closed,,,yes,yes,F
 51,1,P,Novelty adaptation,Novelty Adaptation Through Hybrid Large Language Model (LLM)-Symbolic Planning and LLM-guided Reinforcement Learning,2026,SN,LOG,,PDDL,G+E,A+S,model,D/K,P,,out,closed,,,yes,yes,F
@@ -63,8 +63,8 @@ no,stage,pillar,name,title,year_first_public,pattern,formalism,design_time_sourc
 62,1,M,OaK dynamic ontology,Toward Effective and Reliable LLM Agents via Dynamic Ontology,2026,NS,KG,ONT,,G,S,program,E,P+Mk,P=Mk,out,na,,,,yes,F
 63,1,M,KG-Agent,KG-Agent: An Efficient Autonomous Agent Framework for Complex Reasoning over Knowledge Graph,2024,NS,KG,,,G,A+S,program,E,Mw+Mk,,out,na,,,,,F
 64,1,P,Optimus-1,Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks,2024,NS,KG,,,G,A+M,none,E,P+Ml,P=Ml,out,closed,,,,,F
-65,1,M,Reasoning on Graphs,Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning,2023,NS,KG,,,G,A+S,program,E,Mk,,art-run,na,unk,,,,F
-66,1,M,Think-on-Graph,Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph,2023,NS,KG,,,G,A,none,E,Mw+Mk,,art-run,na,yes,,,,F
+65,1,M,RoG,Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning,2023,NS,KG,,,G,A+S,program,E,Mk,,art-run,na,unk,,,,F
+66,1,M,ToG,Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph,2023,NS,KG,,,G,A,none,E,Mw+Mk,,art-run,na,yes,,,,F
 67,3,M,CoEx,CoEx -- Co-evolving World-model and Exploration,2025,SN,KG,,,G,A+S,model,D/K,Mw,,out,na,,,,,F
 68,3,M,EGP,Exemplar-Guided Planing: Enhanced LLM Agent for KGQA,2025,NS,KG,,,G,A+S,content,E,Mw+Mk,,out,na,yes,,,,F
 69,1,M,MemQ,Memory-augmented Query Reconstruction for LLM-based Knowledge Graph Reasoning,2025,NS,KG,,,G,A+S,program,E,Mk,,art-run,na,,,,,F
@@ -83,7 +83,7 @@ no,stage,pillar,name,title,year_first_public,pattern,formalism,design_time_sourc
                      Evidence Portfolios",2026,NS,KG,,,G,A+S,program,E,Mw+Mk,,out,na,yes,,,yes,F
 82,3,M,Researcher agent,Towards Researcher Agents for Knowledge-Graph Question Answering,2026,NS,KG,,,G,A+S,program,E,Mk,,art-run,na,,,,yes,F
 83,3,M,SCAIR,SCAIR: Schema-Conditioned Agentic Iterative Reasoning for Enterprise Knowledge Graphs,2026,NS,KG,,,G,A+S,program,E,Mw+Mk,,out,na,unk,,,,F
-84,1,M,Selective forgetting,Selective Forgetting: A Graph-Based Memory Framework for Long-Term LLM Agents,2026,SN,KG,,,G,A+S,content,D/K,Ml,,out,na,,,,,F
+84,1,M,Rusu et al.,Selective Forgetting: A Graph-Based Memory Framework for Long-Term LLM Agents,2026,SN,KG,,,G,A+S,content,D/K,Ml,,out,na,,,,,F
 85,3,M,TRiM-KG,TRiM-KG: A Temporal Memory Knowledge Graph for Network Management Reasoning in LLM Agents,2026,NS,KG,,,G,S,content,E,Ml,,out,na,,,,,F
 86,2,M,WorldDB,WorldDB: A Vector Graph-of-Worlds Memory Engine with Ontology-Aware Write-Time Reconciliation,2026,SN,KG,,,G,A+S,content,D/K,Ml,,out,na,,,,,F
 87,1,M,Voyager skill library,Voyager: An Open-Ended Embodied Agent with Large Language Models,2023,NS,LOG,,code,G+E,S,program,E,P+Ml,P=Ml,out,na,,,yes,yes,F
@@ -129,18 +129,18 @@ no,stage,pillar,name,title,year_first_public,pattern,formalism,design_time_sourc
 127,3,V,AgentGuard,AgentGuard: Runtime Verification of AI Agents,2025,SN,LOG,,PCTL,E,A+M,none,P/K,Ml+V,Ml=V,out,na,,,,,F
 128,1,V,CaMeL,Defeating Prompt Injections by Design,2025,SN,LOG,,Python,E,A,none,D/W,P+Mw+V,P=Mw=V,out,na,,yes,,yes,F
 129,2,V,G-SPEC,Graph-Symbolic Policy Enforcement and Control (G-SPEC): A Neuro-Symbolic Framework for Safe Agentic AI in 5G Autonomous Networks,2025,SN,KG,,,E,A,none,D/K,Mw+V,Mw=V,out,na,,,,,F
-130,1,V,MCP schema guardrails,Establishing Guardrails for AI Tool Use: Formal Safety Constraints Using MCP Schemas,2025,SN,LOG,,JSON Schema,E+H,A,none,D/W,V,,out,na,,,,,F
+130,1,V,MCP schemas,Establishing Guardrails for AI Tool Use: Formal Safety Constraints Using MCP Schemas,2025,SN,LOG,,JSON Schema,E+H,A,none,D/W,V,,out,na,,,,,F
 131,3,V,PRISM-AI,PRISM-AI: A Dual-Stage Neuro-Symbolic Agentic Framework for Privacy Risk Mitigation in LLMs,2025,SN,LOG,,FOL,E,A,none,E,V,,out,na,yes,,,,F
 132,1,V,Pro2Guard,Proactive Runtime Enforcement of LLM Agent Safety via Probabilistic Model Checking,2025,SN,LOG,,PCTL,E,A+M,none,P/K,Ml+V,Ml=V,out,na,,,,,F
 133,1,P,SELP,SELP: Generating Safe and Efficient Task Plans for Robot Agents with Large Language Models,2024,SN,LOG,,LTL+automaton,G,S,model,D/K,P,,art-iso,single,,,,,F
 134,1,V,ShieldAgent,ShieldAgent: Shielding Agents via Verifiable Safety Policy Reasoning,2025,NS,LOG,,LTL+Prover9+MLN,E,M+S,program,E,V,,out,na,unk,,,,F
 135,1,V,Temporal assertions (ADK),An Approach to Checking Correctness for Agentic Systems,2025,SN,LOG,,Oroboro,E,A,none,D/W,V,,out,na,,,,,F
-136,1,V,Verified code reasoning,Towards Verified Code Reasoning by LLMs,2025,SN,LOG,,Datalog,H,A,none,D/K,V,,out,na,,,,,F
+136,1,V,Sistla et al.,Towards Verified Code Reasoning by LLMs,2025,SN,LOG,,Datalog,H,A,none,D/K,V,,out,na,,,,,F
 137,1,V,AgentLTL,"AgentLTL: A Trace-Verification Framework for Measuring, Enforcing, and Training Procedural Compliance in Tool-Using LLM Agents",2026,HL,LOG,,FO-LTL,E+H,A,none,E,Mw+V,Mw=V,out,na,yes,,,,F
 138,1,V,AgentSpec,AgentSpec: Customizable Runtime Enforcement for Safe and Reliable LLM Agents,2025,SN,LOG,,DSL,E,A,none,D/K,V,,out,na,,yes,,,F
 139,1,V,AutoSpec (ILP),AutoSpec: Safety Rule Evolution for LLM Agents via Inductive Logic Programming,2026,SN,LOG,,DSL,E,A+M,none,D/K,Ml+V,Ml=V,out,na,,,,,F
-140,1,V,Causal past logic RV,Causal Past Logic for Runtime Verification of Distributed LLM Agent Workflows,2026,SN,LOG,,CPL,E,A,none,D/W,Mw+V,Mw=V,out,na,,,,,F
-141,3,V,Containment verification,Containment Verification: AI Safety Guarantees Independent of Alignment,2026,SN,LOG,,Dafny,D+E,A+S,model,D/K,V,,out,na,,,,yes,F
+140,1,V,Causal-past RV,Causal Past Logic for Runtime Verification of Distributed LLM Agent Workflows,2026,SN,LOG,,CPL,E,A,none,D/W,Mw+V,Mw=V,out,na,,,,,F
+141,3,V,Moon et al.,Containment Verification: AI Safety Guarantees Independent of Alignment,2026,SN,LOG,,Dafny,D+E,A+S,model,D/K,V,,out,na,,,,yes,F
 142,3,V,ContrAgent,Symbolic Temporal Supervision of LLM Agents Using Contracts,2026,HL,LOG,,ALTLf+DFA,E+H,A+S,model,D/W,Mw+V,Mw=V,out,na,,,,,F
 143,1,V,Contract2Tool,Contract2Tool: Learning Preconditions and Effects for Reliable Tool-Augmented LLM Agents,2026,NS,LOG,,,D,A+S,model,E,X,,art-iso,na,,,,,F
 144,1,V,Datalog PEPs,Formal Policy Enforcement for Real-World Agentic Systems,2026,HL,LOG,,Datalog,E,A+S,model,D/K,Mw+V,Mw=V,out,na,,,,,F
@@ -151,13 +151,13 @@ no,stage,pillar,name,title,year_first_public,pattern,formalism,design_time_sourc
 149,1,V,Ontology-derived invariants,Provably Auditable and Safe LLM Agents from Human-Authored Ontologies,2026,SN,LOG,ONT,,E,A+S,model,D/K,Mw+V,Mw=V,out,na,,yes,,,F
 150,3,V,PEA,Structural Enforcement of Goal Integrity in AI Agents via Separation-of-Powers Architecture,2026,SN,LOG,,,E,A,none,D/W,Mw+V,Mw=V,out,na,,,,,F
 151,1,V,Provable guardrail,Provably Secure Agent Guardrail,2026,HL,LOG,,SMT+FOL,E,A,none,D/W,Mw+V,Mw=V,out,na,,,,,F
-152,1,V,STEAD verification,Formal Verification of Agentic Systems over Operational Data,2026,SN,LOG,,FO-CTL,D,A,none,D/K,V,,out,na,,,,,F
+152,1,V,STEAD,Formal Verification of Agentic Systems over Operational Data,2026,SN,LOG,,FO-CTL,D,A,none,D/K,V,,out,na,,,,,F
 153,2,V,Sentinel,Policy-Invisible Violations in LLM-Based Agents,2026,SN,KG,,,E,A,none,D/K,Mk+Mw+V,Mk=V;Mw=V,out,na,,yes,,,F
 154,1,V,Temporal guardrails,Temporal Guardrails for LLM Conversations: A Runtime Verification Framework,2026,SN,LOG,,ptLTL,E,A,none,D/K,V,,out,na,,,,,F
 155,1,V,ToolGate,ToolGate: Contract-Grounded and Verified Tool Execution for LLMs,2026,SN,LOG,,Hoare contracts,E+H,U,none,D/K,Mw+X,Mw=X,out,na,,,,,F
 156,3,V,TriCEGAR,TriCEGAR: A Trace-Driven Abstraction Mechanism for Agentic AI,2026,SN,LOG,,PCTL,E+H,A+M,none,P/K,Ml+V,Ml=V,out,na,,,,,F
 157,1,V,VerAct,VerAct: A Two-Layer Architecture for Provably Safe LLM Agent Planning,2026,SN,LOG,,,G+E,U,none,D/K,V,,out,na,,,,,A
-158,1,V,Executable governance,Executable Governance for AI: Translating Policies into Rules Using LLMs,2025,NS,LOG,,SMT+Colang+DSL,D,A+S,model,E,V,,art-iso,na,,,,yes,F
+158,1,V,Datla et al.,Executable Governance for AI: Translating Policies into Rules Using LLMs,2025,NS,LOG,,SMT+Colang+DSL,D,A+S,model,E,V,,art-iso,na,,,,yes,F
 159,1,V,Safety Chip,Plug in the Safety Chip: Enforcing Constraints for LLM-driven Robot Agents,2023,HL,LOG,,LTL,E,A+S,model,D/K,V,,out,na,,,,,F
 160,1,V,LTLCrit,Embodied LLM Agents through Temporal Logic Based Critics (LTLCrit),2025,HL,LOG,,LTL,E,A+S,model,E,Ml+V,Ml=V,out,na,yes,,,,F
 161,1,V,PAT-Agent,PAT-Agent: Autoformalization for Model Checking,2025,HL,LOG,,PAT,G,A+S,model,D/K,V,,art-iso,na,,,,,F
@@ -184,7 +184,7 @@ no,stage,pillar,name,title,year_first_public,pattern,formalism,design_time_sourc
 182,4,P,DELTA,DELTA: Decomposed Efficient Long-Term Robot Task Planning using Large Language Models,2024,SN,LOG,,PDDL,G,S,model,D/K,P,,out,single,,,,,F
 183,4,P,VisualPredicator,VisualPredicator: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning,2024,SN,LOG,,PDDL-style operators + Python NSPs,G+E,M+S,model,D/K,P+Ml,P=Ml,out,closed,,,yes,,F
 184,4,V,Collaborative Memory,Collaborative Memory: Multi-User Memory Sharing in LLM Agents with Dynamic Access Control,2025,SN,LOG,,bipartite access graphs + provenance predicates,E,A,none,D/W,Ml+V,Ml=V,out,na,,,,,F
-185,4,P,LLM-guided optimal scene graph planning,Optimal Scene Graph Planning with Large Language Model Guidance,2023,SN,LOG,,LTL + automaton,G,A+S,model,D/K,P,,out,single,,,,yes,F
+185,4,P,Dai et al.,Optimal Scene Graph Planning with Large Language Model Guidance,2023,SN,LOG,,LTL + automaton,G,A+S,model,D/K,P,,out,single,,,,yes,F
 186,4,P,GraphEQA,GraphEQA: Using 3D Semantic Scene Graphs for Real-time Embodied Question Answering,2024,NS,KG,,3DSG (JSON),E,M+S,content,E,P+Mw,P=Mw,out,closed,,,,,F
 187,4,M,KARMA,KARMA: Augmenting Embodied AI Agents with Long-and-short Term Memory Systems,2024,NS,KG,,3DSG (serialized),G,M+S,content,E,P+Mw+Ml,P=Ml,out,na,,,,,F
 188,4,P,AutoGPT+P,AutoGPT+P: Affordance-based Task Planning with Large Language Models,2024,SN,LOG,,PDDL + Prolog,G+E,A+S,model,D/K,P+Mw,P=Mw,art-iso,closed,,,,yes,F
