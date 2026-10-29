@@ -1,0 +1,94 @@
+no,name,pillar,assurance,provenance,U,T,A,evidence
+2,Wang et al.,P,P/W,A,1,1,0,"U: KnowNo LLM planner without LTL on same tasks; T: runtime about 70 s, comparable"
+3,LLM+P,P,D/K,A+S,1,0,0,U: LLM-As-Planner baselines; only 200 s limit
+4,LLM-DP,P,D/K,A+S,1,1,0,U: ReAct 53% vs LLM-DP 96%; T: LLM tokens
+5,Anticipate&Act,P,D/K,A+S,0,0,0,"baseline is myopic planning with same planner; Table IV gives plan execution time, not computation"
+6,Formal-LLM,P,D/K,A,1,0,0,U: same agent without Formal-LLM
+8,TwoStep,P,D/K,A,0,1,1,baselines are PDDL planners; T: planning time; A: expert took 70 minutes to annotate 16 tasks (TwoStep-Human)
+9,Corrêa et al.,P,D/K,A,1,1,0,"U: end-to-end LLM planning baseline; T: search run time, LLM calls 720 vs 200"
+11,MDPs via logic programs,P,P/K,A+S,0,0,0,compares optimal vs faulty policy; effort claimed qualitatively
+12,Multi-level decomposition,P,D/K,A,1,1,0,U: LLM-based planner baselines; T: planning time vs Fast Downward
+14,Hao et al.,P,D/K,A+S,1,1,0,U: direct/CoT/ReAct baselines with same LLMs on TravelPlanner; T: Appendix B cost and runtime
+16,Capability-based SMT planning,P,D/K,A+S,0,0,0,"five case studies, no comparison or timing"
+17,Evolved heuristics,P,D/K,A,0,1,0,baselines are hand-engineered heuristics; T: per-problem runtime
+19,HTN heuristics,P,D/K,A,0,0,0,baselines are domain-independent heuristics; only runtime limits; effort = expansions
+20,KGLAMP,P,D/K,A+S,1,1,0,"U: LLM-only variants, GPT-5 for all; T: planning time PT(s)"
+21,NeSy embodied agents,P,D/K,A+S,1,1,0,U: unconstrained vs constrained decoding 61.0% -> 98.5%; T: generated tokens
+23,PyPDDLEngine,P,D/K,A,1,1,0,"U: direct LLM planning 63.7% vs agentic via PyPDDLEngine 66.7%, same LLM; T: 5.7x token cost"
+24,SCLPlan,V,D/K,A,1,1,0,"U: zero-shot LLM planner baseline, same backbones (+60%); T: token count"
+30,Guan et al.,P,D/K,A+S,1,0,1,"U: only-LLM planner 15%/0% vs FD with LLM model 95%/100% (Table 2); A: errors needing human correction, 53 in GPT-4 Household (Table 1)"
+31,Ada,P,D/K,A+S,1,0,0,"U: LLM-only code-policy baseline, all with GPT-3.5"
+32,AutoTAMP,P,D/K,A+S,1,0,0,"U: LLM end-to-end and LLM task planning baselines (GPT-4); T: only a total over all methods (two weeks, about 1500 USD)"
+34,Recover,V,D/K,A,1,0,1,"U: purely LLM-based REFLECT-style baseline; A: one rule per failure type, 12 failure types"
+36,End-to-end PDDL,P,D/K,S,1,0,na,"U: vanilla model vs agents, same LLMs"
+40,NS task replanning,P,D/K,A+S,0,0,0,ablation removes replanning only; planner always present
+41,Reinforced NeSy planning,P,D/K,A,1,0,0,U: CoT/ToT baselines with the same LLMs
+44,As You Wish,P,D/K,S,0,0,na,success = agreement of LLMs and SPIN; no condition without FV; no timing
+45,DUPLEX,P,D/K,A+S,1,0,0,U: LLM-as-Planner 11.9% vs 97.5%; only time limits
+48,Industrial DT,P,D/K,A,1,1,0,U: ablation without symbolic verification; T: generation time 85.3 s
+49,LLM-Flax,P,D/K,A,0,1,0,"manual vs LLM rules, planner always present; T: planning time (s) table"
+50,NS hierarchical learning,P,D/K,A+S,0,1,0,"ablations keep the symbolic synthesis; T: computational overhead Table 4, SMT solving time"
+51,Novelty adaptation,P,D/K,A+S,0,1,0,baselines are RL methods and operator discovery; T: hybrid planner 75.19 s vs 85.51 s for operator discovery
+53,PDDLCoder,P,D/K,S,1,1,na,U: LLM-Planners baselines up to 74.5%; T: token statistics
+54,Planner-in-the-loop PDDL,P,D/K,A+S,0,0,0,"LLM-only comparison uses different (proprietary) models, not like-for-like by the authors' own statement"
+55,Proposals+verification,P,D/K,S,0,1,na,baselines are RL; T: runtime and token cost tables
+57,Trained orchestrator,P,D/K,S,0,1,na,"baselines keep the planner pipeline; T: $0.18 -> $0.004 per task, <10 ms per decision"
+58,EAM,P,D/K,M+S,1,1,0,"U: ablation baseline vs +KB; T: 2.8 s latency, token cost"
+59,LLM-to-TL (grammar),P,D/K,A+S,1,0,0,"U: ablations without the grammar constraint (F, F+P) on the same NL-TL set"
+67,CoEx,M,D/K,A+S,1,1,0,U: ReAct baseline; T: computational cost breakdown
+73,APEX-MEM,M,D/K,A+S,1,0,0,"U: LOCOMO baselines re-implemented with new Claude/GPT versions, expanded-session search baseline"
+78,MOOSEDev,M,D/K,A+S,1,1,1,"U: production vector memory (mem0) on same corpus; T: agent tokens 78k-167k vs 35k; A: hand-refined ontologies of 9 and 11 classes, 51 properties"
+80,NeuSymMS,M,D/K,A+S,0,0,0,no experiments; baselines listed as future work
+84,Rusu et al.,M,D/K,A+S,1,0,0,"U: graph retrieval vs flat vector baseline, same answerer (F1 0.417 vs 0.468); forgetting cost in storage only"
+86,WorldDB,M,D/K,A+S,1,1,0,U: ablation isolating the graph layer (+10.7pp); T: P95 read latency 13 ms / 97 ms / 3.1 ms
+122,VIRF,V,D/K,A+S,1,1,1,"U: Impulsive/CoT LLM baselines, GCR; T: 1-2 s per step, VL (s); A: 124 candidate axioms reviewed, 92 accepted, 114-axiom TBox"
+126,Agent-C,V,D/W,A,1,1,0,U: utility vs unrestricted agents and guardrails; T: 480.23 s vs 409.35 s (AgentSpec) in benign scenarios
+127,AgentGuard,V,P/K,A+M,0,0,0,"framework proposal, no evaluation"
+128,CaMeL,V,D/W,A,1,1,0,"U: 77% vs 84% undefended; T: 2.82x input, 2.73x output tokens"
+129,G-SPEC,V,D/K,A,1,1,1,"U: 94.1% vs 82.4% baseline remediation, ablations; T: 142 ms overhead; A: 88 SHACL rules validated by experts"
+130,MCP schemas,V,D/W,A,0,1,0,"false positives named as a metric, no rate reported; T: 8-13 ms per call"
+132,Pro2Guard,V,P/K,A+M,1,1,0,U: task completion with and without enforcement (59.38% without); T: 5-30 ms per decision round
+133,SELP,P,D/K,S,1,1,na,U: existing LLM planners with same LLM; T: execution time vs task complexity (Fig. 7)
+135,Temporal assertions (ADK),V,D/W,A,0,0,0,demonstration on a three-agent ADK system
+136,Sistla et al.,V,D/K,A,0,0,0,no comparison of the agent with and without verification on the same metric
+138,AgentSpec,V,D/K,A,1,1,0,U: safe instructions fulfilled 58.62% without vs 54.26% with AgentSpec (Table 4); T: RQ4 runtime overhead
+139,AutoSpec (ILP),V,D/K,A+M,1,1,1,U: false positives on benign actions vs LLM classifier; T: learning time 20.1 s vs 4.4 s; A: 16-24 hand-written predicates per domain
+140,Causal-past RV,V,D/W,A,0,0,0,"monitor semantics and proofs, no experiments"
+141,Moon et al.,V,D/K,A+S,0,1,0,"proof-based containment, no utility comparison; T: Dafny verification 1.2-2.5 s per path, token usage per run"
+142,ContrAgent,V,D/W,A+S,1,1,0,"U: unguarded and prompted base models, success on permitted tasks, FP < 1%; T: per-call latency"
+144,Datalog PEPs,V,D/K,A+S,1,1,0,"U: non-instrumented vs instrumented, tau2-bench 58% -> 98%, benign 5/5; T: latency +19-38%, < $0.05 per trial"
+145,FM auditing/monitoring,V,D/K,A,0,0,0,baselines are LLM-as-judge detectors; no task success with and without intervention
+147,MCP runtime enforcement,V,D/W,A,1,1,1,"U: no-defence vs full system, FPR(task); T: ~60 us P50 per call; A: five rules R01-R05"
+149,Ontology-derived invariants,V,D/K,A+S,0,0,0,"formal semantics, no experiments"
+150,PEA,V,D/W,A,1,1,0,"U: false-positive rate 4.8% on legitimate tasks, ASR 41.2% -> 3.9%; T: estimated overhead 100-185 ms at P95 (prototype, Table 4)"
+151,Provable guardrail,V,D/W,A,1,1,0,U: benign sequences accepted without false positives; T: 0.44 ms
+152,STEAD,V,D/K,A,0,0,0,"computational cost is a hardness result, not a measurement"
+153,Sentinel,V,D/K,A,1,1,0,U: zero false positives on safe-control cases; T: verify call < 1 ms
+154,Temporal guardrails,V,D/K,A,0,0,0,evaluates grounding classifiers only
+155,ToolGate,V,D/K,U,1,0,na,U: ablation without Hoare filtering 37.6% success; savings only qualitative
+156,TriCEGAR,V,P/K,A+M,0,0,0,"synthetic traces, no utility or timing"
+157,VerAct,V,D/K,U,0,0,na,abstract only (basis A)
+159,Safety Chip,V,D/K,A+S,1,0,0,U: 100% safety without impacting success rate vs baselines (Table II)
+161,PAT-Agent,V,D/K,A+S,0,1,0,ablations keep the model checker; T: median 4.34 min per system
+162,VeriGuard,V,D/K,S,1,0,na,U: task success rate with and without VeriGuard (51.87% -> 63.25%)
+163,VeriPlan,P,D/K,A+S,0,0,0,"user study with a no-model-checker condition, outcomes are user ratings, no task-success metric"
+164,Agentic model checking,V,D/K,S,0,0,na,LLM-only contrast is a qualitative example
+165,SMT compliance,V,D/K,A+S,1,0,0,"U: baseline TaLLM vs TaLLM with policy checker, pass^k success"
+167,Text2Motion,P,D/K,A+S,1,1,0,U: myopic LLM planners saycan-gs/innermono-gs; T: 2-10 s per LLM query
+173,COWP,P,D/K,A+S,1,0,0,"U: Inner Monologue etc. LLM planners, GPT-3 engines"
+175,CoPAL,V,D/K,A,1,1,0,U: baseline without replanning 5.7% executability; T: runtimes per architecture
+176,Parse-and-Solve,P,D/K,A+S,1,0,0,U: GPT-3 direct generation vs parse-and-solve on same prompts
+178,RoboGuard,V,D/K,S,1,1,na,"U: safe tasks without vs with RoboGuard, 100% vs 100%; T: tokens and LLM queries (Table III)"
+179,ViLaIn,P,D/K,A+S,0,0,0,ablations of corrective re-prompting and CoT keep the planner
+180,InterPreT,P,D/K,M+S,1,1,1,"U: Inner Monologue / Code-as-Policies LLM planners; T: runtime analysis, LLM calls; A: number of human feedback items (Table V)"
+182,DELTA,P,D/K,S,1,1,na,U: LLM-As-Planner baseline; T: planning time metric
+183,VisualPredicator,P,D/K,M+S,1,1,0,U: VLM planning baselines; T: planning time per environment
+184,Collaborative Memory,V,D/W,A,0,1,0,"compares sharing configurations, all under the access policies; T: knowledge-base/API calls per query"
+185,Dai et al.,P,D/K,A+S,0,1,0,"compares heuristics with/without LLM, planner always present; T: planning time Fig. 7"
+188,AutoGPT+P,P,D/K,A+S,1,1,0,U: LLM-as-Planner baseline (GPT-3/GPT-4); T: planning time 3.3 s / 15.4 s
+191,BLADE,P,D/K,A+S,1,0,0,U: SayCan/Robot-VILA LLM-VLM planners on same tasks
+194,TTG,P,D/K,A+S,0,1,0,"constrained vs unconstrained decoding concerns JSON generation, solver always present; T: ~5 s per reply"
+195,TPVQA,P,D/K,A+S,0,0,0,"baselines keep the planner (EffectVQA ablation, TP without perception)"
+196,Planning in the Dark,P,D/K,A+S,0,1,1,"T: solvability check of 20,000 schema sets within 2 min; A: expert input <=1 vs ~59 for Guan et al. (Table 2)"
+198,Code World Models (CWM),P,D/K,S,1,1,na,U: Gemini 2.5 Pro used directly as policy vs CWM planner; T: number of LLM calls (Tables 4-5)
+201,LASP,P,D/K,A+S,1,0,0,U: LLM zero-shot planner baseline

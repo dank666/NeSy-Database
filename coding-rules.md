@@ -463,6 +463,33 @@
 - `year_first_public`: the year the earliest version of the work became public.
 - `basis`: F (full text) or A (abstract only).
 
+## R19 Cost of the symbolic layer
+
+Coded in `cost_93.csv` for the 93 guaranteed units (`assurance` other than E and D/K-st), from the experiments that the paper reports. Each code is 1 if the paper reports the quantity and 0 otherwise.
+
+| Column | Definition |
+|---|---|
+| `U` | Task success with and without the unit, on the same tasks and with the same LLM, by ablation or against an LLM-only baseline; for gates, also success on benign tasks with and without the gate, or the rate at which benign actions are blocked |
+| `T` | A measured run time, latency, token count, number of LLM calls, or monetary cost |
+| `A` | A quantified human effort to write, mine, or correct the unit's artefacts, such as the time spent or the number of rules written or corrections made; na if `provenance` contains neither A nor M |
+| `evidence` | Where the paper reports the quantity, or why it is coded 0 |
+
+- **Not counted for `T`:** limits, timeouts, qualitative statements, and totals over all compared methods.
+- **Not counted for `A`:** domains supplied by a benchmark.
+
+## Research community
+
+`community_202.csv` assigns each work to a community by the primary category of its arXiv version, found by identifier or by title; for works without an arXiv version, by venue. Cross-listings are not used.
+
+| Code | arXiv primary categories |
+|---|---|
+| AI | cs.AI, cs.MA |
+| Robotics | cs.RO |
+| NLP/IR | cs.CL, cs.IR |
+| SE/FM/Security | cs.SE, cs.CR, cs.LO, cs.PL |
+| ML | cs.LG |
+| Other | cs.CV, cs.HC |
+
 ---
 
 ## Consistency checks

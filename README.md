@@ -7,6 +7,9 @@ Data for the survey "Neuro-Symbolic Agentic AI: A Survey on Planning, Memory, an
 | `classification_202.csv` | Codes of the 202 works in the corpus (online Appendix A of the article) |
 | `stage4_sample_classification.csv` | Codes of the 103 works in the stage-4 sample, which lies outside the corpus |
 | `coding-rules.md` | Coding manual (online Appendix B); its first table defines the coding fields |
+| `community_202.csv` | Research community of each work, from the primary category of its arXiv version or, for works without one, its venue (online Appendix D) |
+| `cost_93.csv` | Reported cost of the 93 guaranteed units: task success with and without the unit, run time, and authoring effort (rule R19; online Appendix E) |
+| `fca_taubench.py` | Formal concept analysis of the tool calls in the τ-bench airline trajectories (online Appendix F); the file header says where to obtain the input data |
 | `stage1/screened_120.csv` | Stage 1 (exploration): the 120 eligible works |
 | `stage1/three communities paper list/sources.md` | Stage 1: the three community paper lists that were consulted |
 | `stage2/records/` | Stage 2 (targeted arXiv searches): the 60 records returned |

@@ -1,0 +1,203 @@
+no,name,pillar,arxiv_id,arxiv_primary_category,venue_if_no_arxiv,community
+1,JARVIS,P,2208.13266,cs.AI,,AI
+2,Wang et al.,P,2309.10092,cs.RO,,Robotics
+3,LLM+P,P,2304.11477,cs.AI,,AI
+4,LLM-DP,P,2308.06391,cs.CL,,NLP/IR
+5,Anticipate&Act,P,2502.02066,cs.RO,,Robotics
+6,Formal-LLM,P,2402.00798,cs.LG,,ML
+7,Teriyaki,P,2303.00438,cs.AI,,AI
+8,TwoStep,P,2403.17246,cs.AI,,AI
+9,Corrêa et al.,P,2503.18809,cs.AI,,AI
+10,LaMMA-P,P,2409.20560,cs.RO,,Robotics
+11,MDPs via logic programs,P,2511.23143,cs.RO,,Robotics
+12,Multi-level decomposition,P,2409.19250,cs.RO,,Robotics
+13,Plan-to-Kripke check,V,2510.03469,cs.AI,,AI
+14,Hao et al.,P,2404.11891,cs.AI,,AI
+15,ANNEAL,P,2605.16309,cs.AI,,AI
+16,Capability-based SMT planning,P,2605.28666,cs.AI,,AI
+17,Evolved heuristics,P,2605.29649,cs.AI,,AI
+18,Graph-informed actions,P,,,ICML,ML
+19,HTN heuristics,P,2605.07707,cs.AI,,AI
+20,KGLAMP,P,2602.04129,cs.RO,,Robotics
+21,NeSy embodied agents,P,2608.16794,cs.RO,,Robotics
+22,PhyNiKCE,P,2602.11666,cs.AI,,AI
+23,PyPDDLEngine,P,2603.06064,cs.AI,,AI
+24,SCLPlan,V,2510.06357,cs.RO,,Robotics
+25,Chen et al.,P,2503.01700,cs.RO,,Robotics
+26,Gideon,P,2505.08492,cs.AI,,AI
+27,PDDL-Instruct,P,2509.13351,cs.AI,,AI
+28,NeSyFS,P,2607.28942,cs.AI,,AI
+29,SymPlan,P,2606.31260,cs.RO,,Robotics
+30,Guan et al.,P,2305.14909,cs.AI,,AI
+31,Ada,P,2312.08566,cs.AI,,AI
+32,AutoTAMP,P,2306.06531,cs.RO,,Robotics
+33,Silver et al.,P,2305.11014,cs.AI,,AI
+34,Recover,V,2404.00756,cs.AI,,AI
+35,Agent2World,P,2512.22336,cs.AI,,AI
+36,End-to-end PDDL,P,2512.09629,cs.AI,,AI
+37,KG-RAG + verification,P,2504.04578,cs.AI,,AI
+38,LLM-KGPlan,P,,,PRICAI,AI
+39,Metagent-P,P,,,Findings of ACL,NLP/IR
+40,NS task replanning,P,,,Journal of Korea Robotics Society,Robotics
+41,Reinforced NeSy planning,P,,,IJCAI,AI
+42,SPAR,P,2509.13691,cs.RO,,Robotics
+43,WALL-E 2.0,V,2504.15785,cs.AI,,AI
+44,As You Wish,P,2606.18519,cs.RO,,Robotics
+45,DUPLEX,P,2603.23909,cs.AI,,AI
+46,GraphThink,P,2608.07905,cs.AI,,AI
+47,Hierarchical multi-robot planner,P,2602.21670,cs.RO,,Robotics
+48,Industrial DT,P,2606.08214,cs.RO,,Robotics
+49,LLM-Flax,P,2604.26569,cs.RO,,Robotics
+50,NS hierarchical learning,P,,,PACMPL,SE/FM/Security
+51,Novelty adaptation,P,2603.11351,cs.RO,,Robotics
+52,OPINE-World,P,2607.01531,cs.AI,,AI
+53,PDDLCoder,P,2608.16637,cs.AI,,AI
+54,Planner-in-the-loop PDDL,P,2606.29700,cs.AI,,AI
+55,Proposals+verification,P,,,Machine Learning and Knowledge Extraction,ML
+56,Symbolic-feedback refinement,P,2606.27757,cs.AI,,AI
+57,Trained orchestrator,P,2606.21740,cs.AI,,AI
+58,EAM,P,2605.12294,cs.AI,,AI
+59,LLM-to-TL (grammar),P,2505.13376,cs.RO,,Robotics
+60,Self-constrained LTL,P,2608.28435,cs.RO,,Robotics
+61,SymAgent,M,2502.03283,cs.AI,,AI
+62,OaK dynamic ontology,M,2608.22974,cs.AI,,AI
+63,KG-Agent,M,2402.11163,cs.CL,,NLP/IR
+64,Optimus-1,P,2408.03615,cs.AI,,AI
+65,RoG,M,2310.01061,cs.CL,,NLP/IR
+66,ToG,M,2307.07697,cs.CL,,NLP/IR
+67,CoEx,M,2507.22281,cs.AI,,AI
+68,EGP,M,2510.15283,cs.CL,,NLP/IR
+69,MemQ,M,2503.05193,cs.CL,,NLP/IR
+70,MemoTime,M,2510.13614,cs.CL,,NLP/IR
+71,SEAL,M,2512.04868,cs.CL,,NLP/IR
+72,SimGRAG,M,2412.15272,cs.CL,,NLP/IR
+73,APEX-MEM,M,2604.14362,cs.CL,,NLP/IR
+74,CLAUSE,M,2509.21035,cs.AI,,AI
+75,CoTPR,M,,,IEEE Internet of Things Journal,Other
+76,Engram,M,2606.09900,cs.CL,,NLP/IR
+77,MARS,M,2607.14561,cs.CL,,NLP/IR
+78,MOOSEDev,M,2608.13662,cs.AI,,AI
+79,MemGraphRAG,M,2606.00610,cs.IR,,NLP/IR
+80,NeuSymMS,M,2605.17596,cs.AI,,AI
+81,PortfoliQA,M,,,AAMAS,AI
+82,Researcher agent,M,2608.07700,cs.AI,,AI
+83,SCAIR,M,2607.22571,cs.AI,,AI
+84,Rusu et al.,M,2608.28978,cs.AI,,AI
+85,TRiM-KG,M,,,NaNA,Other
+86,WorldDB,M,2604.18478,cs.AI,,AI
+87,Voyager skill library,M,2305.16291,cs.AI,,AI
+88,EMG-RAG,M,2409.19401,cs.CL,,NLP/IR
+89,AriGraph,M,2407.04363,cs.AI,,AI
+90,Cognitive Weave,M,2506.08098,cs.AI,,AI
+91,D-SMART,M,2510.13363,cs.CL,,NLP/IR
+92,DAMCS,M,2502.05453,cs.AI,,AI
+93,G-Memory,M,2506.07398,cs.MA,,AI
+94,Grounded memory,M,2505.06328,cs.AI,,AI
+95,HyperGraphRAG,M,2503.21322,cs.AI,,AI
+96,LiCoMemory,M,2511.01448,cs.IR,,NLP/IR
+97,Mem0 (graph variant),M,2504.19413,cs.CL,,NLP/IR
+98,MemLLM,M,2404.11672,cs.CL,,NLP/IR
+99,Memoria,M,2512.12686,cs.AI,,AI
+100,PersonalAI,M,2506.17001,cs.CL,,NLP/IR
+101,TReMu,M,2502.01630,cs.AI,,AI
+102,Trainable graph memory,M,2511.07800,cs.CL,,NLP/IR
+103,Zep/Graphiti,M,2501.13956,cs.CL,,NLP/IR
+104,APEX-EM,M,2603.29093,cs.CL,,NLP/IR
+105,ARIS,M,2605.00943,cs.RO,,Robotics
+106,Adaptive structures,M,2602.14038,cs.AI,,AI
+107,Agent Zero Memory,M,2608.29606,cs.CL,,NLP/IR
+108,Atom-to-community,M,2601.16872,cs.IR,,NLP/IR
+109,CraniMem,M,2603.15642,cs.AI,,AI
+110,ECHO,M,2608.06110,cs.AI,,AI
+111,EpisTwin,M,2603.06290,cs.AI,,AI
+112,GAM,M,2604.12285,cs.AI,,AI
+113,MAGMA,M,2601.03236,cs.AI,,AI
+114,MOSS,M,2607.04391,cs.CL,,NLP/IR
+115,MRAgent,M,2606.06036,cs.AI,,AI
+116,Multimodal NeSy memory,M,2603.15280,cs.AI,,AI
+117,NSI,M,2605.01293,cs.AI,,AI
+118,OmegaClaw,M,,,AGI,AI
+119,RoMem,M,2604.11544,cs.CL,,NLP/IR
+120,SYNAPSE,M,2601.02744,cs.CL,,NLP/IR
+121,OASA-KGQA,M,,,IEEE BigDataService,NLP/IR
+122,VIRF,V,2602.08373,cs.AI,,AI
+123,Dual (feasibility) memory,V,2604.02734,cs.AI,,AI
+124,NeMo Guardrails,V,2310.10501,cs.CL,,NLP/IR
+125,GuardAgent,V,2406.09187,cs.LG,,ML
+126,Agent-C,V,2512.23738,cs.PL,,SE/FM/Security
+127,AgentGuard,V,2509.23864,cs.AI,,AI
+128,CaMeL,V,2503.18813,cs.CR,,SE/FM/Security
+129,G-SPEC,V,2512.20275,cs.AI,,AI
+130,MCP schemas,V,,,IJIREMPS,Other
+131,PRISM-AI,V,,,AICCSA,Other
+132,Pro2Guard,V,2508.00500,cs.AI,,AI
+133,SELP,P,2409.19471,cs.RO,,Robotics
+134,ShieldAgent,V,2503.22738,cs.LG,,ML
+135,Temporal assertions (ADK),V,2509.20364,cs.AI,,AI
+136,Sistla et al.,V,2509.26546,cs.SE,,SE/FM/Security
+137,AgentLTL,V,2607.02599,cs.SE,,SE/FM/Security
+138,AgentSpec,V,2503.18666,cs.AI,,AI
+139,AutoSpec (ILP),V,2606.24245,cs.SE,,SE/FM/Security
+140,Causal-past RV,V,2605.20923,cs.LO,,SE/FM/Security
+141,Moon et al.,V,2605.09045,cs.AI,,AI
+142,ContrAgent,V,2609.18128,cs.AI,,AI
+143,Contract2Tool,V,2606.07904,cs.AI,,AI
+144,Datalog PEPs,V,2602.16708,cs.CR,,SE/FM/Security
+145,FM auditing/monitoring,V,2605.16198,cs.AI,,AI
+146,FormalJudge,V,2602.11136,cs.AI,,AI
+147,MCP runtime enforcement,V,,,Electronics,Other
+148,OLDCARTS gate,V,2606.18068,cs.AI,,AI
+149,Ontology-derived invariants,V,2606.04903,cs.LO,,SE/FM/Security
+150,PEA,V,2604.23646,cs.AI,,AI
+151,Provable guardrail,V,2605.29251,cs.AI,,AI
+152,STEAD,V,2608.03609,cs.AI,,AI
+153,Sentinel,V,2604.12177,cs.AI,,AI
+154,Temporal guardrails,V,,,SAIV,SE/FM/Security
+155,ToolGate,V,2601.04688,cs.CL,,NLP/IR
+156,TriCEGAR,V,2601.22997,cs.AI,,AI
+157,VerAct,V,,,ICLR workshop,ML
+158,Datla et al.,V,2512.04408,cs.AI,,AI
+159,Safety Chip,V,2309.09919,cs.RO,,Robotics
+160,LTLCrit,V,2507.03293,cs.AI,,AI
+161,PAT-Agent,V,2509.23675,cs.SE,,SE/FM/Security
+162,VeriGuard,V,2510.05156,cs.SE,,SE/FM/Security
+163,VeriPlan,P,2502.17898,cs.HC,,Other
+164,Agentic model checking,V,2605.21434,cs.SE,,SE/FM/Security
+165,SMT compliance,V,2603.20449,cs.SE,,SE/FM/Security
+166,SayPlan,P,2307.06135,cs.RO,,Robotics
+167,Text2Motion,P,2303.12153,cs.RO,,Robotics
+168,Plan-on-Graph (PoG),M,2410.23875,cs.AI,,AI
+169,ISR-LLM,P,2308.13724,cs.RO,,Robotics
+170,SayNav,P,2309.04077,cs.RO,,Robotics
+171,UniGoal,P,2503.10630,cs.CV,,Other
+172,KG-RAG,M,2405.12035,cs.AI,,AI
+173,COWP,P,2305.17590,cs.RO,,Robotics
+174,DoraemonGPT,M,2401.08392,cs.CV,,Other
+175,CoPAL,V,2310.07263,cs.RO,,Robotics
+176,Parse-and-Solve,P,2205.05718,cs.CL,,NLP/IR
+177,DRIFT,V,2506.12104,cs.CR,,SE/FM/Security
+178,RoboGuard,V,2503.07885,cs.RO,,Robotics
+179,ViLaIn,P,2311.00967,cs.RO,,Robotics
+180,InterPreT,P,2405.19758,cs.RO,,Robotics
+181,DovSG,M,2410.11989,cs.RO,,Robotics
+182,DELTA,P,2404.03275,cs.RO,,Robotics
+183,VisualPredicator,P,2410.23156,cs.AI,,AI
+184,Collaborative Memory,V,2505.18279,cs.MA,,AI
+185,Dai et al.,P,2309.09182,cs.RO,,Robotics
+186,GraphEQA,P,2412.14480,cs.RO,,Robotics
+187,KARMA,M,2409.14908,cs.RO,,Robotics
+188,AutoGPT+P,P,2402.10778,cs.RO,,Robotics
+189,OSG Navigator,P,2407.02473,cs.RO,,Robotics
+190,Hindsight (TEMPR/CARA),M,2512.12818,cs.CL,,NLP/IR
+191,BLADE,P,2505.21981,cs.RO,,Robotics
+192,NL2Plan,P,2405.04215,cs.AI,,AI
+193,EmbodiedRAG,M,2410.23968,cs.RO,,Robotics
+194,TTG,P,2410.16456,cs.CL,,NLP/IR
+195,TPVQA,P,2304.08587,cs.RO,,Robotics
+196,Planning in the Dark,P,2409.15915,cs.AI,,AI
+197,EffiQA,M,2406.01238,cs.CL,,NLP/IR
+198,Code World Models (CWM),P,2510.04542,cs.AI,,AI
+199,AEG (LLM-enhanced scene graph),P,2408.12093,cs.RO,,Robotics
+200,VeriSafe Agent,V,2503.18492,cs.HC,,Other
+201,LASP,P,2407.09792,cs.RO,,Robotics
+202,Consistent PDDL generation,P,2404.07751,cs.RO,,Robotics
